@@ -1,0 +1,12 @@
+{
+  "name": "shinzen-practice",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "start": "python3 scripts/serve.py --open",
+    "test": "node --check docs/app.js && node scripts/validate-training.mjs docs"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}

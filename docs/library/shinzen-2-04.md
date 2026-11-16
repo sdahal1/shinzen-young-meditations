@@ -1,0 +1,273 @@
+# Releasing Thoughts And Feelings Meditation
+
+Source: [2-04 Releasing Thoughts And Feelings Meditation.mp3](/Users/robdahal/Desktop/SelfEducation/04-Energy_work/Break%20through%20difficult%20emotions-Shinzen%20Young/2-04%20Releasing%20Thoughts%20And%20Feelings%20Meditation.mp3)
+
+Source ID: shinzen-2-04
+
+SHA-256: a3940fe63be4618b62a34d50a1577646fd8761e958e0f51292b9237bb0da56ef
+
+Method: Local MLX Whisper large-v3-turbo; Silero VAD cross-check and original-recording timestamps. Targeted corrections are documented in the review report.
+
+Accuracy: Full spoken-content transcription, including source claims and repetitions; not fully listening-verified.
+
+Duration: 00:15:13
+
+Review notes: Full no-VAD second pass compared with VAD pass; silence/music hallucinations removed. Approximate segment timestamps retain conservative speech padding.
+
+**[00:00:00–00:00:05]** Once again, take a moment to let your whole body settle.
+
+**[00:00:08–00:00:15]** And we're going to do a meditation to cover the entire emotion,
+
+**[00:00:17–00:00:22]** both in terms of its arising as thought
+
+**[00:00:22–00:00:29]** and how it is arising as feeling.
+
+**[00:00:37–00:00:39]** because this will be
+
+**[00:00:39–00:00:43]** a meditation of total release.
+
+**[00:00:48–00:00:51]** It will take even more concentration,
+
+**[00:00:57–00:00:59]** but has the advantage
+
+**[00:00:59–00:01:05]** of covering the entire suffering self
+
+**[00:01:05–00:01:13]** with clarity and gentle openness.
+
+**[00:01:29–00:01:37]** Whenever the difficult emotion arises in thought,
+
+**[00:01:39–00:01:44]** say to yourself, talking, if it's words,
+
+**[00:01:46–00:01:49]** imaging, if it's pictures and scenes,
+
+**[00:01:51–00:01:56]** and confusion, if that should arise.
+
+**[00:01:56–00:02:20]** And whenever the difficult emotion impacts as feeling, if the feeling is in one or several small areas, the throat, the chest, the stomach, etc., say local.
+
+**[00:02:20–00:02:31]** if it affects broadly, large regions, or if you feel it over your whole being, say global,
+
+**[00:02:34–00:02:47]** so that we will break down the difficult emotion into exactly five components.
+
+**[00:02:47–00:02:52]** not all of which might be present
+
+**[00:02:52–00:02:59]** talking, imaging, confusion
+
+**[00:02:59–00:03:03]** in the mind
+
+**[00:03:03–00:03:06]** and local
+
+**[00:03:06–00:03:09]** or global
+
+**[00:03:09–00:03:13]** arisings in the body
+
+**[00:03:13–00:03:19]** let your awareness freely circulate
+
+**[00:03:19–00:03:24]** within and between these five possibilities
+
+**[00:03:24–00:03:31]** trying to maintain a balance
+
+**[00:03:31–00:03:36]** of awareness in both mind and body
+
+**[00:03:36–00:03:40]** and at each new arising
+
+**[00:03:40–00:03:42]** at each transition
+
+**[00:03:42–00:03:44]** which will be every couple seconds.
+
+**[00:03:50–00:03:52]** Say to yourself
+
+**[00:03:52–00:03:54]** which one or several
+
+**[00:03:54–00:03:56]** of these components
+
+**[00:03:56–00:03:58]** is involved
+
+**[00:03:58–00:04:02]** and pour awareness
+
+**[00:04:02–00:04:04]** and acceptance on it
+
+**[00:04:04–00:04:06]** for a few seconds
+
+**[00:04:06–00:04:15]** and then be ready for the next arising within thought and feeling.
+
+**[00:04:15–00:04:25]** talking
+
+**[00:04:25–00:04:29]** local
+
+**[00:04:29–00:04:32]** local
+
+**[00:04:32–00:04:35]** global
+
+**[00:04:35–00:04:36]** like that
+
+**[00:04:36–00:04:41]** in a gentle and matter-of-fact way
+
+**[00:04:41–00:04:45]** give the difficult emotion
+
+**[00:04:45–00:04:49]** permission to last as long
+
+**[00:04:49–00:04:55]** or short
+
+**[00:04:55–00:04:58]** as it needs to.
+
+**[00:06:45–00:06:48]** The difficult emotion can only arise
+
+**[00:06:48–00:06:54]** as one or a combination of five components.
+
+**[00:07:00–00:07:04]** Talking, imaging, or confusion in the mind,
+
+**[00:07:05–00:07:09]** local or global impacts over the body.
+
+**[00:07:09–00:07:13]** be aware
+
+**[00:07:13–00:07:15]** open up
+
+**[00:07:19–00:07:22]** if you wish to say the labels out loud
+
+**[00:07:22–00:07:24]** to get more focus
+
+**[00:07:24–00:07:26]** fine
+
+**[00:07:26–00:07:28]** or if you
+
+**[00:07:28–00:07:30]** wish to drop the labeling
+
+**[00:07:30–00:07:32]** and just be aware
+
+**[00:07:32–00:07:34]** of the components
+
+**[00:07:34–00:07:36]** silently
+
+**[00:07:36–00:07:38]** that's fine too
+
+**[00:07:38–00:07:42]** feel free to switch back and forth
+
+**[00:07:42–00:07:43]** like gears in the car.
+
+**[00:07:45–00:07:48]** Encountering difficulty, going up a hill
+
+**[00:07:48–00:07:52]** actually speak the categories out loud.
+
+**[00:07:54–00:07:55]** But if you
+
+**[00:07:55–00:07:57]** are cruising
+
+**[00:07:57–00:08:02]** you can go into fourth gear
+
+**[00:08:02–00:08:06]** and do it with direct awareness.
+
+**[00:09:08–00:09:09]** In doing this,
+
+**[00:09:13–00:09:22]** you're not putting any new energy into the negative emotion,
+
+**[00:09:25–00:09:32]** either by fighting with it or by identifying with it.
+
+**[00:09:32–00:09:37]** this hands-off attitude
+
+**[00:09:37–00:09:45]** means that the emotion
+
+**[00:09:45–00:09:49]** is actually a release
+
+**[00:09:49–00:09:53]** rather than a suffering.
+
+**[00:10:00–00:10:01]** It's a purification
+
+**[00:10:01–00:10:05]** and empowerment
+
+**[00:10:05–00:10:12]** because of the way that you are experiencing
+
+**[00:10:12–00:10:14]** this present moment
+
+**[00:10:14–00:10:19]** limiting forces from the past
+
+**[00:10:19–00:10:21]** the stored poison and pain of your
+
+**[00:10:21–00:10:25]** past similar experiences
+
+**[00:10:25–00:10:28]** are being worked out
+
+**[00:10:28–00:10:35]** and because
+
+**[00:10:35–00:10:40]** it reduces suffering in the present
+
+**[00:10:40–00:10:44]** you'll be less likely
+
+**[00:10:44–00:10:48]** to respond inappropriately
+
+**[00:10:48–00:10:51]** and therefore
+
+**[00:10:51–00:10:54]** you'll be creating a brighter future
+
+**[00:10:54–00:11:00]** so even though it may be very challenging
+
+**[00:11:00–00:11:07]** try to continue to cover the whole phenomenon
+
+**[00:11:07–00:11:11]** in both mind and body
+
+**[00:11:11–00:11:13]** keeping track of the components
+
+**[00:11:13–00:11:22]** and infusing them with a gentle
+
+**[00:11:22–00:11:26]** loving matter-of-factness
+
+**[00:11:26–00:11:34]** letting them dance their dance
+
+**[00:11:34–00:11:40]** and live their life as a kind of energy
+
+**[00:11:40–00:11:45]** passing through the feeling space of the body
+
+**[00:11:45–00:11:51]** and the thinking space of the mind.
+
+**[00:12:20–00:12:30]** As you do this, you may notice that a kind of repetitive rhythm develops.
+
+**[00:12:34–00:12:43]** A thought will then lead to a local impact, and then that will lead to a global spread of sensation.
+
+**[00:12:43–00:12:52]** Although it's not always in that pattern
+
+**[00:12:52–00:12:56]** there is a tendency
+
+**[00:12:56–00:13:00]** for such rhythmic patterns to develop
+
+**[00:13:00–00:13:06]** Almost like rainwater on a lake
+
+**[00:13:06–00:13:09]** the drop falls
+
+**[00:13:09–00:13:11]** that's the thought
+
+**[00:13:11–00:13:16]** It hits the water and splashes, that's the local impact,
+
+**[00:13:16–00:13:18]** and then the ripples spread through the whole pond.
+
+**[00:13:20–00:13:24]** If you find yourself getting into a rhythm like that,
+
+**[00:13:26–00:13:33]** talking, local, global, image, confusion, local, global, like that,
+
+**[00:13:33–00:13:40]** then just flow with that rhythm
+
+**[00:13:40–00:13:44]** and experience it as a releasing process.
+
+**[00:13:49–00:13:52]** The stored energy in the unconscious
+
+**[00:13:52–00:13:56]** turning into the kinetic energy of thought,
+
+**[00:13:58–00:13:59]** which then
+
+**[00:13:59–00:14:02]** splashes
+
+**[00:14:02–00:14:05]** and releases
+
+**[00:14:05–00:14:09]** and is dissipated through the whole body
+
+**[00:14:09–00:14:11]** and then out into space
+
+**[00:14:11–00:14:16]** and released forever.
+
+**[00:14:18–00:14:22]** This is the process of purification,
+
+**[00:14:25–00:14:28]** the cleansing from the deep unconscious
+
+**[00:14:28–00:14:33]** through the conscious mind and body
+
+**[00:14:33–00:14:38]** and the releasing back
+
+**[00:14:38–00:14:42]** to the source.

@@ -1,0 +1,31 @@
+{
+  "status": "complete_with_documented_transcription_limitations",
+  "sourceFilesUnchanged": 45,
+  "counts": {
+    "integra": {
+      "recordings": 30,
+      "transcriptWords": 23799,
+      "durationSeconds": 13587.840124999999,
+      "handouts": 3,
+      "pdfPages": 395
+    },
+    "shinzen": {
+      "recordings": 12,
+      "transcriptWords": 13259,
+      "durationSeconds": 9589.4205,
+      "handouts": 0,
+      "pdfPages": 114
+    }
+  },
+  "checks": [
+    "42 recording transcripts with valid bounded timestamps",
+    "All final source segments and handout text present in PDFs (checked after removing headers/footers)",
+    "3 handouts match pypdf/pdfplumber ignoring whitespace",
+    "All practice branches, selected-entry handoff isolation, backup validation, clipboard fallback and storage failure tested",
+    "Original book app regression suite passes",
+    "390-pixel mobile layouts and 1280-pixel laptop layout inspected",
+    "Representative PDF covers, contents, lesson diagrams, practices, transcripts and end pages visually inspected"
+  ],
+  "limitations": "Automatic transcription and video OCR; not every word has been listening-verified. See quality-report.json for correction log and source-specific limits.",
+  "published": false
+}

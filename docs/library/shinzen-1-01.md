@@ -1,0 +1,19 @@
+# Introduction
+
+Source: [1-01 Introduction.mp3](/Users/robdahal/Desktop/SelfEducation/04-Energy_work/Break%20through%20difficult%20emotions-Shinzen%20Young/1-01%20Introduction.mp3)
+
+Source ID: shinzen-1-01
+
+SHA-256: 23b5674d6a821518c4fdefa4975ce572e05eaa996d64b22249a31c0d7d670460
+
+Method: Local MLX Whisper large-v3-turbo; Silero VAD cross-check and original-recording timestamps. Targeted corrections are documented in the review report.
+
+Accuracy: Full spoken-content transcription, including source claims and repetitions; not fully listening-verified.
+
+Duration: 00:00:44
+
+Review notes: Full no-VAD second pass compared with VAD pass; silence/music hallucinations removed. Approximate segment timestamps retain conservative speech padding.
+
+**[00:00:17–00:00:23]** Sounds True presents Break Through Difficult Emotions, with respected meditation teacher
+
+**[00:00:23–00:00:28]** and past professor of comparative religion, physics, and mathematics, Shinzen Young.

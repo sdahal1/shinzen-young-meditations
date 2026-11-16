@@ -1,0 +1,1410 @@
+{
+  "created": "2026-11-15",
+  "method": "Local MLX Whisper large-v3-turbo + Silero VAD; Apple Vision accurate OCR for Integra video slides; pypdf for handouts. No ChatCut or cloud transcription used.",
+  "mediaFiles": 42,
+  "totalDurationSeconds": 23176.98025,
+  "handouts": 3,
+  "handoutPages": 3,
+  "slideFrames": 3127,
+  "reviewPasses": 60,
+  "fullNoVADReviews": 21,
+  "limitations": [
+    "Automatic transcription, not fully human listening-verified. No measured word-error rate.",
+    "Second passes use the same ASR model; agreement is a consistency check, not independent accuracy proof.",
+    "Quiet dialogue, foreign terms, names and punctuation may still be wrong. Five quiet Integra replies are identified as on-screen-caption supplements.",
+    "Timestamps are approximate segment boundaries, not word alignment. Long silent meditation periods are intentional source intervals.",
+    "Video OCR uses scene changes sampled at 2 fps. Very short or transitional frames may be missed or partly recognized; images and raw OCR remain in processing.",
+    "Speakers are not automatically diarized; dialogue remains in recording order.",
+    "Full source claims are preserved; course explanations attribute spiritual and efficacy claims to the authors."
+  ],
+  "corrections": [
+    {
+      "id": "integra-02",
+      "start": 103.32,
+      "before": " Integrate Protocol System consists of three methods,",
+      "after": " Integra Protocol System consists of three methods,",
+      "reason": "Method name supported by source titles and slides."
+    },
+    {
+      "id": "integra-02",
+      "start": 111.92,
+      "before": " how to apply all three Integrate Protocol methods",
+      "after": " how to apply all three Integra Protocol methods",
+      "reason": "Method name supported by source titles and slides."
+    },
+    {
+      "id": "integra-03",
+      "start": 77.35,
+      "before": " When I apply Integral Protocol on this problem, I will clear charge related to it and I will be able to speak in public without fear.",
+      "after": " When I apply Integra Protocol on this problem, I will clear charge related to it and I will be able to speak in public without fear.",
+      "reason": "Method name supported by source titles and slides."
+    },
+    {
+      "id": "integra-03",
+      "start": 88.96,
+      "before": " What does it mean to apply Integral Protocol on a goal?",
+      "after": " What does it mean to apply Integra Protocol on a goal?",
+      "reason": "Method name supported by source titles and slides."
+    },
+    {
+      "id": "integra-03",
+      "start": 114.44,
+      "before": " When I apply Integral Protocol on this goal, I can release negative reactions associated with my goal, and I can bring myself into a state from which I can take action.",
+      "after": " When I apply Integra Protocol on this goal, I can release negative reactions associated with my goal, and I can bring myself into a state from which I can take action.",
+      "reason": "Method name supported by source titles and slides."
+    },
+    {
+      "id": "integra-06",
+      "start": 152.72,
+      "before": " the main operating principle of INTEGR protocol.",
+      "after": " the main operating principle of Integra Protocol.",
+      "reason": "Method name supported by source titles and slides."
+    },
+    {
+      "id": "integra-12",
+      "start": 135.79,
+      "before": " If the client wants to apply integral protocol on a problem, for example, public speaking, I will ask,",
+      "after": " If the client wants to apply Integra Protocol on a problem, for example, public speaking, I will ask,",
+      "reason": "Method name supported by source titles and slides."
+    },
+    {
+      "id": "integra-12",
+      "start": 372.34,
+      "before": " first step is using integral protocol to integrate negative thoughts and emotions",
+      "after": " first step is using Integra Protocol to integrate negative thoughts and emotions",
+      "reason": "Method name supported by source titles and slides."
+    },
+    {
+      "id": "integra-15",
+      "start": 95.51,
+      "before": " Fill X and tell me, is there anything bad about it?",
+      "after": " Feel X and tell me, is there anything bad about it?",
+      "reason": "Instruction wording confirmed by handout and slides."
+    },
+    {
+      "id": "integra-15",
+      "start": 273.79,
+      "before": " to fill X first, and then to redirect attention to themselves, to their I, to their identity,",
+      "after": " to feel X first, and then to redirect attention to themselves, to their I, to their identity,",
+      "reason": "Instruction wording confirmed by handout and slides."
+    },
+    {
+      "id": "integra-15",
+      "start": 769.2,
+      "before": " 3. The client cannot fill the original problem, but some other problem is there.",
+      "after": " 3. The client cannot feel the original problem, but some other problem is there.",
+      "reason": "Instruction wording confirmed by handout and slides."
+    },
+    {
+      "id": "integra-15",
+      "start": 775.6,
+      "before": " In cases 2 and 3, you could repeat the process until the client cannot fill the problem any longer.",
+      "after": " In cases 2 and 3, you could repeat the process until the client cannot feel the problem any longer.",
+      "reason": "Instruction wording confirmed by handout and slides."
+    },
+    {
+      "id": "integra-16",
+      "start": 64,
+      "before": "",
+      "after": "It did not need to go that way.",
+      "reason": "Recovered quiet response as explicitly labeled on-screen caption, not claimed as verified speech."
+    },
+    {
+      "id": "integra-16",
+      "start": 76,
+      "before": "",
+      "after": "I am angry.",
+      "reason": "Recovered quiet response as explicitly labeled on-screen caption, not claimed as verified speech."
+    },
+    {
+      "id": "integra-16",
+      "start": 206,
+      "before": "",
+      "after": "No, that’s all.",
+      "reason": "Recovered quiet response as explicitly labeled on-screen caption, not claimed as verified speech."
+    },
+    {
+      "id": "integra-16",
+      "start": 356,
+      "before": "",
+      "after": "No.",
+      "reason": "Recovered quiet response as explicitly labeled on-screen caption, not claimed as verified speech."
+    },
+    {
+      "id": "integra-20",
+      "start": 247.89,
+      "before": " If they are mixed all the way and you cannot fill them separately, that's integration by merging.",
+      "after": " If they are mixed all the way and you cannot feel them separately, that's integration by merging.",
+      "reason": "Instruction wording confirmed by handout and slides."
+    },
+    {
+      "id": "integra-20",
+      "start": 267.75,
+      "before": " This means if you cannot fill them separately,",
+      "after": " This means if you cannot feel them separately,",
+      "reason": "Instruction wording confirmed by handout and slides."
+    },
+    {
+      "id": "integra-20",
+      "start": 285.54,
+      "before": " However, if you can still fill them separately,",
+      "after": " However, if you can still feel them separately,",
+      "reason": "Instruction wording confirmed by handout and slides."
+    },
+    {
+      "id": "integra-20",
+      "start": 520.24,
+      "before": " When the conflicted identities integrate and you cannot fill them separately,",
+      "after": " When the conflicted identities integrate and you cannot feel them separately,",
+      "reason": "Instruction wording confirmed by handout and slides."
+    },
+    {
+      "id": "integra-20",
+      "start": 628.58,
+      "before": " After you ask questions 14 and 15, if the client cannot fill them separately, the process is completed.",
+      "after": " After you ask questions 14 and 15, if the client cannot feel them separately, the process is completed.",
+      "reason": "Instruction wording confirmed by handout and slides."
+    },
+    {
+      "id": "integra-20",
+      "start": 637.74,
+      "before": " But if they can, we go to question 60.",
+      "after": " But if they can, we go to question 16.",
+      "reason": "On-screen slide and Standard v5 handout confirm question 16."
+    },
+    {
+      "id": "integra-20",
+      "start": 815.97,
+      "before": " And this may happen after questions 11 or 50.",
+      "after": " And this may happen after questions 11 or 15.",
+      "reason": "Standard v5 handout and slide confirm question 15."
+    },
+    {
+      "id": "integra-25",
+      "start": 522.5,
+      "before": " Note, when guiding someone through integral protocol methods for the first time, never start with the advanced method.",
+      "after": " Note, when guiding someone through Integra Protocol methods for the first time, never start with the advanced method.",
+      "reason": "Method name supported by source titles and slides."
+    },
+    {
+      "id": "integra-30",
+      "start": 55.15,
+      "before": " The best way out is always true.",
+      "after": " The best way out is always through.",
+      "reason": "Exact on-screen quotation confirms through."
+    },
+    {
+      "id": "shinzen-1-01",
+      "start": 30.0,
+      "before": " Fći Pudod",
+      "after": "",
+      "reason": "Removed second-pass hallucination in pause/music; absent from primary VAD transcript and no corresponding speech region."
+    },
+    {
+      "id": "shinzen-1-01",
+      "start": 17.58,
+      "before": " Sounds True presents Breakthrough Difficulty Motions, with respected meditation teacher",
+      "after": " Sounds True presents Break Through Difficult Emotions, with respected meditation teacher",
+      "reason": "Recording title normalized to supplied course title."
+    },
+    {
+      "id": "shinzen-1-07",
+      "start": 350.76,
+      "before": " O Pets of the Jacket",
+      "after": "",
+      "reason": "Removed second-pass hallucination in pause/music; absent from primary VAD transcript and no corresponding speech region."
+    },
+    {
+      "id": "shinzen-1-07",
+      "start": 307.372,
+      "before": " This concludes Session 1 of Breakthrough Difficulty Motions with Shinzen Young.",
+      "after": " This concludes Session 1 of Break Through Difficult Emotions with Shinzen Young.",
+      "reason": "Recording title normalized to supplied course title."
+    },
+    {
+      "id": "shinzen-1-07",
+      "start": 313.0,
+      "before": " Shakahachi Flute Music by Stan Richardson.",
+      "after": " Shakuhachi Flute Music by Stan Richardson.",
+      "reason": "Obvious instrument spelling normalization; original ASR retained in processing files."
+    },
+    {
+      "id": "shinzen-1-07",
+      "start": 337.64,
+      "before": " Breakthrough Difficult Emotions with Shinzen Young continues with a series of guided meditations.",
+      "after": " Break Through Difficult Emotions with Shinzen Young continues with a series of guided meditations.",
+      "reason": "Recording title normalized to supplied course title."
+    },
+    {
+      "id": "shinzen-2-01",
+      "start": 109.08,
+      "before": " Thank you.",
+      "after": "",
+      "reason": "Removed second-pass hallucination in pause/music; absent from primary VAD transcript and no corresponding speech region."
+    },
+    {
+      "id": "shinzen-2-02",
+      "start": 301.7,
+      "before": " Thank you.",
+      "after": "",
+      "reason": "Removed second-pass hallucination in pause/music; absent from primary VAD transcript and no corresponding speech region."
+    },
+    {
+      "id": "shinzen-2-02",
+      "start": 417.52,
+      "before": " Thank you.",
+      "after": "",
+      "reason": "Removed second-pass hallucination in pause/music; absent from primary VAD transcript and no corresponding speech region."
+    },
+    {
+      "id": "shinzen-2-02",
+      "start": 500.98,
+      "before": " Thank you.",
+      "after": "",
+      "reason": "Removed second-pass hallucination in pause/music; absent from primary VAD transcript and no corresponding speech region."
+    },
+    {
+      "id": "shinzen-2-02",
+      "start": 700.22,
+      "before": " Thank you.",
+      "after": "",
+      "reason": "Removed second-pass hallucination in pause/music; absent from primary VAD transcript and no corresponding speech region."
+    },
+    {
+      "id": "shinzen-2-02",
+      "start": 998.0,
+      "before": " Thank you.",
+      "after": "",
+      "reason": "Removed second-pass hallucination in pause/music; absent from primary VAD transcript and no corresponding speech region."
+    },
+    {
+      "id": "shinzen-2-02",
+      "start": 1028.0,
+      "before": " . . .",
+      "after": "",
+      "reason": "Removed second-pass hallucination in pause/music; absent from primary VAD transcript and no corresponding speech region."
+    },
+    {
+      "id": "shinzen-2-02",
+      "start": 1196.06,
+      "before": " Thank you.",
+      "after": "",
+      "reason": "Removed second-pass hallucination in pause/music; absent from primary VAD transcript and no corresponding speech region."
+    },
+    {
+      "id": "shinzen-2-02",
+      "start": 1226.06,
+      "before": " Thank you.",
+      "after": "",
+      "reason": "Removed second-pass hallucination in pause/music; absent from primary VAD transcript and no corresponding speech region."
+    },
+    {
+      "id": "shinzen-2-02",
+      "start": 1256.06,
+      "before": " Thank you.",
+      "after": "",
+      "reason": "Removed second-pass hallucination in pause/music; absent from primary VAD transcript and no corresponding speech region."
+    },
+    {
+      "id": "shinzen-2-02",
+      "start": 1346.06,
+      "before": " Thank you.",
+      "after": "",
+      "reason": "Removed second-pass hallucination in pause/music; absent from primary VAD transcript and no corresponding speech region."
+    },
+    {
+      "id": "shinzen-2-03",
+      "start": 106.34,
+      "before": " . . .",
+      "after": "",
+      "reason": "Removed second-pass hallucination in pause/music; absent from primary VAD transcript and no corresponding speech region."
+    },
+    {
+      "id": "shinzen-2-03",
+      "start": 164.34,
+      "before": " Thank you.",
+      "after": "",
+      "reason": "Removed second-pass hallucination in pause/music; absent from primary VAD transcript and no corresponding speech region."
+    },
+    {
+      "id": "shinzen-2-03",
+      "start": 194.34,
+      "before": " Thank you.",
+      "after": "",
+      "reason": "Removed second-pass hallucination in pause/music; absent from primary VAD transcript and no corresponding speech region."
+    },
+    {
+      "id": "shinzen-2-03",
+      "start": 340.96,
+      "before": " Thank you.",
+      "after": "",
+      "reason": "Removed second-pass hallucination in pause/music; absent from primary VAD transcript and no corresponding speech region."
+    },
+    {
+      "id": "shinzen-2-03",
+      "start": 518.46,
+      "before": " Thank you.",
+      "after": "",
+      "reason": "Removed second-pass hallucination in pause/music; absent from primary VAD transcript and no corresponding speech region."
+    },
+    {
+      "id": "shinzen-2-03",
+      "start": 548.46,
+      "before": " Thank you.",
+      "after": "",
+      "reason": "Removed second-pass hallucination in pause/music; absent from primary VAD transcript and no corresponding speech region."
+    },
+    {
+      "id": "shinzen-2-03",
+      "start": 690.42,
+      "before": " Thank you.",
+      "after": "",
+      "reason": "Removed second-pass hallucination in pause/music; absent from primary VAD transcript and no corresponding speech region."
+    },
+    {
+      "id": "shinzen-2-03",
+      "start": 796.58,
+      "before": " Thank you.",
+      "after": "",
+      "reason": "Removed second-pass hallucination in pause/music; absent from primary VAD transcript and no corresponding speech region."
+    },
+    {
+      "id": "shinzen-2-03",
+      "start": 886.58,
+      "before": " It is and is",
+      "after": "",
+      "reason": "Removed second-pass hallucination in pause/music; absent from primary VAD transcript and no corresponding speech region."
+    },
+    {
+      "id": "shinzen-2-03",
+      "start": 890.9200000000001,
+      "before": " for you.",
+      "after": "",
+      "reason": "Removed second-pass hallucination in pause/music; absent from primary VAD transcript and no corresponding speech region."
+    },
+    {
+      "id": "shinzen-2-03",
+      "start": 892.9200000000001,
+      "before": " It is",
+      "after": "",
+      "reason": "Removed second-pass hallucination in pause/music; absent from primary VAD transcript and no corresponding speech region."
+    },
+    {
+      "id": "shinzen-2-03",
+      "start": 894.9000000000001,
+      "before": " and is",
+      "after": "",
+      "reason": "Removed second-pass hallucination in pause/music; absent from primary VAD transcript and no corresponding speech region."
+    },
+    {
+      "id": "shinzen-2-03",
+      "start": 896.58,
+      "before": " in",
+      "after": "",
+      "reason": "Removed second-pass hallucination in pause/music; absent from primary VAD transcript and no corresponding speech region."
+    },
+    {
+      "id": "shinzen-2-03",
+      "start": 897.6,
+      "before": " the",
+      "after": "",
+      "reason": "Removed second-pass hallucination in pause/music; absent from primary VAD transcript and no corresponding speech region."
+    },
+    {
+      "id": "shinzen-2-03",
+      "start": 898.8000000000001,
+      "before": " N",
+      "after": "",
+      "reason": "Removed second-pass hallucination in pause/music; absent from primary VAD transcript and no corresponding speech region."
+    },
+    {
+      "id": "shinzen-2-03",
+      "start": 899.6,
+      "before": " in",
+      "after": "",
+      "reason": "Removed second-pass hallucination in pause/music; absent from primary VAD transcript and no corresponding speech region."
+    },
+    {
+      "id": "shinzen-2-03",
+      "start": 900.4200000000001,
+      "before": " the",
+      "after": "",
+      "reason": "Removed second-pass hallucination in pause/music; absent from primary VAD transcript and no corresponding speech region."
+    },
+    {
+      "id": "shinzen-2-03",
+      "start": 900.9200000000001,
+      "before": " B",
+      "after": "",
+      "reason": "Removed second-pass hallucination in pause/music; absent from primary VAD transcript and no corresponding speech region."
+    },
+    {
+      "id": "shinzen-2-03",
+      "start": 901.4200000000001,
+      "before": " in",
+      "after": "",
+      "reason": "Removed second-pass hallucination in pause/music; absent from primary VAD transcript and no corresponding speech region."
+    },
+    {
+      "id": "shinzen-2-03",
+      "start": 902.14,
+      "before": " the",
+      "after": "",
+      "reason": "Removed second-pass hallucination in pause/music; absent from primary VAD transcript and no corresponding speech region."
+    },
+    {
+      "id": "shinzen-2-03",
+      "start": 902.6,
+      "before": " B",
+      "after": "",
+      "reason": "Removed second-pass hallucination in pause/music; absent from primary VAD transcript and no corresponding speech region."
+    },
+    {
+      "id": "shinzen-2-03",
+      "start": 903.22,
+      "before": " in",
+      "after": "",
+      "reason": "Removed second-pass hallucination in pause/music; absent from primary VAD transcript and no corresponding speech region."
+    },
+    {
+      "id": "shinzen-2-03",
+      "start": 903.5200000000001,
+      "before": " the",
+      "after": "",
+      "reason": "Removed second-pass hallucination in pause/music; absent from primary VAD transcript and no corresponding speech region."
+    },
+    {
+      "id": "shinzen-2-03",
+      "start": 903.94,
+      "before": " B",
+      "after": "",
+      "reason": "Removed second-pass hallucination in pause/music; absent from primary VAD transcript and no corresponding speech region."
+    },
+    {
+      "id": "shinzen-2-03",
+      "start": 904.3000000000001,
+      "before": " in",
+      "after": "",
+      "reason": "Removed second-pass hallucination in pause/music; absent from primary VAD transcript and no corresponding speech region."
+    },
+    {
+      "id": "shinzen-2-03",
+      "start": 904.5,
+      "before": " the",
+      "after": "",
+      "reason": "Removed second-pass hallucination in pause/music; absent from primary VAD transcript and no corresponding speech region."
+    },
+    {
+      "id": "shinzen-2-03",
+      "start": 904.64,
+      "before": " B",
+      "after": "",
+      "reason": "Removed second-pass hallucination in pause/music; absent from primary VAD transcript and no corresponding speech region."
+    },
+    {
+      "id": "shinzen-2-03",
+      "start": 904.7800000000001,
+      "before": " in",
+      "after": "",
+      "reason": "Removed second-pass hallucination in pause/music; absent from primary VAD transcript and no corresponding speech region."
+    },
+    {
+      "id": "shinzen-2-03",
+      "start": 904.9200000000001,
+      "before": " the",
+      "after": "",
+      "reason": "Removed second-pass hallucination in pause/music; absent from primary VAD transcript and no corresponding speech region."
+    },
+    {
+      "id": "shinzen-2-03",
+      "start": 905.0600000000001,
+      "before": " B",
+      "after": "",
+      "reason": "Removed second-pass hallucination in pause/music; absent from primary VAD transcript and no corresponding speech region."
+    },
+    {
+      "id": "shinzen-2-03",
+      "start": 905.14,
+      "before": " in",
+      "after": "",
+      "reason": "Removed second-pass hallucination in pause/music; absent from primary VAD transcript and no corresponding speech region."
+    },
+    {
+      "id": "shinzen-2-03",
+      "start": 905.26,
+      "before": " the",
+      "after": "",
+      "reason": "Removed second-pass hallucination in pause/music; absent from primary VAD transcript and no corresponding speech region."
+    },
+    {
+      "id": "shinzen-2-03",
+      "start": 905.38,
+      "before": " B",
+      "after": "",
+      "reason": "Removed second-pass hallucination in pause/music; absent from primary VAD transcript and no corresponding speech region."
+    },
+    {
+      "id": "shinzen-2-03",
+      "start": 905.36,
+      "before": " in",
+      "after": "",
+      "reason": "Removed second-pass hallucination in pause/music; absent from primary VAD transcript and no corresponding speech region."
+    },
+    {
+      "id": "shinzen-2-03",
+      "start": 905.44,
+      "before": " the",
+      "after": "",
+      "reason": "Removed second-pass hallucination in pause/music; absent from primary VAD transcript and no corresponding speech region."
+    },
+    {
+      "id": "shinzen-2-03",
+      "start": 905.48,
+      "before": "",
+      "after": "",
+      "reason": "Removed second-pass hallucination in pause/music; absent from primary VAD transcript and no corresponding speech region."
+    },
+    {
+      "id": "shinzen-2-03",
+      "start": 905.48,
+      "before": " in",
+      "after": "",
+      "reason": "Removed second-pass hallucination in pause/music; absent from primary VAD transcript and no corresponding speech region."
+    },
+    {
+      "id": "shinzen-2-03",
+      "start": 905.5600000000001,
+      "before": " the",
+      "after": "",
+      "reason": "Removed second-pass hallucination in pause/music; absent from primary VAD transcript and no corresponding speech region."
+    },
+    {
+      "id": "shinzen-2-03",
+      "start": 905.64,
+      "before": " B",
+      "after": "",
+      "reason": "Removed second-pass hallucination in pause/music; absent from primary VAD transcript and no corresponding speech region."
+    },
+    {
+      "id": "shinzen-2-03",
+      "start": 905.6,
+      "before": " in",
+      "after": "",
+      "reason": "Removed second-pass hallucination in pause/music; absent from primary VAD transcript and no corresponding speech region."
+    },
+    {
+      "id": "shinzen-2-03",
+      "start": 905.6800000000001,
+      "before": " the",
+      "after": "",
+      "reason": "Removed second-pass hallucination in pause/music; absent from primary VAD transcript and no corresponding speech region."
+    },
+    {
+      "id": "shinzen-2-03",
+      "start": 905.76,
+      "before": " B",
+      "after": "",
+      "reason": "Removed second-pass hallucination in pause/music; absent from primary VAD transcript and no corresponding speech region."
+    },
+    {
+      "id": "shinzen-2-03",
+      "start": 905.8000000000001,
+      "before": " in",
+      "after": "",
+      "reason": "Removed second-pass hallucination in pause/music; absent from primary VAD transcript and no corresponding speech region."
+    },
+    {
+      "id": "shinzen-2-03",
+      "start": 905.82,
+      "before": " the",
+      "after": "",
+      "reason": "Removed second-pass hallucination in pause/music; absent from primary VAD transcript and no corresponding speech region."
+    },
+    {
+      "id": "shinzen-2-03",
+      "start": 905.88,
+      "before": " B",
+      "after": "",
+      "reason": "Removed second-pass hallucination in pause/music; absent from primary VAD transcript and no corresponding speech region."
+    },
+    {
+      "id": "shinzen-2-03",
+      "start": 905.9000000000001,
+      "before": " in",
+      "after": "",
+      "reason": "Removed second-pass hallucination in pause/music; absent from primary VAD transcript and no corresponding speech region."
+    },
+    {
+      "id": "shinzen-2-03",
+      "start": 905.94,
+      "before": " the",
+      "after": "",
+      "reason": "Removed second-pass hallucination in pause/music; absent from primary VAD transcript and no corresponding speech region."
+    },
+    {
+      "id": "shinzen-2-03",
+      "start": 905.98,
+      "before": "",
+      "after": "",
+      "reason": "Removed second-pass hallucination in pause/music; absent from primary VAD transcript and no corresponding speech region."
+    },
+    {
+      "id": "shinzen-2-03",
+      "start": 905.98,
+      "before": " in",
+      "after": "",
+      "reason": "Removed second-pass hallucination in pause/music; absent from primary VAD transcript and no corresponding speech region."
+    },
+    {
+      "id": "shinzen-2-03",
+      "start": 906.0400000000001,
+      "before": "",
+      "after": "",
+      "reason": "Removed second-pass hallucination in pause/music; absent from primary VAD transcript and no corresponding speech region."
+    },
+    {
+      "id": "shinzen-2-03",
+      "start": 906.0400000000001,
+      "before": "",
+      "after": "",
+      "reason": "Removed second-pass hallucination in pause/music; absent from primary VAD transcript and no corresponding speech region."
+    },
+    {
+      "id": "shinzen-2-03",
+      "start": 906.0400000000001,
+      "before": " in",
+      "after": "",
+      "reason": "Removed second-pass hallucination in pause/music; absent from primary VAD transcript and no corresponding speech region."
+    },
+    {
+      "id": "shinzen-2-03",
+      "start": 906.08,
+      "before": " the",
+      "after": "",
+      "reason": "Removed second-pass hallucination in pause/music; absent from primary VAD transcript and no corresponding speech region."
+    },
+    {
+      "id": "shinzen-2-03",
+      "start": 906.1,
+      "before": " B",
+      "after": "",
+      "reason": "Removed second-pass hallucination in pause/music; absent from primary VAD transcript and no corresponding speech region."
+    },
+    {
+      "id": "shinzen-2-03",
+      "start": 906.0600000000001,
+      "before": " in",
+      "after": "",
+      "reason": "Removed second-pass hallucination in pause/music; absent from primary VAD transcript and no corresponding speech region."
+    },
+    {
+      "id": "shinzen-2-03",
+      "start": 906.1,
+      "before": "",
+      "after": "",
+      "reason": "Removed second-pass hallucination in pause/music; absent from primary VAD transcript and no corresponding speech region."
+    },
+    {
+      "id": "shinzen-2-03",
+      "start": 906.1,
+      "before": " B",
+      "after": "",
+      "reason": "Removed second-pass hallucination in pause/music; absent from primary VAD transcript and no corresponding speech region."
+    },
+    {
+      "id": "shinzen-2-03",
+      "start": 906.0600000000001,
+      "before": " in",
+      "after": "",
+      "reason": "Removed second-pass hallucination in pause/music; absent from primary VAD transcript and no corresponding speech region."
+    },
+    {
+      "id": "shinzen-2-03",
+      "start": 906.12,
+      "before": "",
+      "after": "",
+      "reason": "Removed second-pass hallucination in pause/music; absent from primary VAD transcript and no corresponding speech region."
+    },
+    {
+      "id": "shinzen-2-03",
+      "start": 906.12,
+      "before": " B",
+      "after": "",
+      "reason": "Removed second-pass hallucination in pause/music; absent from primary VAD transcript and no corresponding speech region."
+    },
+    {
+      "id": "shinzen-2-03",
+      "start": 906.08,
+      "before": " in",
+      "after": "",
+      "reason": "Removed second-pass hallucination in pause/music; absent from primary VAD transcript and no corresponding speech region."
+    },
+    {
+      "id": "shinzen-2-03",
+      "start": 906.14,
+      "before": "",
+      "after": "",
+      "reason": "Removed second-pass hallucination in pause/music; absent from primary VAD transcript and no corresponding speech region."
+    },
+    {
+      "id": "shinzen-2-03",
+      "start": 906.14,
+      "before": " B",
+      "after": "",
+      "reason": "Removed second-pass hallucination in pause/music; absent from primary VAD transcript and no corresponding speech region."
+    },
+    {
+      "id": "shinzen-2-03",
+      "start": 906.08,
+      "before": " in",
+      "after": "",
+      "reason": "Removed second-pass hallucination in pause/music; absent from primary VAD transcript and no corresponding speech region."
+    },
+    {
+      "id": "shinzen-2-03",
+      "start": 906.14,
+      "before": "",
+      "after": "",
+      "reason": "Removed second-pass hallucination in pause/music; absent from primary VAD transcript and no corresponding speech region."
+    },
+    {
+      "id": "shinzen-2-03",
+      "start": 906.14,
+      "before": " B",
+      "after": "",
+      "reason": "Removed second-pass hallucination in pause/music; absent from primary VAD transcript and no corresponding speech region."
+    },
+    {
+      "id": "shinzen-2-03",
+      "start": 906.08,
+      "before": " in",
+      "after": "",
+      "reason": "Removed second-pass hallucination in pause/music; absent from primary VAD transcript and no corresponding speech region."
+    },
+    {
+      "id": "shinzen-2-03",
+      "start": 906.14,
+      "before": "",
+      "after": "",
+      "reason": "Removed second-pass hallucination in pause/music; absent from primary VAD transcript and no corresponding speech region."
+    },
+    {
+      "id": "shinzen-2-03",
+      "start": 906.14,
+      "before": " B",
+      "after": "",
+      "reason": "Removed second-pass hallucination in pause/music; absent from primary VAD transcript and no corresponding speech region."
+    },
+    {
+      "id": "shinzen-2-03",
+      "start": 906.08,
+      "before": " in",
+      "after": "",
+      "reason": "Removed second-pass hallucination in pause/music; absent from primary VAD transcript and no corresponding speech region."
+    },
+    {
+      "id": "shinzen-2-03",
+      "start": 906.14,
+      "before": "",
+      "after": "",
+      "reason": "Removed second-pass hallucination in pause/music; absent from primary VAD transcript and no corresponding speech region."
+    },
+    {
+      "id": "shinzen-2-03",
+      "start": 906.14,
+      "before": " B",
+      "after": "",
+      "reason": "Removed second-pass hallucination in pause/music; absent from primary VAD transcript and no corresponding speech region."
+    },
+    {
+      "id": "shinzen-2-03",
+      "start": 906.08,
+      "before": " in",
+      "after": "",
+      "reason": "Removed second-pass hallucination in pause/music; absent from primary VAD transcript and no corresponding speech region."
+    },
+    {
+      "id": "shinzen-2-03",
+      "start": 906.14,
+      "before": "",
+      "after": "",
+      "reason": "Removed second-pass hallucination in pause/music; absent from primary VAD transcript and no corresponding speech region."
+    },
+    {
+      "id": "shinzen-2-03",
+      "start": 906.14,
+      "before": " B",
+      "after": "",
+      "reason": "Removed second-pass hallucination in pause/music; absent from primary VAD transcript and no corresponding speech region."
+    },
+    {
+      "id": "shinzen-2-03",
+      "start": 906.1,
+      "before": " in",
+      "after": "",
+      "reason": "Removed second-pass hallucination in pause/music; absent from primary VAD transcript and no corresponding speech region."
+    },
+    {
+      "id": "shinzen-2-03",
+      "start": 906.14,
+      "before": "",
+      "after": "",
+      "reason": "Removed second-pass hallucination in pause/music; absent from primary VAD transcript and no corresponding speech region."
+    },
+    {
+      "id": "shinzen-2-03",
+      "start": 906.14,
+      "before": " B",
+      "after": "",
+      "reason": "Removed second-pass hallucination in pause/music; absent from primary VAD transcript and no corresponding speech region."
+    },
+    {
+      "id": "shinzen-2-03",
+      "start": 906.1,
+      "before": " in",
+      "after": "",
+      "reason": "Removed second-pass hallucination in pause/music; absent from primary VAD transcript and no corresponding speech region."
+    },
+    {
+      "id": "shinzen-2-03",
+      "start": 906.14,
+      "before": "",
+      "after": "",
+      "reason": "Removed second-pass hallucination in pause/music; absent from primary VAD transcript and no corresponding speech region."
+    },
+    {
+      "id": "shinzen-2-04",
+      "start": 315.2,
+      "before": " Thank you.",
+      "after": "",
+      "reason": "Removed second-pass hallucination in pause/music; absent from primary VAD transcript and no corresponding speech region."
+    },
+    {
+      "id": "shinzen-2-04",
+      "start": 345.2,
+      "before": " Thank you.",
+      "after": "",
+      "reason": "Removed second-pass hallucination in pause/music; absent from primary VAD transcript and no corresponding speech region."
+    },
+    {
+      "id": "shinzen-2-04",
+      "start": 375.2,
+      "before": " Thank you.",
+      "after": "",
+      "reason": "Removed second-pass hallucination in pause/music; absent from primary VAD transcript and no corresponding speech region."
+    },
+    {
+      "id": "shinzen-2-04",
+      "start": 488.38,
+      "before": " Thank you.",
+      "after": "",
+      "reason": "Removed second-pass hallucination in pause/music; absent from primary VAD transcript and no corresponding speech region."
+    },
+    {
+      "id": "shinzen-2-04",
+      "start": 518.38,
+      "before": " Thank you.",
+      "after": "",
+      "reason": "Removed second-pass hallucination in pause/music; absent from primary VAD transcript and no corresponding speech region."
+    },
+    {
+      "id": "shinzen-2-04",
+      "start": 712.5,
+      "before": " . . .",
+      "after": "",
+      "reason": "Removed second-pass hallucination in pause/music; absent from primary VAD transcript and no corresponding speech region."
+    },
+    {
+      "id": "shinzen-2-04",
+      "start": 898.56,
+      "before": " Thank you.",
+      "after": "",
+      "reason": "Removed second-pass hallucination in pause/music; absent from primary VAD transcript and no corresponding speech region."
+    },
+    {
+      "id": "shinzen-2-05",
+      "start": 186.78,
+      "before": " . . .",
+      "after": "",
+      "reason": "Removed second-pass hallucination in pause/music; absent from primary VAD transcript and no corresponding speech region."
+    },
+    {
+      "id": "shinzen-2-05",
+      "start": 364.78,
+      "before": " Thank you.",
+      "after": "",
+      "reason": "Removed second-pass hallucination in pause/music; absent from primary VAD transcript and no corresponding speech region."
+    },
+    {
+      "id": "shinzen-2-05",
+      "start": 479.46,
+      "before": " Thank you.",
+      "after": "",
+      "reason": "Removed second-pass hallucination in pause/music; absent from primary VAD transcript and no corresponding speech region."
+    },
+    {
+      "id": "shinzen-2-05",
+      "start": 509.46,
+      "before": " Thank you.",
+      "after": "",
+      "reason": "Removed second-pass hallucination in pause/music; absent from primary VAD transcript and no corresponding speech region."
+    },
+    {
+      "id": "shinzen-2-05",
+      "start": 728.2,
+      "before": " Thank you.",
+      "after": "",
+      "reason": "Removed second-pass hallucination in pause/music; absent from primary VAD transcript and no corresponding speech region."
+    },
+    {
+      "id": "shinzen-2-05",
+      "start": 1487.82,
+      "before": " Thank you.",
+      "after": "",
+      "reason": "Removed second-pass hallucination in pause/music; absent from primary VAD transcript and no corresponding speech region."
+    }
+  ],
+  "sources": [
+    {
+      "id": "integra-01",
+      "kind": "media",
+      "filename": "01 about integra protocol digital seminar.mp4",
+      "sha256": "e026997c42ac4c92b27f5024621912d4992aea061098caa98ddd4e03fbfcf286",
+      "duration": 267.968,
+      "words": 453,
+      "flags": []
+    },
+    {
+      "id": "integra-02",
+      "kind": "media",
+      "filename": "02 what is integra protocol.mp4",
+      "sha256": "61c8f7002fbf65138d5d3935db171fc51381d29beec7a960d408ff01827a5b92",
+      "duration": 122.0053125,
+      "words": 191,
+      "flags": []
+    },
+    {
+      "id": "integra-03",
+      "kind": "media",
+      "filename": "03 three topics of application.mp4",
+      "sha256": "d37a99b44850b1bf42648db38bfded5f791a67f32d2d3f37a4f583ede7430da4",
+      "duration": 160.0,
+      "words": 336,
+      "flags": []
+    },
+    {
+      "id": "integra-04",
+      "kind": "media",
+      "filename": "04 four elements of emotional and mental charge.mp4",
+      "sha256": "af22a5c12e6995e4659c4259fb066b4dbf199147833c24bfb37c35a7ca243767",
+      "duration": 89.0026875,
+      "words": 165,
+      "flags": []
+    },
+    {
+      "id": "integra-05",
+      "kind": "media",
+      "filename": "05 identities.mp4",
+      "sha256": "2e649100d7a76540b4d066091e79822957b7432bdcc7157a62a38e3ededb34f5",
+      "duration": 276.0106875,
+      "words": 573,
+      "flags": []
+    },
+    {
+      "id": "integra-06",
+      "kind": "media",
+      "filename": "06 progressive integration.mp4",
+      "sha256": "02b1275b02e32f56f70fd82f9df6be7f29a050a586ea36a919fa767cdc987ffa",
+      "duration": 161.0026875,
+      "words": 294,
+      "flags": []
+    },
+    {
+      "id": "integra-07",
+      "kind": "media",
+      "filename": "07 ability to assume and release identities.mp4",
+      "sha256": "bd659ab662b024055149e748ad196984f60b3e73c21ee488a29613e5c38d41d5",
+      "duration": 127.0186875,
+      "words": 248,
+      "flags": []
+    },
+    {
+      "id": "integra-08",
+      "kind": "media",
+      "filename": "08 internal conflicts.mp4",
+      "sha256": "79d9d351f84a192cfc8980a8c20e6bafa460d263970a3532d20b679b9e512ab2",
+      "duration": 697.0026875,
+      "words": 1442,
+      "flags": []
+    },
+    {
+      "id": "integra-09",
+      "kind": "media",
+      "filename": "09 the difference between identities and content.mp4",
+      "sha256": "9b7b114deb6471e3087262021658c94ad34c33072063f94d898f6ce5c6740ad2",
+      "duration": 239.0186875,
+      "words": 510,
+      "flags": []
+    },
+    {
+      "id": "integra-10",
+      "kind": "media",
+      "filename": "10 introductory excercise.mp4",
+      "sha256": "b3684a078b0cf038af898650ec9ca447369590ad926c2a6f052730db4b5064c1",
+      "duration": 174.016,
+      "words": 181,
+      "flags": []
+    },
+    {
+      "id": "integra-11",
+      "kind": "media",
+      "filename": "11 three methods intro.mp4",
+      "sha256": "4a91bbed0b40e13264b9a4e26b3f2f67877279f94d454a5d6616d894c75d6d09",
+      "duration": 188.0106875,
+      "words": 330,
+      "flags": []
+    },
+    {
+      "id": "integra-12",
+      "kind": "media",
+      "filename": "12 how to define topics.mp4",
+      "sha256": "da1c166f2aa893899c46d3e238879cf59759ab05923c468f35fef7f00ec74f32",
+      "duration": 395.008,
+      "words": 873,
+      "flags": []
+    },
+    {
+      "id": "integra-13",
+      "kind": "media",
+      "filename": "13 the right way to use the methods.mp4",
+      "sha256": "b9ffa7ef84380fb1f2e3f3b10e6814ad455e44af97465ef3f5dfc90390d2ead6",
+      "duration": 262.016,
+      "words": 510,
+      "flags": []
+    },
+    {
+      "id": "integra-14",
+      "kind": "media",
+      "filename": "14 basic method session 1.mp4",
+      "sha256": "dd04d38c7dcdcddb126ea4ee633cea8a4253391fc441344ebef1120dfb3be711",
+      "duration": 710.016,
+      "words": 1041,
+      "flags": [
+        "Quiet participant replies and speaker changes are not fully listening-verified; use the separately extracted on-screen captions to cross-check."
+      ]
+    },
+    {
+      "id": "integra-15",
+      "kind": "media",
+      "filename": "15 basic method step by step.mp4",
+      "sha256": "520662a5870f27a87d71831f7f1e62213f1370159d4182729803a7f27a1f1a59",
+      "duration": 988.0106875,
+      "words": 2152,
+      "flags": []
+    },
+    {
+      "id": "integra-16",
+      "kind": "media",
+      "filename": "16 basic method session 2.mp4",
+      "sha256": "43e20271d1039760ed9184e15a829e3dc68da6961ecf1b480d6b2c6bec49691b",
+      "duration": 677.0133125,
+      "words": 970,
+      "flags": [
+        "Quiet participant replies and speaker changes are not fully listening-verified; use the separately extracted on-screen captions to cross-check.",
+        "Five quiet replies supplemented with explicitly labeled on-screen captions, rather than guessed speech."
+      ]
+    },
+    {
+      "id": "integra-17",
+      "kind": "media",
+      "filename": "17 basic method session 3.mp4",
+      "sha256": "323d669e42f13047b29ae53200ef5411469ddb653e23744cdeb78bcf43fa09be",
+      "duration": 507.008,
+      "words": 792,
+      "flags": [
+        "Quiet participant replies and speaker changes are not fully listening-verified; use the separately extracted on-screen captions to cross-check."
+      ]
+    },
+    {
+      "id": "integra-18",
+      "kind": "media",
+      "filename": "18 do the basic method now.mp4",
+      "sha256": "e648b3f001db285e8a411cbe13e4819d5de544777220e67b66e76b9d99e45d05",
+      "duration": 138.0053125,
+      "words": 286,
+      "flags": []
+    },
+    {
+      "id": "integra-19",
+      "kind": "media",
+      "filename": "19 standard method session 1.mp4",
+      "sha256": "0bab95c80a6d1b3293f4fa2c5c8420336d1cdd8e057cb7e077827c89fba3fd09",
+      "duration": 1010.0053125,
+      "words": 1387,
+      "flags": [
+        "Quiet participant replies and speaker changes are not fully listening-verified; use the separately extracted on-screen captions to cross-check."
+      ]
+    },
+    {
+      "id": "integra-20",
+      "kind": "media",
+      "filename": "20 standard method step by step.mp4",
+      "sha256": "709f7819ed277ac07358116dedf77a7c006373ec682bf600678c35ff4276460b",
+      "duration": 1133.0133125,
+      "words": 2399,
+      "flags": []
+    },
+    {
+      "id": "integra-21",
+      "kind": "media",
+      "filename": "21 standard method session 2.mp4",
+      "sha256": "14eb171331c72b546ba2f590b851c29d850c18b08d70eee55b210a799ccc3a1e",
+      "duration": 834.0053125,
+      "words": 1368,
+      "flags": [
+        "Quiet participant replies and speaker changes are not fully listening-verified; use the separately extracted on-screen captions to cross-check."
+      ]
+    },
+    {
+      "id": "integra-22",
+      "kind": "media",
+      "filename": "22 standard method session 3.mp4",
+      "sha256": "1b20e2964220a68cf5102a61a738db39c586d841541d357046057dbe7eaae757",
+      "duration": 736.0,
+      "words": 1171,
+      "flags": [
+        "Quiet participant replies and speaker changes are not fully listening-verified; use the separately extracted on-screen captions to cross-check."
+      ]
+    },
+    {
+      "id": "integra-23",
+      "kind": "media",
+      "filename": "23 do the standard method now.mp4",
+      "sha256": "c1857c4615ef5c1fbdd540f7aabcff56c54727bb4bd3d761cd0dd664de49e716",
+      "duration": 136.0,
+      "words": 281,
+      "flags": []
+    },
+    {
+      "id": "integra-24",
+      "kind": "media",
+      "filename": "24 advanced method session 1.mp4",
+      "sha256": "0ccde3ee2166703e1492f2a0387d841c9468d5bd08b90ec0907e2571881b0780",
+      "duration": 623.0186875,
+      "words": 916,
+      "flags": [
+        "Quiet participant replies and speaker changes are not fully listening-verified; use the separately extracted on-screen captions to cross-check."
+      ]
+    },
+    {
+      "id": "integra-25",
+      "kind": "media",
+      "filename": "25 advanced method step by step.mp4",
+      "sha256": "5a6b117fda9088868228c1204c1af16fba1cf02650e0ca48855a5bdf71f60be4",
+      "duration": 1061.0986875,
+      "words": 1852,
+      "flags": []
+    },
+    {
+      "id": "integra-26",
+      "kind": "media",
+      "filename": "26 advanced method session 2.mp4",
+      "sha256": "c861ffe84fb6dafff02a8c50bace455db8ea4ae034499d604d2262573c943551",
+      "duration": 439.0186875,
+      "words": 605,
+      "flags": [
+        "Quiet participant replies and speaker changes are not fully listening-verified; use the separately extracted on-screen captions to cross-check."
+      ]
+    },
+    {
+      "id": "integra-27",
+      "kind": "media",
+      "filename": "27 advanced method exceptions.mp4",
+      "sha256": "396e73d2d82972750f6ab4291beb8bb0da8fdf8a83ccf0afb62cd98bb86191a4",
+      "duration": 364.0106875,
+      "words": 613,
+      "flags": []
+    },
+    {
+      "id": "integra-28",
+      "kind": "media",
+      "filename": "28 advanced method session 3.mp4",
+      "sha256": "36443b03284076df443d71c08e6ff09e9ab54152845f7dd8c278f5201f670e02",
+      "duration": 468.0106875,
+      "words": 580,
+      "flags": [
+        "Quiet participant replies and speaker changes are not fully listening-verified; use the separately extracted on-screen captions to cross-check."
+      ]
+    },
+    {
+      "id": "integra-29",
+      "kind": "media",
+      "filename": "29 do the advanced method now.mp4",
+      "sha256": "70f27b42089e8c75875cb0c1c4ac1657d9591472ba4ba5dcca28ec26da4a853b",
+      "duration": 130.0053125,
+      "words": 274,
+      "flags": []
+    },
+    {
+      "id": "integra-30",
+      "kind": "media",
+      "filename": "30 conclusion and benefits.mp4",
+      "sha256": "d7f31aefb8194c950f5a7f9c087e99a4ac4360900ad0c39632a8db9785eaf5c2",
+      "duration": 475.52,
+      "words": 1006,
+      "flags": []
+    },
+    {
+      "id": "integra-ip-advanced-method-v3",
+      "kind": "pdf",
+      "filename": "IP Advanced Method v3.pdf",
+      "sha256": "9e701d9d700d8d56fa2bf1187bb54df53e6071172f379fa51205aa5fc3c93502"
+    },
+    {
+      "id": "integra-ip-basic-method-v5",
+      "kind": "pdf",
+      "filename": "IP Basic Method v5.pdf",
+      "sha256": "e803559d05aebb26420be14f6047ea61d53273671a87db6a2da9ed987987c741"
+    },
+    {
+      "id": "integra-ip-standard-method-v5",
+      "kind": "pdf",
+      "filename": "IP Standard Method v5.pdf",
+      "sha256": "ac891ee0c32ca019a0ea8f654a9f4a1917e4f780199578596c152fea20bb8a4f"
+    },
+    {
+      "id": "shinzen-1-01",
+      "kind": "media",
+      "filename": "1-01 Introduction.mp3",
+      "sha256": "23b5674d6a821518c4fdefa4975ce572e05eaa996d64b22249a31c0d7d670460",
+      "duration": 44.591,
+      "words": 22,
+      "flags": [
+        "Full no-VAD second pass compared with VAD pass; silence/music hallucinations removed. Approximate segment timestamps retain conservative speech padding."
+      ]
+    },
+    {
+      "id": "shinzen-1-02",
+      "kind": "media",
+      "filename": "1-02 The Subjective And Objective Components Of Difficult Emotions.mp3",
+      "sha256": "2a1bce0c63db9f09d86027ec321f3f3592845ee678d1cc3727fe7a3c33343c21",
+      "duration": 801.8808125,
+      "words": 1376,
+      "flags": [
+        "Full no-VAD second pass compared with VAD pass; silence/music hallucinations removed. Approximate segment timestamps retain conservative speech padding."
+      ]
+    },
+    {
+      "id": "shinzen-1-03",
+      "kind": "media",
+      "filename": "1-03 Creating Permanent Change.mp3",
+      "sha256": "005fc7234a9481161a8106a00e39d2be7a2beca287045fe85083e5ca1b56714f",
+      "duration": 1096.90775,
+      "words": 2321,
+      "flags": [
+        "Full no-VAD second pass compared with VAD pass; silence/music hallucinations removed. Approximate segment timestamps retain conservative speech padding."
+      ]
+    },
+    {
+      "id": "shinzen-1-04",
+      "kind": "media",
+      "filename": "1-04 Developing Emotional IQ_ The Feeling Body.mp3",
+      "sha256": "b59686de6c91e5a65c0412ff37881276d0be9aa3cfaa73d1d14a531918ac09d1",
+      "duration": 631.6930625,
+      "words": 1470,
+      "flags": [
+        "Full no-VAD second pass compared with VAD pass; silence/music hallucinations removed. Approximate segment timestamps retain conservative speech padding."
+      ]
+    },
+    {
+      "id": "shinzen-1-05",
+      "kind": "media",
+      "filename": "1-05 The Thinking Mind And Impermanence.mp3",
+      "sha256": "ed5ae6f569ae5b2d3c4e4771a5d758cd66a147f9b7985531fb78d6dab9985914",
+      "duration": 912.1698125,
+      "words": 2047,
+      "flags": [
+        "Full no-VAD second pass compared with VAD pass; silence/music hallucinations removed. Approximate segment timestamps retain conservative speech padding."
+      ]
+    },
+    {
+      "id": "shinzen-1-06",
+      "kind": "media",
+      "filename": "1-06 Expression And Suppression Of Emotions.mp3",
+      "sha256": "745b7d552f57171dfe7eaca71866f697b9eabdffd76318298a327b57849b94c8",
+      "duration": 941.6359375,
+      "words": 1850,
+      "flags": [
+        "Full no-VAD second pass compared with VAD pass; silence/music hallucinations removed. Approximate segment timestamps retain conservative speech padding.",
+        "Japanese phrase and French expression are uncertain phonetic ASR; consult the recording for exact spelling."
+      ]
+    },
+    {
+      "id": "shinzen-1-07",
+      "kind": "media",
+      "filename": "1-07 A Noble Goal For Working With Difficult Emotions.mp3",
+      "sha256": "7cf77427b4277e7bef0898ed8e25173186eb15c6ad5dbef5139d0bc4e15e0ef1",
+      "duration": 364.64325,
+      "words": 575,
+      "flags": [
+        "Full no-VAD second pass compared with VAD pass; silence/music hallucinations removed. Approximate segment timestamps retain conservative speech padding.",
+        "End-of-session credits and contact announcement recovered in second pass. Contact details are historical source content, not verified current information."
+      ]
+    },
+    {
+      "id": "shinzen-2-01",
+      "kind": "media",
+      "filename": "2-01 Introduction.mp3",
+      "sha256": "ea9fa8485e2468a06deb6b03453522cf22c8c098ba24e96f63a2641528403683",
+      "duration": 125.7535,
+      "words": 102,
+      "flags": [
+        "Full no-VAD second pass compared with VAD pass; silence/music hallucinations removed. Approximate segment timestamps retain conservative speech padding."
+      ]
+    },
+    {
+      "id": "shinzen-2-02",
+      "kind": "media",
+      "filename": "2-02 Contacting The Feeling Process In The Body Exercise.mp3",
+      "sha256": "97fe34a7ffa09858c1128746beb21b16d1ab3acb2000c8a233d8880cf2df0d6b",
+      "duration": 1349.250625,
+      "words": 940,
+      "flags": [
+        "Full no-VAD second pass compared with VAD pass; silence/music hallucinations removed. Approximate segment timestamps retain conservative speech padding."
+      ]
+    },
+    {
+      "id": "shinzen-2-03",
+      "kind": "media",
+      "filename": "2-03 Observing The Thinking Process Exercise.mp3",
+      "sha256": "276eca564b3ec09f66e32b156b0c9c13f2da4cb7f3bea2cee878c096560d2add",
+      "duration": 904.5943125,
+      "words": 563,
+      "flags": [
+        "Full no-VAD second pass compared with VAD pass; silence/music hallucinations removed. Approximate segment timestamps retain conservative speech padding."
+      ]
+    },
+    {
+      "id": "shinzen-2-04",
+      "kind": "media",
+      "filename": "2-04 Releasing Thoughts And Feelings Meditation.mp3",
+      "sha256": "a3940fe63be4618b62a34d50a1577646fd8761e958e0f51292b9237bb0da56ef",
+      "duration": 913.86775,
+      "words": 708,
+      "flags": [
+        "Full no-VAD second pass compared with VAD pass; silence/music hallucinations removed. Approximate segment timestamps retain conservative speech padding."
+      ]
+    },
+    {
+      "id": "shinzen-2-05",
+      "kind": "media",
+      "filename": "2-05 The Whole Mind_Body Process Meditation.mp3",
+      "sha256": "e82a1ffa70f50841c47d5a20ba40ee925a494552c4e1f17fab95ef306b1dc1e7",
+      "duration": 1502.4326875,
+      "words": 1285,
+      "flags": [
+        "Full no-VAD second pass compared with VAD pass; silence/music hallucinations removed. Approximate segment timestamps retain conservative speech padding."
+      ]
+    }
+  ]
+}

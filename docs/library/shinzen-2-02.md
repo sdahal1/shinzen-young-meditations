@@ -1,0 +1,321 @@
+# Contacting The Feeling Process In The Body Exercise
+
+Source: [2-02 Contacting The Feeling Process In The Body Exercise.mp3](/Users/robdahal/Desktop/SelfEducation/04-Energy_work/Break%20through%20difficult%20emotions-Shinzen%20Young/2-02%20Contacting%20The%20Feeling%20Process%20In%20The%20Body%20Exercise.mp3)
+
+Source ID: shinzen-2-02
+
+SHA-256: 97fe34a7ffa09858c1128746beb21b16d1ab3acb2000c8a233d8880cf2df0d6b
+
+Method: Local MLX Whisper large-v3-turbo; Silero VAD cross-check and original-recording timestamps. Targeted corrections are documented in the review report.
+
+Accuracy: Full spoken-content transcription, including source claims and repetitions; not fully listening-verified.
+
+Duration: 00:22:29
+
+Review notes: Full no-VAD second pass compared with VAD pass; silence/music hallucinations removed. Approximate segment timestamps retain conservative speech padding.
+
+**[00:00:00–00:00:16]** This first meditation is to establish a clear contact with the feeling process as it manifests
+
+**[00:00:16–00:00:18]** in the body.
+
+**[00:00:18–00:00:27]** Take a moment to settle into the posture
+
+**[00:00:27–00:00:32]** which may be a seated one
+
+**[00:00:32–00:00:35]** or lying down.
+
+**[00:00:42–00:00:44]** Feel the whole body
+
+**[00:00:44–00:00:50]** two arms, two legs,
+
+**[00:00:51–00:00:53]** the head, the torso, all connected.
+
+**[00:01:00–00:01:01]** And for a moment,
+
+**[00:01:01–00:01:05]** contact any qualities
+
+**[00:01:05–00:01:13]** of repose and relaxation
+
+**[00:01:13–00:01:18]** that may be present
+
+**[00:01:18–00:01:23]** and enjoy those qualities.
+
+**[00:01:58–00:02:09]** Now, bring your awareness to the sensations associated with any difficult emotions.
+
+**[00:02:13–00:02:16]** that you may be passing through at this moment.
+
+**[00:02:28–00:02:31]** And if at this moment you are not passing through
+
+**[00:02:31–00:02:34]** any particularly challenging emotion,
+
+**[00:02:34–00:02:41]** then
+
+**[00:02:41–00:02:44]** recall
+
+**[00:02:44–00:02:46]** difficult emotions from the past
+
+**[00:02:46–00:02:50]** that may still have some significance
+
+**[00:02:50–00:02:51]** for you
+
+**[00:02:51–00:02:55]** or imagine
+
+**[00:02:55–00:03:00]** difficult emotions that you may have
+
+**[00:03:00–00:03:03]** to face in the near or even distant future
+
+**[00:03:03–00:03:25]** and be aware
+
+**[00:03:25–00:03:30]** of the impact
+
+**[00:03:30–00:03:33]** of those emotions
+
+**[00:03:33–00:03:38]** on the way that you feel in the body.
+
+**[00:03:42–00:03:45]** If the emotion is coming up strongly
+
+**[00:03:45–00:03:49]** in the thinking process,
+
+**[00:03:50–00:03:52]** if you find yourself
+
+**[00:03:52–00:03:58]** remembering, judging, fantasizing, planning
+
+**[00:03:58–00:04:03]** around the emotional experience,
+
+**[00:04:03–00:04:07]** for just now
+
+**[00:04:07–00:04:10]** try to let go of that
+
+**[00:04:10–00:04:15]** and feel how all of that impacts
+
+**[00:04:22–00:04:23]** within
+
+**[00:04:23–00:04:25]** the volume of space
+
+**[00:04:25–00:04:26]** that is your body
+
+**[00:04:26–00:04:27]** two arms
+
+**[00:04:27–00:04:29]** two legs
+
+**[00:04:29–00:04:31]** the head, the torso
+
+**[00:04:31–00:04:33]** all connected.
+
+**[00:05:38–00:05:42]** Be aware of the different qualities of sensation.
+
+**[00:05:47–00:05:57]** Shakiness, pressure, heat, tension, hurt.
+
+**[00:05:57–00:06:02]** perhaps qualities that have no name
+
+**[00:06:02–00:06:07]** but can be distinguished.
+
+**[00:06:14–00:06:17]** Be aware of qualities that are associated with
+
+**[00:06:17–00:06:19]** possible anger
+
+**[00:06:19–00:06:23]** or fear
+
+**[00:06:23–00:06:27]** or sadness
+
+**[00:06:27–00:06:30]** or frustration
+
+**[00:06:30–00:06:32]** or embarrassment
+
+**[00:06:32–00:06:37]** or jealousy.
+
+**[00:06:40–00:06:43]** They all have their own qualities.
+
+**[00:06:45–00:06:47]** Perhaps one will be predominant.
+
+**[00:06:48–00:06:50]** Perhaps several will be present.
+
+**[00:07:40–00:07:45]** And each time you find yourself pulled back into the thinking process,
+
+**[00:07:46–00:07:50]** gently return to the feeling process in the body.
+
+**[00:07:50–00:08:00]** even mental states like guilt or confusion
+
+**[00:08:00–00:08:06]** will cause an impact, a flavor to arise
+
+**[00:08:06–00:08:11]** within the feeling space of the body.
+
+**[00:09:04–00:09:05]** Be aware also
+
+**[00:09:05–00:09:10]** of the different locations involved,
+
+**[00:09:12–00:09:14]** the shapes of the sensations,
+
+**[00:09:14–00:09:21]** and how their intensity levels may change.
+
+**[00:10:05–00:10:07]** And be aware also that
+
+**[00:10:07–00:10:09]** despite strong
+
+**[00:10:09–00:10:12]** unpleasant sensations
+
+**[00:10:12–00:10:16]** there may also be present
+
+**[00:10:16–00:10:19]** some pleasant sensations
+
+**[00:10:19–00:10:23]** associated with
+
+**[00:10:23–00:10:27]** a stillness, a relaxation
+
+**[00:10:27–00:10:30]** of your body
+
+**[00:10:30–00:10:35]** and try to remain as still
+
+**[00:10:35–00:10:37]** and reposed as possible.
+
+**[00:10:42–00:10:46]** letting go of the urge to move
+
+**[00:10:46–00:10:49]** and for just a little while
+
+**[00:10:49–00:10:51]** letting go of the urge to think
+
+**[00:10:51–00:10:57]** and stay with the flavors and locations
+
+**[00:10:57–00:11:02]** and changing intensities of feeling
+
+**[00:11:02–00:11:10]** and try to feel it through
+
+**[00:11:10–00:11:17]** Try to resolve it at the primordial level of the body sensation
+
+**[00:11:17–00:11:23]** for just a little while without having recourse to figuring it out.
+
+**[00:12:14–00:12:37]** Now, in order to make this process more systematic and tangible, be aware that the feeling states
+
+**[00:12:37–00:12:48]** sometimes impact in just one or a couple locations. Hotspots, perhaps the throat
+
+**[00:12:48–00:13:00]** or the heart or the stomach. But also other feeling states may impact very
+
+**[00:13:00–00:13:14]** broadly affect large areas, perhaps color the whole body, albeit perhaps subtly, with
+
+**[00:13:14–00:13:24]** a quality of tension or ache.
+
+**[00:13:24–00:13:36]** If you experience a feeling only in one or several limited locations, each time you're
+
+**[00:13:36–00:13:50]** drawn to that local sensation, say to yourself the word local to acknowledge that something
+
+**[00:13:50–00:13:52]** is welling up in a restricted area.
+
+**[00:13:55–00:14:03]** And when you feel larger parts of your being enveloped by feeling, perhaps much or all
+
+**[00:14:03–00:14:16]** of the body, under a more subtle but widespread quality, say to yourself the word global to
+
+**[00:14:17–00:14:18]** acknowledge that.
+
+**[00:14:20–00:14:22]** You don't need to describe it any further.
+
+**[00:14:23–00:14:30]** We're just going to distinguish the feeling in terms of the two kinds of impacts.
+
+**[00:14:32–00:14:38]** When you experience broader areas each time, say to yourself, global.
+
+**[00:14:40–00:14:42]** Smaller, restricted areas, local.
+
+**[00:14:42–00:14:46]** and let your awareness circulate
+
+**[00:14:46–00:14:51]** within the local and the global impact of the feeling.
+
+**[00:14:54–00:14:56]** And by saying to yourself
+
+**[00:14:56–00:15:01]** those words in a very gentle and matter-of-fact way,
+
+**[00:15:05–00:15:09]** let that remind you to be gentle and matter-of-fact
+
+**[00:15:09–00:15:15]** about the upwelling of feeling that you're experiencing in your body.
+
+**[00:15:19–00:15:21]** Moment by moment.
+
+**[00:15:25–00:15:27]** Every few seconds,
+
+**[00:15:27–00:15:31]** something changes at the local or global level.
+
+**[00:15:34–00:15:35]** Note that
+
+**[00:15:35–00:15:38]** and open up to it
+
+**[00:15:38–00:15:42]** and to the best of your ability,
+
+**[00:15:44–00:15:45]** accept it.
+
+**[00:15:46–00:15:47]** Drop the judgments,
+
+**[00:15:48–00:15:49]** the fantasies,
+
+**[00:15:50–00:15:51]** the plans,
+
+**[00:15:52–00:15:52]** the memories.
+
+**[00:15:55–00:15:56]** Relax your whole being
+
+**[00:15:56–00:15:59]** and deal with that emotional sensation
+
+**[00:15:59–00:16:02]** as though it were just the touch of your clothes
+
+**[00:16:02–00:16:04]** or
+
+**[00:16:04–00:16:08]** hot and cold
+
+**[00:16:08–00:16:10]** as though it were something just physical
+
+**[00:16:10–00:16:13]** that you're making friends with.
+
+**[00:17:33–00:17:38]** If you find that you're caught up in thought a lot,
+
+**[00:17:41–00:17:43]** say the words out loud,
+
+**[00:17:45–00:17:50]** local, local, global, like that.
+
+**[00:17:54–00:18:01]** This is very objective and will pull you out of the subjective involvement with the thoughts.
+
+**[00:18:01–00:18:16]** On the other hand, if you find that your focus is very sharp, your mind's fairly calm, but the emotion is arising just in the body,
+
+**[00:18:18–00:18:28]** then you can drop even the internal labels and just be aware moment by moment.
+
+**[00:18:28–00:18:37]** whether the impact of feeling is local, global, or perhaps both at the same time.
+
+**[00:18:39–00:18:41]** So you can switch back and forth,
+
+**[00:18:43–00:18:50]** either saying the words out loud if you need more concentration,
+
+**[00:18:50–00:18:53]** or saying the words to yourself,
+
+**[00:18:54–00:18:58]** or not saying any words at all, but being aware.
+
+**[00:18:58–00:19:01]** and let the feelings just circulate,
+
+**[00:19:03–00:19:05]** and at each transition,
+
+**[00:19:06–00:19:07]** at each eruption,
+
+**[00:19:09–00:19:11]** be it in a small place,
+
+**[00:19:11–00:19:13]** or over your whole being,
+
+**[00:19:21–00:19:22]** open up to it,
+
+**[00:19:24–00:19:26]** to the best of your ability,
+
+**[00:19:26–00:19:29]** make friends with it
+
+**[00:19:29–00:19:33]** pour the qualities of
+
+**[00:19:33–00:19:36]** attentiveness
+
+**[00:19:36–00:19:40]** and acceptance
+
+**[00:19:40–00:19:45]** into those sensations
+
+**[00:19:45–00:19:49]** like pouring water
+
+**[00:19:49–00:19:53]** into a sponge
+
+**[00:21:41–00:21:43]** If you would like to pursue this further,
+
+**[00:21:47–00:21:49]** you can press pause for a while
+
+**[00:21:49–00:21:54]** and continue to work on your own.
+
+**[00:21:56–00:22:02]** or move on to the next guided exercise.

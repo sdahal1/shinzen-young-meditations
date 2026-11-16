@@ -1,0 +1,3072 @@
+
+
+# Introduction
+
+Source: [1-01 Introduction.mp3](/Users/robdahal/Desktop/SelfEducation/04-Energy_work/Break%20through%20difficult%20emotions-Shinzen%20Young/1-01%20Introduction.mp3)
+
+Source ID: shinzen-1-01
+
+SHA-256: 23b5674d6a821518c4fdefa4975ce572e05eaa996d64b22249a31c0d7d670460
+
+Method: Local MLX Whisper large-v3-turbo; Silero VAD cross-check and original-recording timestamps. Targeted corrections are documented in the review report.
+
+Accuracy: Full spoken-content transcription, including source claims and repetitions; not fully listening-verified.
+
+Duration: 00:00:44
+
+Review notes: Full no-VAD second pass compared with VAD pass; silence/music hallucinations removed. Approximate segment timestamps retain conservative speech padding.
+
+[00:00:17–00:00:23] Sounds True presents Break Through Difficult Emotions, with respected meditation teacher
+
+[00:00:23–00:00:28] and past professor of comparative religion, physics, and mathematics, Shinzen Young.
+
+
+# The Subjective And Objective Components Of Difficult Emotions
+
+Source: [1-02 The Subjective And Objective Components Of Difficult Emotions.mp3](/Users/robdahal/Desktop/SelfEducation/04-Energy_work/Break%20through%20difficult%20emotions-Shinzen%20Young/1-02%20The%20Subjective%20And%20Objective%20Components%20Of%20Difficult%20Emotions.mp3)
+
+Source ID: shinzen-1-02
+
+SHA-256: 2a1bce0c63db9f09d86027ec321f3f3592845ee678d1cc3727fe7a3c33343c21
+
+Method: Local MLX Whisper large-v3-turbo; Silero VAD cross-check and original-recording timestamps. Targeted corrections are documented in the review report.
+
+Accuracy: Full spoken-content transcription, including source claims and repetitions; not fully listening-verified.
+
+Duration: 00:13:21
+
+Review notes: Full no-VAD second pass compared with VAD pass; silence/music hallucinations removed. Approximate segment timestamps retain conservative speech padding.
+
+[00:00:00–00:00:04] Inevitably, in this life, we are subject to emotions.
+
+[00:00:06–00:00:08] Some of the emotions are pleasant.
+
+[00:00:10–00:00:19] There's friendliness, love, compassion, gratitude, joy, delight.
+
+[00:00:21–00:00:24] And some of the emotions are unpleasant.
+
+[00:00:24–00:00:42] We are subject to anger, fear, sadness, hurt, frustration, jealousy, embarrassment, shame, guilt, impatience.
+
+[00:00:42–00:00:53] When we encounter the difficult emotions, that is to say the unpleasant emotions,
+
+[00:00:55–00:01:01] our tendency is to become preoccupied with two things.
+
+[00:01:02–00:01:10] One is figuring out what's going on, and the other is doing something about what's going on.
+
+[00:01:10–00:01:29] And this is completely legitimate. Our thinking mind has a job to do, which is consider situations, consider circumstances, figure out, is it them? Is it me? Why am I going through this? What caused this situation? That's quite legitimate.
+
+[00:01:29–00:01:36] And then we have to do things. We have to express ourselves, take actions, say things.
+
+[00:01:37–00:01:42] So, whenever we encounter these negative or difficult emotions,
+
+[00:01:44–00:01:52] immediately we're drawn into the aspect of figuring things out and dealing with the circumstance.
+
+[00:01:55–00:01:58] The problem is twofold.
+
+[00:02:00–00:02:14] The first is that often the difficult emotion gets in the way of clear thinking and clear action.
+
+[00:02:15–00:02:21] Because a difficult emotion will usually turn into suffering.
+
+[00:02:21–00:02:23] It will turn into a problem.
+
+[00:02:23–00:02:25] Maybe big, maybe small.
+
+[00:02:25–00:02:28] And suffering distorts our behavior.
+
+[00:02:28–00:02:33] It distorts our perception, and it makes it difficult for us to think.
+
+[00:02:34–00:02:40] So often, when we encounter a difficult emotion, we experience a lot of confusion.
+
+[00:02:41–00:02:51] So our thinking process is less than optimal, and therefore the actions that we're likely to take may be less than optimal.
+
+[00:02:54–00:02:56] That's the first problem.
+
+[00:02:56–00:03:07] The second problem is that our tendency is to get involved only in a consideration of the circumstances and what we should do about them.
+
+[00:03:07–00:03:31] And we don't put any of our time and energy, typically, into using the difficult emotion as an opportunity for learning, for gaining insight, for purification of consciousness, and for radical spiritual growth.
+
+[00:03:31–00:03:46] What this series is about is developing some understanding concerning the nature of difficult emotions,
+
+[00:03:46–00:03:50] and also developing some skills
+
+[00:03:50–00:03:54] so that when the difficult emotions come up,
+
+[00:03:55–00:03:57] we can use them,
+
+[00:03:58–00:04:03] learn from them in a way that we will grow radically.
+
+[00:04:05–00:04:06] Radically means at the root,
+
+[00:04:07–00:04:08] at the very core of our being,
+
+[00:04:09–00:04:10] something will grow and change.
+
+[00:04:11–00:04:12] So that, first of all,
+
+[00:04:12–00:04:20] our experience of suffering will diminish over the months and years of our life.
+
+[00:04:20–00:04:30] And secondly, that we will eventually be able to experience difficult emotions as none other than
+
+[00:04:30–00:04:37] the spiritual perfection of the moment. Now, I realize that that is an extremely radical claim,
+
+[00:04:37–00:04:43] an audacious claim? How can something like anger, fear, sadness, embarrassment
+
+[00:04:43–00:04:53] be even remotely described as the spiritual perfection of the moment?
+
+[00:04:55–00:05:00] Well, since inevitably we are going to be subject to these difficult emotions,
+
+[00:05:00–00:05:21] It behooves us to understand that in addition to taking care of what causes the difficult emotion, taking care of the circumstance, we as human beings have a second degree of freedom, you might say, a second option.
+
+[00:05:22–00:05:28] We can also learn how to have a complete experience of that difficult emotion.
+
+[00:05:30–00:05:33] Now, complete experience is an awesome concept.
+
+[00:05:33–00:05:45] If I were to say the word complete experience, most people would think that implies maybe an intense experience or that one expressed oneself externally in an unblocked way.
+
+[00:05:46–00:05:49] That's not what I mean by a complete experience.
+
+[00:05:49–00:06:06] When we have a complete experience, we are so involved in the activity of the experience that we have no time left to fixate that activity into a thing.
+
+[00:06:06–00:06:11] And so the experience actually becomes an energy wave.
+
+[00:06:12–00:06:19] And that energy wave links us, on one hand, to our spiritual source,
+
+[00:06:20–00:06:23] and on the other hand, to the whole universe.
+
+[00:06:24–00:06:29] Now, I realize that this is a shocking claim, an audacious claim,
+
+[00:06:29–00:06:34] because it goes against our ordinary experience.
+
+[00:06:34–00:06:46] Most people can't imagine how something like anger, fear, or sadness could become an energy wave that linked and united us to our spiritual source.
+
+[00:06:47–00:06:57] And the purpose of this talk is to try to explain step by step how that can be.
+
+[00:06:57–00:07:04] In order to make this tangible, let's take an example.
+
+[00:07:07–00:07:15] You have a difficult interaction with someone with whom you have a significant relationship.
+
+[00:07:16–00:07:19] Big argument, maybe a breakup.
+
+[00:07:19–00:07:25] the big argument, the breakup, the disagreement
+
+[00:07:25–00:07:29] is the circumstance
+
+[00:07:29–00:07:34] in response to that
+
+[00:07:34–00:07:39] you find that there arises within you
+
+[00:07:39–00:07:41] a quality of sensation
+
+[00:07:41–00:07:46] behind your eyes that is a sadness quality
+
+[00:07:46–00:07:55] and from behind your eyes that sadness quality spreads and fills your whole body.
+
+[00:07:57–00:08:03] You also notice that there's some fear involved in this situation,
+
+[00:08:04–00:08:06] fear of being alone, fear of being abandoned.
+
+[00:08:08–00:08:11] And you may notice that the fear feels different from the sadness
+
+[00:08:11–00:08:16] in terms of its quality, and also it has a different distribution in the body.
+
+[00:08:17–00:08:20] Maybe the fear has a center in your abdomen.
+
+[00:08:21–00:08:26] And likewise, when you look carefully, you see from there it spreads to the rest of the body.
+
+[00:08:28–00:08:30] And maybe there's some anger.
+
+[00:08:30–00:08:35] The anger feels different from the sadness, feels different from the fear.
+
+[00:08:36–00:08:40] And the anger perhaps is in your arms.
+
+[00:08:41–00:08:44] and from there spreads to the rest of your body.
+
+[00:08:45–00:08:47] And perhaps there's some embarrassment,
+
+[00:08:48–00:08:51] some sense of shame or humiliation in this situation.
+
+[00:08:51–00:08:54] And you notice that that doesn't have any particular center.
+
+[00:08:54–00:08:58] It's evenly distributed throughout your whole body.
+
+[00:08:59–00:09:04] And you may notice that your whole body is shaking physically,
+
+[00:09:05–00:09:10] and associated with that shakiness is another quality of sensation,
+
+[00:09:10–00:09:13] and it's evenly distributed over your whole body.
+
+[00:09:15–00:09:17] And while all this is going on,
+
+[00:09:19–00:09:20] you see images,
+
+[00:09:21–00:09:27] images of situations with the person that you're breaking up with.
+
+[00:09:28–00:09:30] And you hear voices.
+
+[00:09:31–00:09:32] You play conversations,
+
+[00:09:34–00:09:37] imaginary conversations or memories of conversations.
+
+[00:09:37–00:09:46] You hear your voice, you hear the other person's voice, you plan saying certain things, and you hear your own voice trying to figure stuff out.
+
+[00:09:48–00:09:53] Is it that person? Is it me? Should I do this? Should I do that? What's really going on here?
+
+[00:09:54–00:09:58] So there is internal dialogue, internal imagery.
+
+[00:09:58–00:10:06] And in addition to that, you may notice there's also some sort of background hum in your mind,
+
+[00:10:06–00:10:13] a constant churning that you can't even clearly identify as images or words.
+
+[00:10:13–00:10:16] Another kind of processing may be going in the background.
+
+[00:10:18–00:10:21] All of this constitutes the thinking process.
+
+[00:10:21–00:10:26] the planning, the judging, the fantasizing, the remembering,
+
+[00:10:27–00:10:30] the believing, the wishing, the hoping
+
+[00:10:30–00:10:36] comes in primarily words and images that occur internally.
+
+[00:10:38–00:10:45] So as far as your subjective experience of this difficult emotion goes,
+
+[00:10:45–00:10:56] It consists of certain qualities of feeling distributed in certain ways through the body,
+
+[00:10:56–00:11:01] and it consists of thoughts, ideas in the mind.
+
+[00:11:02–00:11:05] And although the thoughts may have as their content,
+
+[00:11:05–00:11:11] planning, judging, fantasizing, remembering, figuring out, etc.,
+
+[00:11:11–00:11:30] In terms of the way that the thoughts present themselves to you, they come primarily as a sequence of pictures in your mind, a sequence of sentences, words in your mind, and maybe some other kind of more subtle processing may or may not be present.
+
+[00:11:33–00:11:41] So what I have just described to you are these subjective components of the difficult emotion.
+
+[00:11:41–00:11:46] Part of it is in the feeling body, part of it is in the thinking mind.
+
+[00:11:48–00:12:01] As opposed to the subjective side, there is the objective situation that has given rise to these subjective thoughts and feelings,
+
+[00:12:01–00:12:08] and then there is the objective external expression of these thoughts and feelings.
+
+[00:12:09–00:12:11] The external expression takes two forms.
+
+[00:12:12–00:12:17] There is the external expression that shows what you are feeling.
+
+[00:12:18–00:12:19] Maybe you cry.
+
+[00:12:20–00:12:21] Maybe you raise your voice.
+
+[00:12:22–00:12:24] Maybe you shake your fist.
+
+[00:12:24–00:12:25] Maybe you hit something.
+
+[00:12:26–00:12:32] These are external, objective expressions of internal, subjective feelings.
+
+[00:12:33–00:12:37] And then there's another aspect of expression, which is more purposeful.
+
+[00:12:37–00:12:44] the actions you take, the words you speak, what you do to take care of this situation, if anything,
+
+[00:12:45–00:12:48] is also something objective and external.
+
+[00:12:51–00:12:56] So the basic components that we're dealing with are an external situation
+
+[00:12:56–00:13:07] and the responses that one makes, either in terms of expressing one's internal state by facial gestures
+
+[00:13:07–00:13:18] sounds, or purposeful actions. And then there is the whole subjective side, what the mind and body
+
+[00:13:18–00:13:19] goes through.
+
+
+# Creating Permanent Change
+
+Source: [1-03 Creating Permanent Change.mp3](/Users/robdahal/Desktop/SelfEducation/04-Energy_work/Break%20through%20difficult%20emotions-Shinzen%20Young/1-03%20Creating%20Permanent%20Change.mp3)
+
+Source ID: shinzen-1-03
+
+SHA-256: 005fc7234a9481161a8106a00e39d2be7a2beca287045fe85083e5ca1b56714f
+
+Method: Local MLX Whisper large-v3-turbo; Silero VAD cross-check and original-recording timestamps. Targeted corrections are documented in the review report.
+
+Accuracy: Full spoken-content transcription, including source claims and repetitions; not fully listening-verified.
+
+Duration: 00:18:16
+
+Review notes: Full no-VAD second pass compared with VAD pass; silence/music hallucinations removed. Approximate segment timestamps retain conservative speech padding.
+
+[00:00:00–00:00:08] The trick is to realize that we can't stop emotional feelings from arising within us,
+
+[00:00:08–00:00:14] and for that matter, we can't stop thoughts from happening in response to the situations.
+
+[00:00:15–00:00:22] But what we can do is reserve a certain amount of time and energy
+
+[00:00:22–00:00:26] each time a difficult emotion comes up
+
+[00:00:26–00:00:31] to develop a skillful relationship
+
+[00:00:31–00:00:32] to those thoughts and feelings.
+
+[00:00:33–00:00:35] Now, this can take two forms.
+
+[00:00:36–00:00:40] We can either do it on the hoof, so to speak,
+
+[00:00:40–00:00:42] while the thoughts and feelings are coming up,
+
+[00:00:42–00:00:44] while we're responding to life situations.
+
+[00:00:44–00:00:48] If we really have good skills,
+
+[00:00:48–00:00:54] we can be working with those thoughts and feelings at the same time,
+
+[00:00:54–00:00:58] just like you can drive the car and do something else at the same time.
+
+[00:00:58–00:01:02] However, at the beginning, that is likely to be very difficult.
+
+[00:01:03–00:01:09] So, what we usually need to do in the early part of our training
+
+[00:01:09–00:01:14] is just sit silently for a period of time
+
+[00:01:14–00:01:21] and sit with the intention not to figure out what's going on,
+
+[00:01:21–00:01:23] not to figure out what to do about it.
+
+[00:01:23–00:01:25] We can do that at other times,
+
+[00:01:25–00:01:28] but we decide to reserve a period of time,
+
+[00:01:28–00:01:31] maybe 10 minutes, maybe an hour, maybe half a day.
+
+[00:01:33–00:01:35] And we say, for this period of time,
+
+[00:01:35–00:01:41] I'm not going to be concerned with figuring out what's going on.
+
+[00:01:41–00:01:44] I'm not going to be concerned with figuring out what to do.
+
+[00:01:44–00:01:54] But rather, I am going to cultivate the ability to have a complete experience of these thoughts and feelings.
+
+[00:01:56–00:02:01] When we have a complete experience of the thoughts and feelings, we don't identify with the thoughts and feelings.
+
+[00:02:02–00:02:11] They flow through us, but they're experienced not as a self, but as a releasing of spiritual blockages.
+
+[00:02:11–00:02:20] blockages. So, a complete experience of a difficult emotion is a true catharsis in the
+
+[00:02:20–00:02:26] Greek sense of the word catharsis, which means a cleaning out. Now, usually, people interpret
+
+[00:02:26–00:02:33] catharsis to mean a complete external expression. If you make a complete external expression,
+
+[00:02:34–00:02:39] if you are willing to really cry or really scream or really express yourself or really take
+
+[00:02:39–00:02:45] appropriate action, that's catharsis. And a therapy that teaches you how to do that is
+
+[00:02:45–00:02:55] cathartic therapy. But that's external expression. That in and of itself does not constitute permanent
+
+[00:02:55–00:03:04] cleansing of consciousness unless there is an infusing of the thoughts and feelings with
+
+[00:03:04–00:03:13] mindfulness, equanimity, and a cognizance of their impermanent nature, then no matter how
+
+[00:03:13–00:03:22] dramatic our external display may be, it won't achieve very much in terms of permanent change.
+
+[00:03:23–00:03:33] It won't get us any closer to experiencing our spiritual source in the midst of these difficult
+
+[00:03:33–00:03:41] emotions. Most people affirm some sort of spiritual value, but as soon as there's even a
+
+[00:03:41–00:03:49] little bit of anger, fear, sadness, embarrassment, frustration, it just goes away. It just vanishes.
+
+[00:03:50–00:04:00] And it doesn't have to. In fact, the anger, fear, sadness, etc. represent one of the best possible
+
+[00:04:00–00:04:08] opportunities to really cleanse consciousness, which culminates in the ability to experience
+
+[00:04:08–00:04:13] those difficult emotions as none other than the effortless flow of nature.
+
+[00:04:16–00:04:20] So, what do I mean by mindfulness?
+
+[00:04:20–00:04:43] When I described the subjective flow of thought and feeling that constitutes the difficult emotion, in the example that I gave, I described it in tremendous detail.
+
+[00:04:43–00:04:52] I talked about what's happening in the body in terms of qualities of sensation and their spatial distribution in the body.
+
+[00:04:52–00:04:57] I talked about what's happening in the mind in terms of the types of thoughts that come up.
+
+[00:04:59–00:05:09] Mindfulness means the ability to keep track of all of the components that constitute an experience while that experience is happening.
+
+[00:05:10–00:05:14] Now, of course, mindfulness is one of these skills that has to be developed with practice
+
+[00:05:14–00:05:20] so that you can keep track of all of these components and also do other things at the same time.
+
+[00:05:20–00:05:27] As I say at the beginning, you may have to just go off by yourself in order to practice and develop the mindfulness.
+
+[00:05:27–00:05:30] Eventually, you have a baseline of mindfulness.
+
+[00:05:30–00:05:38] It allows you to keep specific contact with the components that constitute an experience.
+
+[00:05:39–00:05:48] Equanimity means a non-interference with the natural movement of those components.
+
+[00:05:51–00:06:00] The sadness flavor in the throat may shift and change moment by moment, get stronger, get weaker, spread, yank in.
+
+[00:06:00–00:06:05] your willingness to let it do that
+
+[00:06:05–00:06:09] to let it last as long or as short as it needs to
+
+[00:06:09–00:06:10] is equanimity
+
+[00:06:10–00:06:13] likewise with each of the other flavors
+
+[00:06:13–00:06:15] and also with the thinking process
+
+[00:06:15–00:06:20] your willingness to allow the thoughts to speed up or slow down
+
+[00:06:20–00:06:25] to allow the associational field of thought to spread or collapse
+
+[00:06:25–00:06:28] to allow the inner voice to get louder or softer
+
+[00:06:28–00:06:29] without interference
+
+[00:06:29–00:06:37] is equanimity. Your ability to look through the mental images rather than at them,
+
+[00:06:38–00:06:45] to listen to the internal voice as though it were just sound rather than getting caught up
+
+[00:06:45–00:06:52] moment by moment in its meanings, that's equanimity. And as one infuses mindfulness
+
+[00:06:52–00:06:58] and equanimity into the thoughts and feelings that constitute the emotion.
+
+[00:07:00–00:07:05] Those thoughts and feelings begin to flow more easily.
+
+[00:07:06–00:07:13] And that encourages one to infuse even more mindfulness and equanimity, and it sets up
+
+[00:07:13–00:07:20] a kind of positive feedback loop, or we might even describe it as a virtuous cycle as opposed
+
+[00:07:20–00:07:21] to a vicious cycle.
+
+[00:07:23–00:07:36] In the virtuous cycle, we infuse mindfulness and equanimity, the experience becomes more fluid, that encourages us to infuse even more mindfulness and equanimity, and the experience becomes even more fluid as the result of that.
+
+[00:07:36–00:07:44] At some point, even though the experience may be confusing to the mind and painful to the body,
+
+[00:07:44–00:07:53] the confusion becomes fluid, and the discomfort, the uncomfortable flavors of anger, fear, sadness, also become fluid.
+
+[00:07:56–00:08:01] Ice and water are the same substance, but their behavior is very, very different.
+
+[00:08:01–00:08:21] In the same way, anger, fear, and sadness could either be congealed, in which case they cause tremendous suffering, or they can be fluid, in which case they cause much less suffering and are rather experienced as a kind of releasing process.
+
+[00:08:21–00:08:34] So, when people talk about releasing painful emotions, as I say, they usually are implying some sort of full external expression of the painful emotion.
+
+[00:08:35–00:08:44] But from a spiritual point of view, a release has to be something permanent, not a temporary blowing off of steam.
+
+[00:08:44–00:08:54] and the real release takes place when you have so fully infused the flow of thoughts and feelings
+
+[00:08:54–00:09:00] that you really see that it is a flow and it seems like something is being taken away from you moment
+
+[00:09:00–00:09:06] by moment and what's being taken away from you are the thorns that have been embedded in the
+
+[00:09:06–00:09:13] substance of your soul and you experience this negative emotion as an internal cleansing
+
+[00:09:13–00:09:22] When you are able to do that, you may or may not externally express.
+
+[00:09:23–00:09:23] Depending on what?
+
+[00:09:23–00:09:25] Depending on what's appropriate to the situation.
+
+[00:09:26–00:09:32] In some situations, it's appropriate to give full, unblocked external expression.
+
+[00:09:32–00:09:34] In other situations, it's not appropriate.
+
+[00:09:35–00:09:40] But whenever there's an unblocked internal expression of feeling,
+
+[00:09:40–00:10:02] That is to say, whenever you are in contact with the thoughts and feelings with mindfulness, equanimity, and you're aware of their impermanence, their moment-by-moment changing qualities, whenever that happens, you are by definition having a complete internal expression.
+
+[00:10:03–00:10:06] And that is always desirable.
+
+[00:10:06–00:10:20] You can do an experiment for yourself to understand the nature of the emotions and the relationship of mindfulness to the emotions.
+
+[00:10:20–00:10:31] If you know that you're going to encounter a challenging situation ahead of time,
+
+[00:10:32–00:10:39] you're going to go into some situation where you may have some anger, some fear, some sadness,
+
+[00:10:39–00:10:45] something come up, but it hasn't come up yet, you can do the following.
+
+[00:10:45–00:10:53] Bring your awareness into your body and be aware of the different kinds of sensations that are there.
+
+[00:10:54–00:11:01] And see if you have any sensations that you would suspect are associated with the emotions that may come up.
+
+[00:11:01–00:11:07] There may be no such sensations, or there may be already the buds of these qualities.
+
+[00:11:07–00:11:22] Then, as you move into the challenging situation, watch what happens to the body sensations. See if you can keep track of them.
+
+[00:11:22–00:11:29] I had an interesting experience once
+
+[00:11:29–00:11:31] doing this experiment
+
+[00:11:31–00:11:34] I was riding down the street
+
+[00:11:34–00:11:37] and I noticed that in an empty lot
+
+[00:11:37–00:11:38] near where I lived
+
+[00:11:38–00:11:41] they were running a carnival
+
+[00:11:41–00:11:44] and this is like a local barrio carnival
+
+[00:11:44–00:11:48] it's not like a real high-tech type situation
+
+[00:11:48–00:11:52] and one always wonders how the safety is
+
+[00:11:52–00:11:58] in these kinds of situations, but they had this giant thing that was sort of like a Ferris wheel,
+
+[00:11:59–00:12:04] except instead of having the usual seats that you sit in on a Ferris wheel,
+
+[00:12:04–00:12:12] this had these bullet-shaped, encased structures that hung and swung around.
+
+[00:12:13–00:12:18] So that when they ran this Ferris wheel type thing, what happened is that you had
+
+[00:12:18–00:12:24] two circular motions taking place, the large motion of the wheel and the small motion of each
+
+[00:12:24–00:12:31] cage swinging around the perimeter of the wheel, giving an extremely disorienting perception,
+
+[00:12:31–00:12:36] basically the perception being that you have just become disconnected, that the thing is broken
+
+[00:12:36–00:12:41] apart and you're flying off into space at any given second. That's what your body is convinced
+
+[00:12:41–00:12:51] is happening. So I thought, wow, this would be an interesting ride to play with to explore the
+
+[00:12:51–00:12:56] fear phenomenon. So what happens is that I first decide, okay, I'm going to do that.
+
+[00:12:57–00:13:05] And I feel a little bit of just a very vague sort of pressure over my body, almost nothing,
+
+[00:13:05–00:13:11] almost just so wispy that you're not even sure it's there at the initial decision to do this.
+
+[00:13:12–00:13:22] Then, as I'm driving my car, getting closer and closer, I notice that a little more structure
+
+[00:13:22–00:13:28] is appearing. It's all the fear flavor, but different aspects of the fear flavor are
+
+[00:13:28–00:13:34] appearing in my abdomen, and then something in my arms, okay, something in my head.
+
+[00:13:34–00:13:45] And then as I arrive there and purchase the ticket to get on the ride, now I'm aware of about half dozen different locations acting up.
+
+[00:13:46–00:13:52] Each one is changing in intensity with time, some changing rapidly, some changing slowly.
+
+[00:13:53–00:13:56] I'm also aware of how each one is spreading an influence through the body.
+
+[00:13:56–00:13:58] Okay, so far so good.
+
+[00:13:59–00:14:01] Now I get into the car, right?
+
+[00:14:02–00:14:07] And the sensations are getting like much more intense,
+
+[00:14:08–00:14:09] changing much more rapidly.
+
+[00:14:10–00:14:13] In this particular case, it was all in the body.
+
+[00:14:13–00:14:14] I didn't have any thoughts at all.
+
+[00:14:14–00:14:17] It was all in the body, but they're getting much more rapid,
+
+[00:14:17–00:14:20] much more intense, many more of them.
+
+[00:14:20–00:14:22] But I'm keeping track of it all, okay?
+
+[00:14:23–00:14:23] No problem.
+
+[00:14:23–00:14:34] and then the ride starts and I freak out. Suddenly, I am really scared and my mind is acting up. I just
+
+[00:14:34–00:14:42] want to get the hell out of there and turn my awareness to my body. I can't feel anything.
+
+[00:14:43–00:14:48] Well, I know damn well it's just full of sensations, but I've lost all my resolution
+
+[00:14:48–00:14:56] power, all my contact. It took me about five minutes of self-talk. Get back and feel the body.
+
+[00:14:56–00:15:04] You know it's there. It was getting more and more of it and more intense. That sequence has to have
+
+[00:15:04–00:15:09] culminated not in it disappearing, but in it becoming so much that you lost track of it.
+
+[00:15:10–00:15:14] So, get back. Okay, feel what's in your gut, what's in your knee, what's in your head,
+
+[00:15:14–00:15:21] what's here, what's there. After 5-10 minutes of talking to myself, once again I can feel the body.
+
+[00:15:22–00:15:27] And I start to feel a lot better. And then as soon as I establish contact with everything that was
+
+[00:15:27–00:15:33] there, which was much more intense than before, but now I got it all in awareness, and I'm letting
+
+[00:15:33–00:15:40] it expand and contract and vibrate and pull in and push out. No more suffering, no more freak out.
+
+[00:15:40–00:15:42] Everything's just fine now.
+
+[00:15:44–00:15:47] What does this experiment reveal?
+
+[00:15:48–00:15:53] Well, I had mindfulness, I had mindfulness, I had mindfulness,
+
+[00:15:53–00:15:58] then suddenly I freaked out and I didn't have mindfulness.
+
+[00:16:00–00:16:04] And you can do this experiment over and over again in daily life,
+
+[00:16:04–00:16:06] and you'll find that whenever you quote freak out,
+
+[00:16:06–00:16:14] By freak out, I mean either suffer or act inappropriately, have distorted behavior.
+
+[00:16:15–00:16:21] That just before you freak out, there is a dramatic drop in your mindfulness.
+
+[00:16:22–00:16:22] Always.
+
+[00:16:23–00:16:24] This is an empirical truth.
+
+[00:16:25–00:16:31] Just before you lose it, just before you suffer, you lose contact with what is.
+
+[00:16:31–00:16:35] and as I say you can try this as an experiment
+
+[00:16:35–00:16:38] if you know that you're going to go into a challenging situation
+
+[00:16:38–00:16:40] and if you do it over and over again
+
+[00:16:40–00:16:43] a certain empirical truth
+
+[00:16:43–00:16:45] empirical truth means an experimental truth
+
+[00:16:45–00:16:48] a scientific truth will become evident to you
+
+[00:16:48–00:16:50] there are laws of nature
+
+[00:16:50–00:16:52] the laws of gravitation
+
+[00:16:52–00:16:53] it's a law
+
+[00:16:53–00:16:57] well there's a certain law in our human nature
+
+[00:16:57–00:16:59] and it is that
+
+[00:16:59–00:17:02] suffering implies
+
+[00:17:02–00:17:05] that you have lost mindfulness
+
+[00:17:05–00:17:09] now
+
+[00:17:09–00:17:11] the implication of this
+
+[00:17:11–00:17:15] is if you don't lose mindfulness
+
+[00:17:15–00:17:15] you won't suffer
+
+[00:17:15–00:17:19] it's dramatic
+
+[00:17:19–00:17:21] you're okay, you're in contact
+
+[00:17:21–00:17:23] you're in contact, you're in contact
+
+[00:17:23–00:17:24] you're okay, you're okay, you're okay
+
+[00:17:24–00:17:25] suddenly you're not okay
+
+[00:17:25–00:17:28] and you look at you're not in contact
+
+[00:17:28–00:17:35] you've lost the contact. So the contrapositive of that statement that suffering implies loss
+
+[00:17:35–00:17:41] of mindfulness is, no loss of mindfulness implies no suffering. That's a logical conclusion.
+
+[00:17:42–00:17:47] And combined with the other empirical fact that mindfulness can be cultivated
+
+[00:17:47–00:17:54] to any degree desirable, in other words, with practice you can have mindfulness that can survive
+
+[00:17:54–00:17:57] any complexity and intensity of emotion.
+
+[00:17:58–00:18:05] So these two facts taken together mean that no one ever really has to suffer because of emotions.
+
+[00:18:06–00:18:13] So this is what mindfulness is, keeping contact with the components.
+
+
+# Developing Emotional IQ:  The Feeling Body
+
+Source: [1-04 Developing Emotional IQ_ The Feeling Body.mp3](/Users/robdahal/Desktop/SelfEducation/04-Energy_work/Break%20through%20difficult%20emotions-Shinzen%20Young/1-04%20Developing%20Emotional%20IQ_%20The%20Feeling%20Body.mp3)
+
+Source ID: shinzen-1-04
+
+SHA-256: b59686de6c91e5a65c0412ff37881276d0be9aa3cfaa73d1d14a531918ac09d1
+
+Method: Local MLX Whisper large-v3-turbo; Silero VAD cross-check and original-recording timestamps. Targeted corrections are documented in the review report.
+
+Accuracy: Full spoken-content transcription, including source claims and repetitions; not fully listening-verified.
+
+Duration: 00:10:31
+
+Review notes: Full no-VAD second pass compared with VAD pass; silence/music hallucinations removed. Approximate segment timestamps retain conservative speech padding.
+
+[00:00:00–00:00:10] In terms of specifically how to develop what we might call skill at feeling or emotional IQ, as it is nowadays called,
+
+[00:00:11–00:00:14] a good place to start is with the body sensations.
+
+[00:00:15–00:00:24] When we say the word emotion in English, most people have a very vague sense of what emotion means.
+
+[00:00:25–00:00:28] First of all, they confuse the external expression of emotion
+
+[00:00:28–00:00:33] with the internal experience of emotion.
+
+[00:00:33–00:00:36] So emotion is the sounds you make, the facial gestures,
+
+[00:00:37–00:00:40] what you do, that's emotion to some people.
+
+[00:00:41–00:00:43] That's objective, that's on the outside.
+
+[00:00:44–00:00:48] But emotion is also what you feel and what you think.
+
+[00:00:49–00:00:52] That's on the inside, so people are confused.
+
+[00:00:52–00:00:59] For me, when I use the word emotion, I refer only to the subjective side of the experience.
+
+[00:00:59–00:01:01] The subjective side is thought and feeling.
+
+[00:01:02–00:01:03] People confuse thought and feeling.
+
+[00:01:04–00:01:09] When a person says, I'm going to share my feelings with you,
+
+[00:01:10–00:01:18] do they mean that they're going to say a sad flavor in the throat spreading over the rest of the body,
+
+[00:01:18–00:01:21] a shaky quality in my knees spreading over the rest of my body?
+
+[00:01:22–00:01:25] a tightness in the back of my neck, that would be to share their feelings.
+
+[00:01:26–00:01:32] No. They're going to say, this is what's wrong with you, this is why I'm pissed off with you,
+
+[00:01:32–00:01:38] and this is what has to change about you. Those aren't their feelings. Those are their thoughts,
+
+[00:01:38–00:01:42] their ideas, their concepts, their judgments, their plans, their fantasies.
+
+[00:01:44–00:01:50] Because the thought and feeling is tangled together, and because people don't have the
+
+[00:01:50–00:01:56] mindfulness to discriminate in real time, moment by moment, what part of the emotion is thought,
+
+[00:01:56–00:02:01] what part is feeling. They're happening in parallel. People don't discriminate them.
+
+[00:02:02–00:02:06] So naturally, they get confused. They call feeling thought and thought feeling.
+
+[00:02:07–00:02:15] Feeling is pleasant or unpleasant sensation in the body. Babies have feeling. Babies experience
+
+[00:02:15–00:02:21] anger, fear, sadness. Animals experience anger, fear, sadness without a whole lot of internal
+
+[00:02:21–00:02:27] dialogue or even internal imagery going on in their mind. They have just the pure feeling.
+
+[00:02:28–00:02:34] And you can see, look at a dog when it's happy. It's happy right down to its wagging tail. Its
+
+[00:02:34–00:02:42] whole body is happy. Look at a baby when it's upset. Its whole body is involved. It shakes
+
+[00:02:42–00:02:49] every single part of its body. It feels in the body, and so does an adult feel in the body.
+
+[00:02:49–00:02:55] The problem is they're so fixated on the moment-by-moment thinking process, which forms
+
+[00:02:55–00:03:01] the core of the adult ego, that there's very little discernment, very little discrimination
+
+[00:03:01–00:03:07] in the body. And discrimination of what? Basically, the feeling in the body
+
+[00:03:07–00:03:15] has several dimensions to it. There is a dimension of what, for lack of a better word,
+
+[00:03:15–00:03:20] I would call quality or flavor. Anger feels different from sadness. Sadness feels different
+
+[00:03:20–00:03:25] from fear. Fear feels different from hot. Hot feels different from cold. Cold feels different
+
+[00:03:25–00:03:31] from erotic. Erotic feels different from embarrassment. Embarrassment feels different
+
+[00:03:31–00:03:37] from itch. Itch feels different from prick. Prick feels different from pressure.
+
+[00:03:37–00:03:40] These are different qualities of sensation.
+
+[00:03:41–00:03:44] Then there is the spatial distribution.
+
+[00:03:45–00:03:51] Typically, a sensation in the body will have one or several areas where it's strong,
+
+[00:03:51–00:03:59] and then it will subtly spread a similar quality throughout much or all of the body.
+
+[00:04:00–00:04:07] And that subtle global coloration that spreads from the local intensities is usually missed.
+
+[00:04:07–00:04:17] by people. But if it's missed, then it will be congealed and it will become a source of great
+
+[00:04:17–00:04:24] suffering. So one needs to be aware of the different flavors that are present, the different
+
+[00:04:24–00:04:34] qualities of sensation. I had a student once that died of cancer, and I guided him, and it was pretty
+
+[00:04:34–00:04:40] straightforward. I noticed that he had five qualities of sensation. They were all distinct.
+
+[00:04:41–00:04:46] He had a kind of pain from the tumors. He had exhaustion from not being able to sleep. He had
+
+[00:04:46–00:04:55] nausea. He had fear. And he had a little bit of irritability. Five flavors of sensation. Each one
+
+[00:04:55–00:05:02] had its own local intent area of impact. Each one filled his whole body subtly. I told him this is
+
+[00:05:02–00:05:07] what's going on from what I can see talking to you? Does that agree with what's going on? I said,
+
+[00:05:07–00:05:12] yeah, you know, come to think of it, you gave me an exact description of what's going on. I said,
+
+[00:05:12–00:05:17] okay, you got to keep track of each one of those five. Sometimes only one or two will be present.
+
+[00:05:17–00:05:23] Sometimes maybe all five will be present. Keep track of the qualities as being absolutely distinct
+
+[00:05:23–00:05:31] and only deal with what is actually there in the moment. Be aware of where the primaries are.
+
+[00:05:31–00:05:34] be aware of how the secondary may spread,
+
+[00:05:34–00:05:39] and give permission for those sensations to get stronger or weaker.
+
+[00:05:40–00:05:41] So the first dimension is quality.
+
+[00:05:42–00:05:45] The second dimension is its spatial distribution
+
+[00:05:45–00:05:47] because its shape and its location can differ.
+
+[00:05:48–00:05:50] And a third dimension is its intensity.
+
+[00:05:52–00:05:57] Fear is a quality, but that quality can be very mild,
+
+[00:05:57–00:05:58] like a subtle anticipation,
+
+[00:05:58–00:06:02] or it could be very intense paralytic terror,
+
+[00:06:03–00:06:06] but it's still the same quality, just different intensity.
+
+[00:06:07–00:06:12] So if one is aware of the qualities, the locations and shapes,
+
+[00:06:13–00:06:14] and the intensity,
+
+[00:06:15–00:06:19] then one starts to notice that the qualities, intensities, and shapes,
+
+[00:06:20–00:06:23] and locations change.
+
+[00:06:24–00:06:27] And one can then start to open up to that change,
+
+[00:06:27–00:06:31] and the more one opens up to that change, the more the change takes place.
+
+[00:06:32–00:06:36] And at some point, a certain critical momentum is built up
+
+[00:06:36–00:06:44] and the entire gestalt becomes like a wave,
+
+[00:06:45–00:06:47] just part of the effortless flow of nature.
+
+[00:06:49–00:06:52] At that point, you're having real catharsis.
+
+[00:06:52–00:06:57] But at that point, you've lost any sense of a controlling self.
+
+[00:06:57–00:07:02] for a short period of time. You have to be willing to let that happen. For real catharsis,
+
+[00:07:02–00:07:09] we can't hold on. Now, that sounds frightening, the sense of a loss of control. However,
+
+[00:07:09–00:07:16] when one surrenders to the primordial flow of impermanence, one finds that all impermanence
+
+[00:07:16–00:07:24] is made up of expanding and contracting forces that vibrate, sometimes just expanding,
+
+[00:07:24–00:07:31] sometimes just contracting, sometimes vibrating in between. And this rhythm of expansion and
+
+[00:07:31–00:07:36] contraction and vibration becomes a kind of ordering principle that we rest in, a primordial
+
+[00:07:36–00:07:41] ordering principle that is so deep, so fundamental that it can never be disordered, even though your
+
+[00:07:41–00:07:49] mind may be full of confusion and your body full of pain. Because the confusion becomes an expansion
+
+[00:07:49–00:07:55] and contraction, like the flow of the seasons is an expansion and contraction. And the pain
+
+[00:07:55–00:08:01] becomes an expansion and contraction, like the vibration of atoms, which is part of the order
+
+[00:08:01–00:08:08] of the universe. And so when rests in the shaking itself, we talk about being blown away, we talk
+
+[00:08:08–00:08:15] about being crushed, we talk about being shaken to the core. It's a very good description of what
+
+[00:08:15–00:08:23] emotion, being set into motion, is supposed to really be. Emotion is supposed to be pure motion.
+
+[00:08:24–00:08:31] When we're in a state of pure motion, then the blowaway is just expanding out and becoming
+
+[00:08:31–00:08:36] infinitely large and encompassing the whole universe. The crush is just contracting down
+
+[00:08:36–00:08:41] and becoming the belly button of the universe, the dimensionless point out of which everything
+
+[00:08:41–00:08:48] comes. And the shaking is just the flow of spirit itself. It's like the leaves that shake
+
+[00:08:48–00:08:53] because the wind blows through. In the Hebrew language, wind is called ruach, and that's what
+
+[00:08:53–00:09:00] they translated into English as spirit. It's just a wind blowing through at that point, and it's a
+
+[00:09:00–00:09:08] cleansing wind. So that's called yielding to the primordial forces of impermanence. That's called
+
+[00:09:08–00:09:11] a complete experience of the emotion.
+
+[00:09:15–00:09:18] So, a place to start for most people
+
+[00:09:18–00:09:20] is to make the feeling tangible
+
+[00:09:20–00:09:24] by keeping track of the flavors, locations, intensities,
+
+[00:09:25–00:09:27] shapes, and then noticing how they change
+
+[00:09:27–00:09:30] and then yielding to that change
+
+[00:09:30–00:09:33] so one can start in the body.
+
+[00:09:34–00:09:37] And in fact, the whole job can be completed in the body.
+
+[00:09:37–00:09:41] Some people never really get into the thinking part of the emotion.
+
+[00:09:41–00:09:44] If you can complete it just in the body, that's good enough.
+
+[00:09:45–00:09:50] Sometimes when you go through an emotion, there'll just be one flavor present, one quality,
+
+[00:09:50–00:09:51] maybe anger, maybe fear.
+
+[00:09:52–00:09:59] But often, if you look carefully, you'll find that subtly several qualities are present.
+
+[00:10:00–00:10:05] You may say, you know, I'm primarily experiencing anger now, but look carefully.
+
+[00:10:05–00:10:07] You might find there's some hurt there.
+
+[00:10:07–00:10:09] simultaneously present.
+
+[00:10:09–00:10:12] So the ability to tease out
+
+[00:10:12–00:10:14] the qualities of sensation
+
+[00:10:14–00:10:16] and then make them precise
+
+[00:10:16–00:10:17] in terms of location,
+
+[00:10:18–00:10:19] shape, intensity,
+
+[00:10:20–00:10:21] this is an important
+
+[00:10:21–00:10:23] first step
+
+[00:10:23–00:10:25] in the process of making
+
+[00:10:25–00:10:27] the feeling part of the emotion,
+
+[00:10:27–00:10:29] the body sensations, tangible.
+
+
+# The Thinking Mind And Impermanence
+
+Source: [1-05 The Thinking Mind And Impermanence.mp3](/Users/robdahal/Desktop/SelfEducation/04-Energy_work/Break%20through%20difficult%20emotions-Shinzen%20Young/1-05%20The%20Thinking%20Mind%20And%20Impermanence.mp3)
+
+Source ID: shinzen-1-05
+
+SHA-256: ed5ae6f569ae5b2d3c4e4771a5d758cd66a147f9b7985531fb78d6dab9985914
+
+Method: Local MLX Whisper large-v3-turbo; Silero VAD cross-check and original-recording timestamps. Targeted corrections are documented in the review report.
+
+Accuracy: Full spoken-content transcription, including source claims and repetitions; not fully listening-verified.
+
+Duration: 00:15:12
+
+Review notes: Full no-VAD second pass compared with VAD pass; silence/music hallucinations removed. Approximate segment timestamps retain conservative speech padding.
+
+[00:00:00–00:00:03] Of course, there's more to the subjective side of emotion than the feeling body.
+
+[00:00:04–00:00:06] There's the thinking mind.
+
+[00:00:07–00:00:10] As I mentioned, a lot of times if the emotion is really intense,
+
+[00:00:10–00:00:12] the thinking mind becomes somewhat impaired.
+
+[00:00:13–00:00:16] We have the experience of confusion, disorientation.
+
+[00:00:16–00:00:21] We feel scattered in a thousand directions, and it's hard to pull everything together.
+
+[00:00:21–00:00:30] it's difficult for a human being to believe that something good comes out of opening up to
+
+[00:00:30–00:00:36] discomfort in the body but it's even more difficult for a human being to believe that something good
+
+[00:00:36–00:00:41] comes out of opening up to confusion in the mind because for an adult human being the ego is really
+
+[00:00:41–00:00:49] centered in the thinking mind and the idea of just allowing confusion to be to get stronger
+
+[00:00:49–00:00:56] to get weaker, to perhaps spread and last a long time, is absolutely anathema to the average person.
+
+[00:00:56–00:01:01] It sounds like hell. It sounds like the last thing in the world that anybody would want to do.
+
+[00:01:02–00:01:08] But in point of fact, there is an ordering principle, as I mentioned, that is so deep that
+
+[00:01:08–00:01:15] it can never be disordered. That confusion still follows that ordering principle.
+
+[00:01:16–00:01:21] Usually, our concept of order in the mind is that the content of the mind is clear,
+
+[00:01:23–00:01:29] just as our concept of order in the body is that the body is experiencing pleasant sensations.
+
+[00:01:30–00:01:36] But there is an ordering that is deeper than pleasure in the body or clarity in the mind.
+
+[00:01:38–00:01:41] And when we participate in that ordering principle,
+
+[00:01:41–00:01:46] we participate in the ordering principle of all of nature.
+
+[00:01:46–00:01:51] And that's why we are merged with nature, with the source.
+
+[00:01:52–00:01:54] Of course, for that period of time,
+
+[00:01:55–00:01:58] be it a few seconds or a few minutes or a few hours,
+
+[00:01:59–00:02:01] we're not ordered like a human being anymore.
+
+[00:02:04–00:02:07] Sometimes a negative emotion can be so intense
+
+[00:02:07–00:02:09] that we say this is absolutely inhuman.
+
+[00:02:10–00:02:12] A situation can be inhuman.
+
+[00:02:13–00:02:15] A physical pain can be inhuman.
+
+[00:02:15–00:02:17] And we don't know what to do.
+
+[00:02:18–00:02:22] But our language tells us what to do if only we'd listen to the language,
+
+[00:02:23–00:02:24] going through something inhuman.
+
+[00:02:26–00:02:30] Then for a short period of time, just temporarily, not forever and ever and ever,
+
+[00:02:31–00:02:35] but for a period of time, time not to be a human.
+
+[00:02:36–00:02:38] We're afraid. What does that mean?
+
+[00:02:39–00:02:40] I'm going through something inhuman.
+
+[00:02:40–00:02:41] No human can bear this.
+
+[00:02:42–00:02:46] That means it's time to stop being a human for a while.
+
+[00:02:47–00:02:50] So we're afraid, what will I become if I stop being human?
+
+[00:02:51–00:02:53] Well, it very much depends on, of course,
+
+[00:02:54–00:02:55] the way you stop being human,
+
+[00:02:56–00:02:58] the path that you take to stop being human.
+
+[00:02:58–00:03:03] You could take a path that culminates in insanity or suicide.
+
+[00:03:03–00:03:06] That's not what we're talking about.
+
+[00:03:06–00:03:12] But if you follow the path of attempting to be as precise as possible about what's going on,
+
+[00:03:12–00:03:15] as allowing as possible about what's going on,
+
+[00:03:15–00:03:19] and be aware of in what ways what's going on is changing,
+
+[00:03:21–00:03:23] if you follow this path,
+
+[00:03:24–00:03:28] then when the mind and body become untenable,
+
+[00:03:28–00:03:30] which literally means we can't hold on to them,
+
+[00:03:30–00:03:33] you realize you don't have to hold on to them.
+
+[00:03:33–00:03:37] and your experience of the non-human
+
+[00:03:37–00:03:41] will be a resting in the source of the human,
+
+[00:03:42–00:03:44] in the fundamental flow of nature itself.
+
+[00:03:45–00:03:48] Or, if you want, you can say
+
+[00:03:48–00:03:52] that you are embraced by God.
+
+[00:03:53–00:03:55] Not the God of belief,
+
+[00:03:56–00:03:58] not the God of wishful thinking,
+
+[00:03:58–00:04:01] not even the God of sentiment and piety,
+
+[00:04:01–00:04:09] but actual God. But when you experience God, you have to understand that you can't
+
+[00:04:09–00:04:15] be a human and experience God. You have to let go of the usual human ordering principles,
+
+[00:04:16–00:04:22] which are clarity in the mind and comfort in the body. You let go of those ordering principles,
+
+[00:04:22–00:04:30] and you discover a more fundamental ordering principle that fills all of nature. And in
+
+[00:04:30–00:04:36] Buddhism, that ordering principle is called anicca, or impermanence. And so you unbecome
+
+[00:04:36–00:04:42] the products of the source, which are your thoughts and feelings. After all, who wants to be
+
+[00:04:42–00:04:47] your thoughts and feelings when your feelings are so uncomfortable? Moment by moment, there's nothing
+
+[00:04:47–00:04:51] but discomfort in the body. Moment by moment, there's nothing but confusion in the mind. Who
+
+[00:04:51–00:05:01] wants to be that. It's not time to be that. So you unbecome the products of the vibrating source
+
+[00:05:01–00:05:08] of all things. And when you're willing to do that, then you might think you're going to become
+
+[00:05:08–00:05:15] completely disordered, completely chaotic, completely out of control. But the confusion
+
+[00:05:15–00:05:19] expands and contracts. It gets a little more, it gets a little less, it spreads, it grips.
+
+[00:05:20–00:05:28] Within it is the flow of nature, the affirming and negating, the two sides of impermanence.
+
+[00:05:28–00:05:29] The pain gets bigger, it gets smaller.
+
+[00:05:30–00:05:32] The mind speeds up, it slows down.
+
+[00:05:33–00:05:38] The two fundamental sides of nature, the affirming and negating, the yang and the yin,
+
+[00:05:38–00:05:46] the spreading and the shrinking, these two sides of nature, you're in their hands now.
+
+[00:05:46–00:06:03] And to the extent that you let go of the preoccupation with the content of the experience, and you rest in the changing contour, well, you're not a human, but you are completely okay.
+
+[00:06:03–00:06:05] This is called complete experience.
+
+[00:06:05–00:06:14] It's also called transcending the limited identity, or going beyond happiness that is dependent on conditions.
+
+[00:06:17–00:06:20] let's say that you're going through a difficult emotion
+
+[00:06:20–00:06:24] that only involves one flavor or quality of sensation.
+
+[00:06:25–00:06:28] Let's say that it's fear, for example.
+
+[00:06:29–00:06:35] So your mind is going through all sorts of thoughts about what could happen.
+
+[00:06:36–00:06:39] For starters, though, try tuning into your body.
+
+[00:06:41–00:06:44] Ignore the thoughts for a little while, if possible,
+
+[00:06:44–00:06:49] and see if you can detect the actual sensation of fear.
+
+[00:06:50–00:06:53] Is it primarily in one location?
+
+[00:06:53–00:06:55] Is it in several disconnected locations?
+
+[00:06:56–00:06:59] Let's say that you discover it's in one location.
+
+[00:07:01–00:07:03] Tune into it and ask yourself the question,
+
+[00:07:04–00:07:07] how large is the boundary of this sensation of fear?
+
+[00:07:07–00:07:09] Feel it on the right, feel it on the left,
+
+[00:07:09–00:07:11] feel it in front, feel it behind,
+
+[00:07:12–00:07:13] feel it above, feel it below.
+
+[00:07:14–00:07:21] C, is it confined within the body? Does it reach the boundaries of the ordinary physical body?
+
+[00:07:21–00:07:27] Does it go beyond those boundaries? Maybe it seems to spread out into space around you. If
+
+[00:07:27–00:07:34] that's the way you detect it, then that's what it is in that time. Of course, what's true of fear
+
+[00:07:34–00:07:40] would be true of sadness, anger, embarrassment. And for that matter, it would also be true of
+
+[00:07:40–00:07:49] joy or sexual feeling or friendly feeling. But here we'll, just to make it specific,
+
+[00:07:50–00:07:56] talk about it in terms of fear. So now you have found the primary location of the fear
+
+[00:07:56–00:08:05] quality and you've determined its boundary, its border. Let it be as big or as small as it is
+
+[00:08:05–00:08:10] and begin to pour your awareness into it
+
+[00:08:10–00:08:15] as a tangible, three-dimensional volume of feeling space.
+
+[00:08:16–00:08:20] It has a right, it has a left, it has a front, a back, a top, a bottom,
+
+[00:08:20–00:08:24] and therefore it has a content, a volume within it.
+
+[00:08:26–00:08:29] As you do this, you can ask yourself,
+
+[00:08:29–00:08:36] is this sensation completely still and stable in every sense?
+
+[00:08:38–00:08:42] Doesn't get any stronger, doesn't get any weaker, doesn't shift over here a millimeter,
+
+[00:08:42–00:08:46] or move over there, doesn't puff out, doesn't pull in.
+
+[00:08:46–00:08:50] If it's perfectly still and stable in every way, you can ask yourself,
+
+[00:08:51–00:08:57] okay, is this stillness and stability light and effortless and peaceful?
+
+[00:08:57–00:09:04] If so, then just tune into the aspect of it being light, effortless, and peaceful.
+
+[00:09:05–00:09:08] But probably it's not going to be light, effortless, and peaceful.
+
+[00:09:08–00:09:12] Probably there's going to be a sense of pressure force.
+
+[00:09:15–00:09:16] Then ask yourself,
+
+[00:09:18–00:09:24] is the pressure force an inward pull?
+
+[00:09:24–00:09:34] the proverbial gut tightening? Is it an outward push, something trying to get out,
+
+[00:09:34–00:09:39] push outwards? Or is it something yanking in and pushing out exactly simultaneously?
+
+[00:09:41–00:09:47] The sensation may not change, but if there's pressure, and you look carefully, usually you
+
+[00:09:47–00:09:53] can discern whether the pressure is inward, outward, or bidirectional. If it's inward,
+
+[00:09:54–00:09:55] yield, let it yank in.
+
+[00:09:56–00:09:59] If it's outward, yield, let it push out.
+
+[00:10:00–00:10:02] If it's both at the same time, let it be both.
+
+[00:10:03–00:10:04] And just stay with that.
+
+[00:10:05–00:10:07] Stay with that, stay with that, stay with that.
+
+[00:10:08–00:10:10] And you'll find that as you yield to those pressure forces,
+
+[00:10:11–00:10:12] the sense of suffering may diminish.
+
+[00:10:13–00:10:16] And often the sensation will begin to move.
+
+[00:10:16–00:10:19] It may actually expand or contract.
+
+[00:10:19–00:10:28] Of course, often when we tune into a sensation, it's not still unstable.
+
+[00:10:28–00:10:33] We notice that it changes, perhaps very slightly, pushes in, pulls out.
+
+[00:10:34–00:10:45] As we tune into its changing quality, its change may be stately and undulatory, like a jellyfish.
+
+[00:10:45–00:10:48] or it may be more rapid and vibratory.
+
+[00:10:49–00:10:51] Whatever qualities of change are there,
+
+[00:10:52–00:10:53] yield to them.
+
+[00:10:54–00:10:58] And the more that you detect in and out pressure
+
+[00:10:58–00:11:03] or vibrations or undulations and yield to it,
+
+[00:11:03–00:11:06] the softer the sensation becomes.
+
+[00:11:07–00:11:10] And eventually, you're so fascinated
+
+[00:11:10–00:11:12] with the movement qualities,
+
+[00:11:12–00:11:19] how it expands, how it contracts, how it vibrates, how it jiggles.
+
+[00:11:20–00:11:24] You're paying so much attention to the movement qualities that you don't have any time left
+
+[00:11:24–00:11:31] to get caught up in the actual content of it as a discomfort.
+
+[00:11:31–00:11:34] And it becomes pure movement, pure spirit.
+
+[00:11:35–00:11:39] And you discover within that movement that there are two fundamental movements,
+
+[00:11:39–00:11:45] an outward affirming movement and an inward negating movement.
+
+[00:11:45–00:11:48] And these are the primordial ordering principles of nature.
+
+[00:11:49–00:11:54] All over the world there are systems that describe the spiritual source nature
+
+[00:11:54–00:11:58] in terms of a pair of contrasting complementary activities.
+
+[00:11:59–00:12:01] In the Taoist tradition, yang and yin.
+
+[00:12:02–00:12:08] In ancient Greece, Pythagoras called it the unlimited and the limited.
+
+[00:12:08–00:12:27] In the Neoplatonic tradition of ancient Greece, they called it the gushing forth and the gathering back. Heraclitus called it the advancing and the returning. In the Jewish mystical tradition, they talk about chesed and kvura, the allowing and the limiting side of God.
+
+[00:12:27–00:12:39] So, you discover in its movement these primordial aspects of nature, and this is the deepest meaning.
+
+[00:12:40–00:12:43] It connects us with the source of all meaning.
+
+[00:12:46–00:12:47] How about the thinking mind?
+
+[00:12:48–00:12:54] As I always say, if there's one true and useful thing to remember about, quote, emotion,
+
+[00:12:54–00:13:01] It is that emotion is a tangling together of feelings in the body and thoughts in the mind.
+
+[00:13:03–00:13:05] We can just work with the feeling part.
+
+[00:13:06–00:13:07] That's the easier part.
+
+[00:13:07–00:13:08] That's the tangible part.
+
+[00:13:08–00:13:14] But we can also work with the mental part, either independent of the feelings or when we get really skillful,
+
+[00:13:14–00:13:21] when we really have a high emotional IQ, we can simultaneously work with the thoughts and the feelings.
+
+[00:13:21–00:13:29] Well, as I mentioned, the thoughts come in images, they come in words, they may come in more subtle processes.
+
+[00:13:32–00:13:41] If we detach from the images and the words, give them permission to come and go, but not get caught up in their content,
+
+[00:13:42–00:13:46] then they also start to show aspects of expansion and contraction.
+
+[00:13:47–00:13:49] The thoughts speed up, they slow down.
+
+[00:13:49–00:13:51] The voice gets louder, it gets weaker.
+
+[00:13:53–00:13:56] And although I know it may be hard to believe,
+
+[00:13:56–00:14:02] the thinking process itself becomes a kind of flow of energy.
+
+[00:14:03–00:14:07] And we become so fascinated with the contour of that flow
+
+[00:14:07–00:14:12] that we, moment by moment, are not caught up in the content of thought,
+
+[00:14:12–00:14:13] but we're thinking.
+
+[00:14:13–00:14:20] We become so fascinated with the movement of the mind that we don't need the meaning anymore,
+
+[00:14:20–00:14:21] because everything has the same meaning.
+
+[00:14:22–00:14:24] It's part of the flow of nature.
+
+[00:14:25–00:14:26] Everything means everything.
+
+[00:14:27–00:14:31] Once you start to relate to the mind as movement rather than meaning,
+
+[00:14:31–00:14:34] you might think that you become meaningless.
+
+[00:14:35–00:14:39] But actually, every thought contains all meanings in the universe.
+
+[00:14:40–00:14:47] That seems like a pretty radical claim, but remember, when a thing is a wave, it interacts with all other waves.
+
+[00:14:48–00:14:52] Particles just bounce off of each other. They never interact.
+
+[00:14:52–00:14:57] Billiard balls don't merge, but streams of water do.
+
+[00:14:57–00:15:11] So it's a frightening thing for a human being when they first learn how to just let the mind flow without concern for clarity versus chaos.
+
+
+# Expression And Suppression Of Emotions
+
+Source: [1-06 Expression And Suppression Of Emotions.mp3](/Users/robdahal/Desktop/SelfEducation/04-Energy_work/Break%20through%20difficult%20emotions-Shinzen%20Young/1-06%20Expression%20And%20Suppression%20Of%20Emotions.mp3)
+
+Source ID: shinzen-1-06
+
+SHA-256: 745b7d552f57171dfe7eaca71866f697b9eabdffd76318298a327b57849b94c8
+
+Method: Local MLX Whisper large-v3-turbo; Silero VAD cross-check and original-recording timestamps. Targeted corrections are documented in the review report.
+
+Accuracy: Full spoken-content transcription, including source claims and repetitions; not fully listening-verified.
+
+Duration: 00:15:41
+
+Review notes: Full no-VAD second pass compared with VAD pass; silence/music hallucinations removed. Approximate segment timestamps retain conservative speech padding.; Japanese phrase and French expression are uncertain phonetic ASR; consult the recording for exact spelling.
+
+[00:00:00–00:00:07] But once you get the idea, paradoxically, a kind of deeper clarity arises that's called the wisdom mind.
+
+[00:00:08–00:00:18] So paradoxically, if you can just allow confusion to get stronger or weaker, like a jellyfish puffing out here and pulling in there,
+
+[00:00:18–00:00:35] Then, after abiding in that state of fluid confusion for a period of time, an understanding arises that comes out of the very bowels of the universe, and it's called spiritual intuition.
+
+[00:00:36–00:00:47] So they say in Japanese, Taigi no moto ni Taigo arei. There's great enlightenment to be found in great confusion.
+
+[00:00:48–00:00:52] So one can treat the thinking mind the same way one treats the feeling body.
+
+[00:00:54–00:00:57] And then one has covered the entire emotion.
+
+[00:01:00–00:01:06] A lot of times, there's no way to escape from an emotion.
+
+[00:01:06–00:01:10] No matter what we do, we can't change the circumstance, we can't get away from it.
+
+[00:01:10–00:01:13] I remember I had an experience once a number of years ago.
+
+[00:01:13–00:01:31] When I first started to be on radio or be on television, that kind of thing, I discovered that I had this terrible phobia of the camera and the microphone.
+
+[00:01:31–00:01:42] and when I looked at videos of myself, I was so stiff and so awkward and so zombie-like that I was
+
+[00:01:42–00:01:52] just horrified. And I tried everything I could to get over this. I tried every relaxation exercise,
+
+[00:01:52–00:01:59] you know, I tried counting my breath, you know, mantras, I had this whole panoply of approaches,
+
+[00:01:59–00:02:02] and nothing I did would work.
+
+[00:02:04–00:02:08] And finally, I had to just be willing to be afraid
+
+[00:02:08–00:02:13] and just feel the sensations in my body
+
+[00:02:13–00:02:16] associated with that phobia
+
+[00:02:16–00:02:20] and feel it while I was on camera.
+
+[00:02:20–00:02:22] There was no escaping from it.
+
+[00:02:23–00:02:27] And what happened is, as those sensations became clarified,
+
+[00:02:27–00:02:35] through my awareness. They also became clarified in the other sense of the English word clear.
+
+[00:02:35–00:02:41] They turned into a kind of transparent, fluid energy. In a sense, nothing has changed. When I
+
+[00:02:41–00:02:47] get in front of a camera or get in front of a microphone, I have exactly the same nervousness,
+
+[00:02:47–00:02:55] except that because of all of the years of practice, it's no longer perceived as nervousness.
+
+[00:02:55–00:03:03] subjectively. What I perceive it as is a kind of bubbly energy of my on-camera personality.
+
+[00:03:04–00:03:09] And I just ride on that energy, and it comes across looking just great. But all that is,
+
+[00:03:09–00:03:17] is fluid fear. For me, all that charisma and personality is just my nervousness and
+
+[00:03:17–00:03:22] self-consciousness and fear, which is now fluid, and therefore has released its energy
+
+[00:03:22–00:03:25] in a way that works out really nice.
+
+[00:03:28–00:03:30] People often ask me,
+
+[00:03:32–00:03:34] should I just watch my sensations and thoughts,
+
+[00:03:35–00:03:38] or should I do something about the situation?
+
+[00:03:40–00:03:42] There's a problem with this question.
+
+[00:03:42–00:03:45] The problem is in the little word, or.
+
+[00:03:46–00:03:50] They are thinking of what in the language of symbolic logic
+
+[00:03:50–00:03:52] is called exclusive or.
+
+[00:03:52–00:03:58] The implication in that question is, you've got to do one or the other, you can't do both.
+
+[00:03:59–00:04:01] It's a little trick of language.
+
+[00:04:02–00:04:11] In point of fact, with regard to the external expression of emotions, we have four possibilities.
+
+[00:04:12–00:04:16] Two are always healthy, two are never healthy.
+
+[00:04:16–00:04:20] Emotion can be expressed internally
+
+[00:04:20–00:04:24] when we have mindfulness and equanimity
+
+[00:04:24–00:04:26] with respect to the thoughts and feelings
+
+[00:04:26–00:04:28] that constitute the emotion.
+
+[00:04:28–00:04:30] We have internal expression.
+
+[00:04:32–00:04:35] When we lack mindfulness and equanimity,
+
+[00:04:36–00:04:38] when we don't have contact
+
+[00:04:38–00:04:41] and we aren't allowing of the natural flow pattern
+
+[00:04:41–00:04:42] of those thoughts and feelings,
+
+[00:04:42–00:04:46] we have internal suppression.
+
+[00:04:46–00:04:58] When we make sounds, facial gestures, take actions on the outside, we have external expression.
+
+[00:04:59–00:05:02] When we don't do that, we have external suppression.
+
+[00:05:03–00:05:06] So, there are four possibilities.
+
+[00:05:07–00:05:13] We can internally express, and at the same time, externally express.
+
+[00:05:14–00:05:18] Internal expression means we have mindfulness and equanimity,
+
+[00:05:18–00:05:19] we're in contact with what is,
+
+[00:05:20–00:05:22] and we're not interfering with what is.
+
+[00:05:24–00:05:30] External expression, we make sounds, gestures, take actions.
+
+[00:05:32–00:05:38] We can internally express, but externally suppress.
+
+[00:05:39–00:05:43] We still have contact with what's going on on the inside,
+
+[00:05:43–00:05:45] and we allow its natural flow pattern,
+
+[00:05:45–00:05:50] but because of circumstances or because of a personal or cultural style,
+
+[00:05:51–00:05:54] we don't show on the outside.
+
+[00:05:55–00:05:58] Of course, we can also internally suppress.
+
+[00:06:00–00:06:05] We can not have contact and allowingness with respect to the thoughts and feelings.
+
+[00:06:05–00:06:14] and yet externally we can be very expressive while that's going on. We might make all sorts
+
+[00:06:14–00:06:19] of sounds and gestures but they take us away from what we're actually feeling and thinking.
+
+[00:06:20–00:06:24] So we're internally suppressing even though we're externally expressing. And of course
+
+[00:06:24–00:06:31] the fourth possibility is we can internally suppress and externally suppress. The first
+
+[00:06:31–00:06:37] two are always healthy, because internal expression is always healthy. It's always catharsis.
+
+[00:06:38–00:06:43] Whether one chooses to externally express or not depends on a number of factors.
+
+[00:06:45–00:06:54] On the other hand, the second two are always unhealthy, because we don't have mindfulness
+
+[00:06:54–00:06:59] and equanimity. So even though a person may be very expressive on the outside,
+
+[00:06:59–00:07:05] If they're completely unconscious on the inside while they're doing it, they're just blowing off steam.
+
+[00:07:06–00:07:08] That's not real catharsis.
+
+[00:07:10–00:07:17] So, in some spiritual traditions, for example, Theravada Buddhism in Southeast Asia,
+
+[00:07:17–00:07:19] they externally suppress.
+
+[00:07:20–00:07:26] They don't show on the outside as a cultural norm, feeling.
+
+[00:07:26–00:07:32] the problem is people look at that and they say oh these people aren't externally expressing
+
+[00:07:32–00:07:36] therefore they must be suppressing their feeling they must be doing something that is
+
+[00:07:36–00:07:45] psychologically unhealthy but it's not necessarily the case it's possible but what they're actually
+
+[00:07:45–00:07:52] doing if they're practicing meditation is that they're having a full internal experience even
+
+[00:07:52–00:08:01] though there's no external expression. So one shouldn't confuse the Theravada style
+
+[00:08:01–00:08:11] of showing liberation with what we might call white-knuckle stoicism, which would be where
+
+[00:08:11–00:08:19] you are externally suppressing and internally suppressing. On the other hand, in the Zen
+
+[00:08:19–00:08:26] style of showing liberation, they externally express things. But of course, what they're
+
+[00:08:26–00:08:33] attempting to do is also internally express. But people make a mistake, and they think
+
+[00:08:33–00:08:38] that when they're blowing off steam, they're showing Zen spontaneity. Blowing off steam
+
+[00:08:38–00:08:44] means there's an external expression, but without the internal expression happening.
+
+[00:08:44–00:08:52] Real Zen spontaneity means there's an external expression that shows internal expression.
+
+[00:08:54–00:09:01] So, a Zen master might ask, how do you show your liberation when you bang your thumb with a hammer?
+
+[00:09:02–00:09:06] To which the correct response might be something like, ouch!
+
+[00:09:07–00:09:09] But that has to be a special ouch.
+
+[00:09:10–00:09:15] That ouch has to not just be a full external sounding,
+
+[00:09:16–00:09:23] but has to have a quality to it that shows that there has been a full internal experience
+
+[00:09:23–00:09:27] that has flowed over into the sound.
+
+[00:09:27–00:09:32] And by the quality of the voice, the master can tell whether you actually understand or not.
+
+[00:09:33–00:09:35] So is it good to externally express?
+
+[00:09:36–00:09:37] Or bad?
+
+[00:09:38–00:09:39] Or does it depend?
+
+[00:09:39–00:09:40] Well, obviously it depends.
+
+[00:09:41–00:09:43] What does it depend on?
+
+[00:09:43–00:09:45] It depends on circumstances.
+
+[00:09:45–00:09:50] But it also depends on how you use the external expression.
+
+[00:09:51–00:09:58] If you use the external expression as a guide to keep you in contact with what is going on internally, that's good.
+
+[00:09:58–00:10:03] But if the external expression has distracted you so that you don't have mindfulness and equanimity,
+
+[00:10:04–00:10:06] then you're just blowing off steam.
+
+[00:10:06–00:10:07] That's not catharsis.
+
+[00:10:10–00:10:24] When a person has complete internal expression and they choose to externally express, this is very good, because their external expression is going to be appropriate.
+
+[00:10:25–00:10:31] It's not going to be distorted by the suffering that comes about when we fail to internally express.
+
+[00:10:31–00:10:52] And when a person is a deeply attained meditator, their internal expression is so complete that not only is there no suffering, but there is actually a vibrant, effortless flow of healthy energy flowing through them.
+
+[00:10:52–00:11:06] My teacher of the last 15 years, Sasaki Roshi, is very old. He's 90 years old, and his students are afraid he's going to die all the time.
+
+[00:11:07–00:11:15] And I've heard him say in public talks, don't worry about me dying. As long as I'm getting angry, I'm staying healthy.
+
+[00:11:15–00:11:22] It seems like the exact opposite of what one would think, right? Anger is supposed to shorten your life, type A behavior.
+
+[00:11:22–00:11:26] Is this just one of these cute things that Zen masters say to blow people's minds?
+
+[00:11:26–00:11:30] No. He's being completely ingenuous, completely honest.
+
+[00:11:31–00:11:38] For him, anger is a total internal expression, therefore it turns into a healthy, vital energy.
+
+[00:11:41–00:11:44] I experienced living proof of that myself.
+
+[00:11:47–00:11:51] He and I got into a little bit of an argument once about something,
+
+[00:11:51–00:11:55] and I walked away and I had the usual thoughts that people have.
+
+[00:11:57–00:12:00] He's full of shit and blah, blah, blah, blah, blah, blah.
+
+[00:12:00–00:12:02] And after walking a little distance,
+
+[00:12:03–00:12:08] I started to notice that I was smiling.
+
+[00:12:10–00:12:11] Why am I smiling?
+
+[00:12:11–00:12:13] I'm thinking all these negative thoughts.
+
+[00:12:13–00:12:13] Why am I smiling?
+
+[00:12:15–00:12:16] Go into meditation, tune in.
+
+[00:12:17–00:12:20] Ah, my body feels good.
+
+[00:12:21–00:12:22] That's why I'm smiling.
+
+[00:12:24–00:12:26] And then I realized what the old man had done.
+
+[00:12:27–00:12:31] He'd been yelling at me, he'd been shaking his finger, raising his voice.
+
+[00:12:32–00:12:37] What we would ordinarily take to be the usual gestures of a pissed-off person.
+
+[00:12:40–00:12:49] But the quality of the movement of his voice and body were subtly but significantly different from an ordinary pissed-off person.
+
+[00:12:51–00:12:56] Yes, the pain of anger was there, but it wasn't being congealed into the suffering of anger.
+
+[00:12:57–00:13:05] So when it expressed itself as sound and movement, there was an effortless fluid quality to that sound and movement.
+
+[00:13:05–00:13:10] And when those sounds and movements hit my body, it was like getting body work.
+
+[00:13:10–00:13:11] It was like a massage.
+
+[00:13:11–00:13:16] It was almost like he scanned me with a kind of sonar touch
+
+[00:13:17–00:13:21] that massaged all my internal organs and made them feel good.
+
+[00:13:21–00:13:26] I got to feel the pleasure of the fluidity of his anger
+
+[00:13:26–00:13:31] directly communicated into my body by his sounds and movements.
+
+[00:13:34–00:13:36] And the thought occurred to me,
+
+[00:13:36–00:13:41] this is what they mean by the master's stroke, the coup de mettre.
+
+[00:13:43–00:13:46] I understand what he's doing. I can't do it myself.
+
+[00:13:46–00:13:50] I don't have enough experience, but I have enough experience to know what he's doing.
+
+[00:13:51–00:13:58] So a real master can actually teach you and bless you
+
+[00:13:58–00:14:04] with what on the surface would seem like ordinary anger.
+
+[00:14:04–00:14:23] And this would certainly be a very noble goal that a person might have for their life, since we cannot escape from these difficult emotions.
+
+[00:14:23–00:14:28] that at some time, by working assiduously each time they come up,
+
+[00:14:30–00:14:33] that at some time in their life,
+
+[00:14:34–00:14:42] that person would be able to express enlightened emotion
+
+[00:14:42–00:14:48] like the Master that I just talked about.
+
+[00:14:48–00:14:54] certainly one of the most noble goals that any human being could have
+
+[00:14:54–00:15:00] would be to express in this way
+
+[00:15:00–00:15:05] their emotions as a manifestation,
+
+[00:15:05–00:15:08] a teaching of enlightenment.
+
+[00:15:10–00:15:14] But in order to do that, one has to start somewhere.
+
+[00:15:15–00:15:17] Confucius said a journey of 10,000 miles
+
+[00:15:17–00:15:20] must start with one step.
+
+[00:15:23–00:15:29] The exercises that come in this series
+
+[00:15:29–00:15:34] represent some tangible steps that you can make
+
+[00:15:34–00:15:38] towards this most noble goal.
+
+
+# A Noble Goal For Working With Difficult Emotions
+
+Source: [1-07 A Noble Goal For Working With Difficult Emotions.mp3](/Users/robdahal/Desktop/SelfEducation/04-Energy_work/Break%20through%20difficult%20emotions-Shinzen%20Young/1-07%20A%20Noble%20Goal%20For%20Working%20With%20Difficult%20Emotions.mp3)
+
+Source ID: shinzen-1-07
+
+SHA-256: 7cf77427b4277e7bef0898ed8e25173186eb15c6ad5dbef5139d0bc4e15e0ef1
+
+Method: Local MLX Whisper large-v3-turbo; Silero VAD cross-check and original-recording timestamps. Targeted corrections are documented in the review report.
+
+Accuracy: Full spoken-content transcription, including source claims and repetitions; not fully listening-verified.
+
+Duration: 00:06:04
+
+Review notes: Full no-VAD second pass compared with VAD pass; silence/music hallucinations removed. Approximate segment timestamps retain conservative speech padding.; End-of-session credits and contact announcement recovered in second pass. Contact details are historical source content, not verified current information.
+
+[00:00:00–00:00:02] We've covered quite a bit of interesting territory.
+
+[00:00:04–00:00:06] Now one last thing.
+
+[00:00:07–00:00:11] I'd like to talk about the guided exercises.
+
+[00:00:12–00:00:17] There are four of them, and they are graded.
+
+[00:00:18–00:00:21] The first being relatively easy,
+
+[00:00:23–00:00:27] and then the second and third, more challenging,
+
+[00:00:27–00:00:29] and the fourth considerably challenging.
+
+[00:00:29–00:00:35] So don't feel defeated if you can't do all four of them.
+
+[00:00:37–00:00:42] You may have one that you particularly like, and you can do that.
+
+[00:00:43–00:00:48] On the other hand, if you're facing a really severe challenge,
+
+[00:00:49–00:00:53] you might want to listen to the whole 90 minutes in a row
+
+[00:00:53–00:00:55] to build up a kind of momentum,
+
+[00:00:55–00:00:59] since each exercise builds on the former.
+
+[00:00:59–00:01:03] you can use these guided exercises
+
+[00:01:03–00:01:07] when you're passing through a difficult emotion.
+
+[00:01:08–00:01:11] But you can also use them in some other ways.
+
+[00:01:12–00:01:16] For example, if you're going to encounter a circumstance
+
+[00:01:16–00:01:19] that you think may evoke a difficult emotion,
+
+[00:01:20–00:01:22] you can do the exercise
+
+[00:01:22–00:01:26] before going into that circumstance to prepare you.
+
+[00:01:26–00:01:31] Also, you can do these exercises on a day-to-day basis
+
+[00:01:31–00:01:34] as a sort of emotional tune-up, a clearing
+
+[00:01:34–00:01:39] of anything that may be present subtly.
+
+[00:01:40–00:01:45] At first, you'll listen to the tapes in order to learn the exercises.
+
+[00:01:45–00:01:50] But as you gain skill, try to be able to do it on your own
+
+[00:01:50–00:01:52] without a dependency on the tapes.
+
+[00:01:53–00:01:59] You may have to go off and be by yourself for a little while to do it at the beginning.
+
+[00:02:00–00:02:03] But if you really internalize the skills,
+
+[00:02:04–00:02:11] you can actually do these exercises and respond to the life situation simultaneously.
+
+[00:02:12–00:02:14] Sort of like when you get good at driving a car,
+
+[00:02:14–00:02:18] you can drive the car and do something else at the same time.
+
+[00:02:18–00:02:19] But it takes practice.
+
+[00:02:19–00:02:24] But of course, it's well worth it
+
+[00:02:24–00:02:28] because of the tremendous empowerment
+
+[00:02:28–00:02:34] and magnification of the very scale of your life
+
+[00:02:34–00:02:37] that this kind of skill will bring.
+
+[00:02:39–00:02:43] Although we've talked primarily about negative
+
+[00:02:43–00:02:46] or difficult or painful emotions,
+
+[00:02:46–00:02:53] it's important to realize that the skills that you will acquire from these exercises
+
+[00:02:53–00:03:03] will also allow you to experience pleasant emotions with deeper fulfillment.
+
+[00:03:04–00:03:05] Feeling is feeling.
+
+[00:03:05–00:03:19] The ability to be precise, non-interfering, and cognizant of the essential energy nature
+
+[00:03:19–00:03:26] of feeling applies to both pleasant and unpleasant, and indeed neutral feeling for that matter.
+
+[00:03:27–00:03:31] When we apply it to unpleasant feeling, it reduces the suffering.
+
+[00:03:31–00:03:36] When we apply it to pleasant feeling, it deepens the fulfillment.
+
+[00:03:38–00:03:46] When we apply it to neutral feeling, that neutral feeling becomes a conduit to the flow of nature also.
+
+[00:03:48–00:03:56] And also remember that because the feeling part of the emotion is body sensation,
+
+[00:03:56–00:04:03] the skills that you'll acquire working with feelings that come about as the result of emotions
+
+[00:04:03–00:04:07] are applicable to physical feelings, pleasant and unpleasant,
+
+[00:04:08–00:04:16] such as the unpleasant sensations of illness or injury,
+
+[00:04:16–00:04:24] or the pleasant sensations associated with making love or a good meal.
+
+[00:04:24–00:04:30] So there's a very broad and universal application
+
+[00:04:30–00:04:34] when you are willing to work with difficult emotions
+
+[00:04:34–00:04:36] in a meditative spiritual way.
+
+[00:04:36–00:04:44] It impacts broadly all aspects of your life.
+
+[00:05:07–00:05:12] This concludes Session 1 of Break Through Difficult Emotions with Shinzen Young.
+
+[00:05:13–00:05:15] Shakuhachi Flute Music by Stan Richardson.
+
+[00:05:15–00:05:20] For more information on insight meditation or on retreats with Shinzen Young,
+
+[00:05:20–00:05:36] please contact the Vipassana Support Institute, 4070 Albright Avenue, Los Angeles, California, 90066, or call 310-915-1943.
+
+[00:05:37–00:05:43] Break Through Difficult Emotions with Shinzen Young continues with a series of guided meditations.
+
+
+# Introduction
+
+Source: [2-01 Introduction.mp3](/Users/robdahal/Desktop/SelfEducation/04-Energy_work/Break%20through%20difficult%20emotions-Shinzen%20Young/2-01%20Introduction.mp3)
+
+Source ID: shinzen-2-01
+
+SHA-256: ea9fa8485e2468a06deb6b03453522cf22c8c098ba24e96f63a2641528403683
+
+Method: Local MLX Whisper large-v3-turbo; Silero VAD cross-check and original-recording timestamps. Targeted corrections are documented in the review report.
+
+Accuracy: Full spoken-content transcription, including source claims and repetitions; not fully listening-verified.
+
+Duration: 00:02:05
+
+Review notes: Full no-VAD second pass compared with VAD pass; silence/music hallucinations removed. Approximate segment timestamps retain conservative speech padding.
+
+[00:00:17–00:00:22] Now we're going to do a series of guided exercises.
+
+[00:00:22–00:00:28] You can do these either in a seated position
+
+[00:00:28–00:00:31] with the back straight
+
+[00:00:31–00:00:35] and the whole body relaxed
+
+[00:00:35–00:00:38] on a chair or on the floor.
+
+[00:00:39–00:00:42] Or you can do them in a lying down position.
+
+[00:00:45–00:00:50] Sometimes when an emotion is very, very strong
+
+[00:00:50–00:00:55] it's a little easier to work with it
+
+[00:00:55–00:00:57] in the lying down posture.
+
+[00:01:04–00:01:06] If you do lie down though
+
+[00:01:06–00:01:10] make sure to
+
+[00:01:10–00:01:13] keep as alert as possible
+
+[00:01:13–00:01:17] because
+
+[00:01:17–00:01:19] the meditative state
+
+[00:01:19–00:01:28] is a state of both brightness and repose,
+
+[00:01:29–00:01:36] both alertness and relaxation at the same time.
+
+[00:01:39–00:01:40] Let's begin.
+
+
+# Contacting The Feeling Process In The Body Exercise
+
+Source: [2-02 Contacting The Feeling Process In The Body Exercise.mp3](/Users/robdahal/Desktop/SelfEducation/04-Energy_work/Break%20through%20difficult%20emotions-Shinzen%20Young/2-02%20Contacting%20The%20Feeling%20Process%20In%20The%20Body%20Exercise.mp3)
+
+Source ID: shinzen-2-02
+
+SHA-256: 97fe34a7ffa09858c1128746beb21b16d1ab3acb2000c8a233d8880cf2df0d6b
+
+Method: Local MLX Whisper large-v3-turbo; Silero VAD cross-check and original-recording timestamps. Targeted corrections are documented in the review report.
+
+Accuracy: Full spoken-content transcription, including source claims and repetitions; not fully listening-verified.
+
+Duration: 00:22:29
+
+Review notes: Full no-VAD second pass compared with VAD pass; silence/music hallucinations removed. Approximate segment timestamps retain conservative speech padding.
+
+[00:00:00–00:00:16] This first meditation is to establish a clear contact with the feeling process as it manifests
+
+[00:00:16–00:00:18] in the body.
+
+[00:00:18–00:00:27] Take a moment to settle into the posture
+
+[00:00:27–00:00:32] which may be a seated one
+
+[00:00:32–00:00:35] or lying down.
+
+[00:00:42–00:00:44] Feel the whole body
+
+[00:00:44–00:00:50] two arms, two legs,
+
+[00:00:51–00:00:53] the head, the torso, all connected.
+
+[00:01:00–00:01:01] And for a moment,
+
+[00:01:01–00:01:05] contact any qualities
+
+[00:01:05–00:01:13] of repose and relaxation
+
+[00:01:13–00:01:18] that may be present
+
+[00:01:18–00:01:23] and enjoy those qualities.
+
+[00:01:58–00:02:09] Now, bring your awareness to the sensations associated with any difficult emotions.
+
+[00:02:13–00:02:16] that you may be passing through at this moment.
+
+[00:02:28–00:02:31] And if at this moment you are not passing through
+
+[00:02:31–00:02:34] any particularly challenging emotion,
+
+[00:02:34–00:02:41] then
+
+[00:02:41–00:02:44] recall
+
+[00:02:44–00:02:46] difficult emotions from the past
+
+[00:02:46–00:02:50] that may still have some significance
+
+[00:02:50–00:02:51] for you
+
+[00:02:51–00:02:55] or imagine
+
+[00:02:55–00:03:00] difficult emotions that you may have
+
+[00:03:00–00:03:03] to face in the near or even distant future
+
+[00:03:03–00:03:25] and be aware
+
+[00:03:25–00:03:30] of the impact
+
+[00:03:30–00:03:33] of those emotions
+
+[00:03:33–00:03:38] on the way that you feel in the body.
+
+[00:03:42–00:03:45] If the emotion is coming up strongly
+
+[00:03:45–00:03:49] in the thinking process,
+
+[00:03:50–00:03:52] if you find yourself
+
+[00:03:52–00:03:58] remembering, judging, fantasizing, planning
+
+[00:03:58–00:04:03] around the emotional experience,
+
+[00:04:03–00:04:07] for just now
+
+[00:04:07–00:04:10] try to let go of that
+
+[00:04:10–00:04:15] and feel how all of that impacts
+
+[00:04:22–00:04:23] within
+
+[00:04:23–00:04:25] the volume of space
+
+[00:04:25–00:04:26] that is your body
+
+[00:04:26–00:04:27] two arms
+
+[00:04:27–00:04:29] two legs
+
+[00:04:29–00:04:31] the head, the torso
+
+[00:04:31–00:04:33] all connected.
+
+[00:05:38–00:05:42] Be aware of the different qualities of sensation.
+
+[00:05:47–00:05:57] Shakiness, pressure, heat, tension, hurt.
+
+[00:05:57–00:06:02] perhaps qualities that have no name
+
+[00:06:02–00:06:07] but can be distinguished.
+
+[00:06:14–00:06:17] Be aware of qualities that are associated with
+
+[00:06:17–00:06:19] possible anger
+
+[00:06:19–00:06:23] or fear
+
+[00:06:23–00:06:27] or sadness
+
+[00:06:27–00:06:30] or frustration
+
+[00:06:30–00:06:32] or embarrassment
+
+[00:06:32–00:06:37] or jealousy.
+
+[00:06:40–00:06:43] They all have their own qualities.
+
+[00:06:45–00:06:47] Perhaps one will be predominant.
+
+[00:06:48–00:06:50] Perhaps several will be present.
+
+[00:07:40–00:07:45] And each time you find yourself pulled back into the thinking process,
+
+[00:07:46–00:07:50] gently return to the feeling process in the body.
+
+[00:07:50–00:08:00] even mental states like guilt or confusion
+
+[00:08:00–00:08:06] will cause an impact, a flavor to arise
+
+[00:08:06–00:08:11] within the feeling space of the body.
+
+[00:09:04–00:09:05] Be aware also
+
+[00:09:05–00:09:10] of the different locations involved,
+
+[00:09:12–00:09:14] the shapes of the sensations,
+
+[00:09:14–00:09:21] and how their intensity levels may change.
+
+[00:10:05–00:10:07] And be aware also that
+
+[00:10:07–00:10:09] despite strong
+
+[00:10:09–00:10:12] unpleasant sensations
+
+[00:10:12–00:10:16] there may also be present
+
+[00:10:16–00:10:19] some pleasant sensations
+
+[00:10:19–00:10:23] associated with
+
+[00:10:23–00:10:27] a stillness, a relaxation
+
+[00:10:27–00:10:30] of your body
+
+[00:10:30–00:10:35] and try to remain as still
+
+[00:10:35–00:10:37] and reposed as possible.
+
+[00:10:42–00:10:46] letting go of the urge to move
+
+[00:10:46–00:10:49] and for just a little while
+
+[00:10:49–00:10:51] letting go of the urge to think
+
+[00:10:51–00:10:57] and stay with the flavors and locations
+
+[00:10:57–00:11:02] and changing intensities of feeling
+
+[00:11:02–00:11:10] and try to feel it through
+
+[00:11:10–00:11:17] Try to resolve it at the primordial level of the body sensation
+
+[00:11:17–00:11:23] for just a little while without having recourse to figuring it out.
+
+[00:12:14–00:12:37] Now, in order to make this process more systematic and tangible, be aware that the feeling states
+
+[00:12:37–00:12:48] sometimes impact in just one or a couple locations. Hotspots, perhaps the throat
+
+[00:12:48–00:13:00] or the heart or the stomach. But also other feeling states may impact very
+
+[00:13:00–00:13:14] broadly affect large areas, perhaps color the whole body, albeit perhaps subtly, with
+
+[00:13:14–00:13:24] a quality of tension or ache.
+
+[00:13:24–00:13:36] If you experience a feeling only in one or several limited locations, each time you're
+
+[00:13:36–00:13:50] drawn to that local sensation, say to yourself the word local to acknowledge that something
+
+[00:13:50–00:13:52] is welling up in a restricted area.
+
+[00:13:55–00:14:03] And when you feel larger parts of your being enveloped by feeling, perhaps much or all
+
+[00:14:03–00:14:16] of the body, under a more subtle but widespread quality, say to yourself the word global to
+
+[00:14:17–00:14:18] acknowledge that.
+
+[00:14:20–00:14:22] You don't need to describe it any further.
+
+[00:14:23–00:14:30] We're just going to distinguish the feeling in terms of the two kinds of impacts.
+
+[00:14:32–00:14:38] When you experience broader areas each time, say to yourself, global.
+
+[00:14:40–00:14:42] Smaller, restricted areas, local.
+
+[00:14:42–00:14:46] and let your awareness circulate
+
+[00:14:46–00:14:51] within the local and the global impact of the feeling.
+
+[00:14:54–00:14:56] And by saying to yourself
+
+[00:14:56–00:15:01] those words in a very gentle and matter-of-fact way,
+
+[00:15:05–00:15:09] let that remind you to be gentle and matter-of-fact
+
+[00:15:09–00:15:15] about the upwelling of feeling that you're experiencing in your body.
+
+[00:15:19–00:15:21] Moment by moment.
+
+[00:15:25–00:15:27] Every few seconds,
+
+[00:15:27–00:15:31] something changes at the local or global level.
+
+[00:15:34–00:15:35] Note that
+
+[00:15:35–00:15:38] and open up to it
+
+[00:15:38–00:15:42] and to the best of your ability,
+
+[00:15:44–00:15:45] accept it.
+
+[00:15:46–00:15:47] Drop the judgments,
+
+[00:15:48–00:15:49] the fantasies,
+
+[00:15:50–00:15:51] the plans,
+
+[00:15:52–00:15:52] the memories.
+
+[00:15:55–00:15:56] Relax your whole being
+
+[00:15:56–00:15:59] and deal with that emotional sensation
+
+[00:15:59–00:16:02] as though it were just the touch of your clothes
+
+[00:16:02–00:16:04] or
+
+[00:16:04–00:16:08] hot and cold
+
+[00:16:08–00:16:10] as though it were something just physical
+
+[00:16:10–00:16:13] that you're making friends with.
+
+[00:17:33–00:17:38] If you find that you're caught up in thought a lot,
+
+[00:17:41–00:17:43] say the words out loud,
+
+[00:17:45–00:17:50] local, local, global, like that.
+
+[00:17:54–00:18:01] This is very objective and will pull you out of the subjective involvement with the thoughts.
+
+[00:18:01–00:18:16] On the other hand, if you find that your focus is very sharp, your mind's fairly calm, but the emotion is arising just in the body,
+
+[00:18:18–00:18:28] then you can drop even the internal labels and just be aware moment by moment.
+
+[00:18:28–00:18:37] whether the impact of feeling is local, global, or perhaps both at the same time.
+
+[00:18:39–00:18:41] So you can switch back and forth,
+
+[00:18:43–00:18:50] either saying the words out loud if you need more concentration,
+
+[00:18:50–00:18:53] or saying the words to yourself,
+
+[00:18:54–00:18:58] or not saying any words at all, but being aware.
+
+[00:18:58–00:19:01] and let the feelings just circulate,
+
+[00:19:03–00:19:05] and at each transition,
+
+[00:19:06–00:19:07] at each eruption,
+
+[00:19:09–00:19:11] be it in a small place,
+
+[00:19:11–00:19:13] or over your whole being,
+
+[00:19:21–00:19:22] open up to it,
+
+[00:19:24–00:19:26] to the best of your ability,
+
+[00:19:26–00:19:29] make friends with it
+
+[00:19:29–00:19:33] pour the qualities of
+
+[00:19:33–00:19:36] attentiveness
+
+[00:19:36–00:19:40] and acceptance
+
+[00:19:40–00:19:45] into those sensations
+
+[00:19:45–00:19:49] like pouring water
+
+[00:19:49–00:19:53] into a sponge
+
+[00:21:41–00:21:43] If you would like to pursue this further,
+
+[00:21:47–00:21:49] you can press pause for a while
+
+[00:21:49–00:21:54] and continue to work on your own.
+
+[00:21:56–00:22:02] or move on to the next guided exercise.
+
+
+# Observing The Thinking Process Exercise
+
+Source: [2-03 Observing The Thinking Process Exercise.mp3](/Users/robdahal/Desktop/SelfEducation/04-Energy_work/Break%20through%20difficult%20emotions-Shinzen%20Young/2-03%20Observing%20The%20Thinking%20Process%20Exercise.mp3)
+
+Source ID: shinzen-2-03
+
+SHA-256: 276eca564b3ec09f66e32b156b0c9c13f2da4cb7f3bea2cee878c096560d2add
+
+Method: Local MLX Whisper large-v3-turbo; Silero VAD cross-check and original-recording timestamps. Targeted corrections are documented in the review report.
+
+Accuracy: Full spoken-content transcription, including source claims and repetitions; not fully listening-verified.
+
+Duration: 00:15:04
+
+Review notes: Full no-VAD second pass compared with VAD pass; silence/music hallucinations removed. Approximate segment timestamps retain conservative speech padding.
+
+[00:00:00–00:00:04] Now, we'll move on to the next exercise,
+
+[00:00:04–00:00:10] which is to observe the thinking process.
+
+[00:00:13–00:00:19] Let go of your awareness on the feeling process in the body.
+
+[00:00:21–00:00:24] Just let that be in the background
+
+[00:00:24–00:00:27] and bring all your awareness
+
+[00:00:27–00:00:31] to the thinking process.
+
+[00:00:42–00:00:46] If the thought comes in words,
+
+[00:00:49–00:00:51] phrases, sentences,
+
+[00:00:51–00:00:57] if you hear your own voice talking or somebody else's voice,
+
+[00:01:01–00:01:02] say to yourself,
+
+[00:01:03–00:01:04] talking.
+
+[00:01:05–00:01:07] And just observe.
+
+[00:01:08–00:01:10] That inner talking may continue.
+
+[00:01:12–00:01:12] Just watch it.
+
+[00:01:13–00:01:16] Or it may stop as soon as you label it.
+
+[00:01:16–00:01:26] If you find yourself thinking in images,
+
+[00:01:28–00:01:33] you see scenes, faces, situations, spatial relationships,
+
+[00:01:35–00:01:39] say imaging and just observe.
+
+[00:01:40–00:01:43] The images may stay or they may go away.
+
+[00:02:14–00:02:18] Each time there's a new arising of imaging or talking,
+
+[00:02:21–00:02:22] acknowledge it
+
+[00:02:22–00:02:25] and open up to it.
+
+[00:02:28–00:02:30] Be detached from it.
+
+[00:02:31–00:02:33] Try not to identify with it.
+
+[00:03:55–00:03:57] When the images come up,
+
+[00:03:59–00:04:02] try to look through them, not at them.
+
+[00:04:05–00:04:07] When the talking comes up,
+
+[00:04:08–00:04:12] try to listen to it as though it were just sounds,
+
+[00:04:12–00:04:13] like wind.
+
+[00:04:14–00:04:16] or street noises,
+
+[00:04:17–00:04:20] not so concerned with its meaning.
+
+[00:04:24–00:04:26] It's, of course, very difficult to do this
+
+[00:04:26–00:04:32] because the emotionally laden images and words grip us.
+
+[00:04:35–00:04:37] But try to distance yourself.
+
+[00:04:44–00:04:51] and let the gentle and matter-of-fact quality of your labeling process
+
+[00:04:51–00:04:58] remind you to be gentle and matter-of-fact
+
+[00:04:58–00:05:02] with the erupting images and words.
+
+[00:05:05–00:05:06] Talking.
+
+[00:05:08–00:05:10] Talking and imaging.
+
+[00:05:10–00:05:15] imaging like that.
+
+[00:05:16–00:05:17] Let it come and go.
+
+[00:06:21–00:06:24] When emotion comes up strongly,
+
+[00:06:26–00:06:32] another mental phenomenon that's common is confusion.
+
+[00:06:36–00:06:38] Difficulty figuring it out.
+
+[00:06:39–00:06:40] It doesn't make sense.
+
+[00:06:40–00:06:42] Don't know if it's this or that.
+
+[00:06:42–00:06:43] Doubt.
+
+[00:06:46–00:06:50] If you find that confusion is coming up,
+
+[00:06:52–00:06:54] just say, confusion.
+
+[00:06:56–00:06:58] Note it as another phenomenon
+
+[00:06:58–00:07:01] and make friends with it.
+
+[00:07:01–00:07:02] Let it be there.
+
+[00:07:03–00:07:07] Don't do anything about it.
+
+[00:07:15–00:07:19] just gently and matter-of-factly acknowledge.
+
+[00:07:20–00:07:22] The mind is confused. It's stymied.
+
+[00:07:24–00:07:27] It can't figure out. It doesn't know.
+
+[00:07:32–00:07:39] Confusion, imaging, talking, confusion like that.
+
+[00:07:41–00:07:43] By making friends with confusion.
+
+[00:07:47–00:07:50] You're letting go of the drive to have answers.
+
+[00:07:54–00:07:58] And when the drive to have answers goes away,
+
+[00:07:59–00:08:02] the answers come in a new and intuitive way.
+
+[00:08:05–00:08:08] So don't need to figure it out.
+
+[00:08:08–00:08:12] don't need to have answers for just a little while.
+
+[00:08:12–00:08:13] Rest from that
+
+[00:08:13–00:08:17] and be willing to be confused.
+
+[00:09:44–00:09:46] Now, as before,
+
+[00:09:48–00:09:51] if you find that you're having difficulty,
+
+[00:09:52–00:09:56] that you're still getting caught up in the content of the thoughts,
+
+[00:09:58–00:10:04] then make the labels vocal, say the words out loud.
+
+[00:10:04–00:10:15] On the other hand, if you have a degree of distancing and clarity,
+
+[00:10:15–00:10:20] you can drop the labeling, but just know moment by moment.
+
+[00:10:22–00:10:30] Each new sentence, each new picture, each upwelling of confusion,
+
+[00:10:30–00:10:38] know when it arises
+
+[00:10:38–00:10:41] relax into it
+
+[00:10:41–00:10:43] and do nothing
+
+[00:10:43–00:10:57] but infuse it
+
+[00:11:00–00:11:03] with awareness and equanimity.
+
+[00:12:17–00:12:23] Observing the thinking process with detachment is very challenging.
+
+[00:12:24–00:12:28] Time and time again you may be pulled back into the thoughts.
+
+[00:12:29–00:12:29] That's okay.
+
+[00:12:30–00:12:35] whenever that happens, pull back.
+
+[00:12:36–00:12:41] Just try to label the type of thought,
+
+[00:12:43–00:12:46] talking, imaging, confusion.
+
+[00:12:48–00:12:53] And it may well happen that if the emotion is very strong,
+
+[00:12:54–00:12:59] your whole mind will be dominated by confusion.
+
+[00:13:04–00:13:05] let that happen
+
+[00:13:05–00:13:08] relax into it
+
+[00:13:08–00:13:12] for just a short time
+
+[00:13:12–00:13:16] rest from the need to have answers
+
+[00:14:11–00:14:12] Now.
+
+[00:14:16–00:14:22] If you find that this is working for you, stay with it.
+
+[00:14:26–00:14:32] And work on your own for a period of time.
+
+
+# Releasing Thoughts And Feelings Meditation
+
+Source: [2-04 Releasing Thoughts And Feelings Meditation.mp3](/Users/robdahal/Desktop/SelfEducation/04-Energy_work/Break%20through%20difficult%20emotions-Shinzen%20Young/2-04%20Releasing%20Thoughts%20And%20Feelings%20Meditation.mp3)
+
+Source ID: shinzen-2-04
+
+SHA-256: a3940fe63be4618b62a34d50a1577646fd8761e958e0f51292b9237bb0da56ef
+
+Method: Local MLX Whisper large-v3-turbo; Silero VAD cross-check and original-recording timestamps. Targeted corrections are documented in the review report.
+
+Accuracy: Full spoken-content transcription, including source claims and repetitions; not fully listening-verified.
+
+Duration: 00:15:13
+
+Review notes: Full no-VAD second pass compared with VAD pass; silence/music hallucinations removed. Approximate segment timestamps retain conservative speech padding.
+
+[00:00:00–00:00:05] Once again, take a moment to let your whole body settle.
+
+[00:00:08–00:00:15] And we're going to do a meditation to cover the entire emotion,
+
+[00:00:17–00:00:22] both in terms of its arising as thought
+
+[00:00:22–00:00:29] and how it is arising as feeling.
+
+[00:00:37–00:00:39] because this will be
+
+[00:00:39–00:00:43] a meditation of total release.
+
+[00:00:48–00:00:51] It will take even more concentration,
+
+[00:00:57–00:00:59] but has the advantage
+
+[00:00:59–00:01:05] of covering the entire suffering self
+
+[00:01:05–00:01:13] with clarity and gentle openness.
+
+[00:01:29–00:01:37] Whenever the difficult emotion arises in thought,
+
+[00:01:39–00:01:44] say to yourself, talking, if it's words,
+
+[00:01:46–00:01:49] imaging, if it's pictures and scenes,
+
+[00:01:51–00:01:56] and confusion, if that should arise.
+
+[00:01:56–00:02:20] And whenever the difficult emotion impacts as feeling, if the feeling is in one or several small areas, the throat, the chest, the stomach, etc., say local.
+
+[00:02:20–00:02:31] if it affects broadly, large regions, or if you feel it over your whole being, say global,
+
+[00:02:34–00:02:47] so that we will break down the difficult emotion into exactly five components.
+
+[00:02:47–00:02:52] not all of which might be present
+
+[00:02:52–00:02:59] talking, imaging, confusion
+
+[00:02:59–00:03:03] in the mind
+
+[00:03:03–00:03:06] and local
+
+[00:03:06–00:03:09] or global
+
+[00:03:09–00:03:13] arisings in the body
+
+[00:03:13–00:03:19] let your awareness freely circulate
+
+[00:03:19–00:03:24] within and between these five possibilities
+
+[00:03:24–00:03:31] trying to maintain a balance
+
+[00:03:31–00:03:36] of awareness in both mind and body
+
+[00:03:36–00:03:40] and at each new arising
+
+[00:03:40–00:03:42] at each transition
+
+[00:03:42–00:03:44] which will be every couple seconds.
+
+[00:03:50–00:03:52] Say to yourself
+
+[00:03:52–00:03:54] which one or several
+
+[00:03:54–00:03:56] of these components
+
+[00:03:56–00:03:58] is involved
+
+[00:03:58–00:04:02] and pour awareness
+
+[00:04:02–00:04:04] and acceptance on it
+
+[00:04:04–00:04:06] for a few seconds
+
+[00:04:06–00:04:15] and then be ready for the next arising within thought and feeling.
+
+[00:04:15–00:04:25] talking
+
+[00:04:25–00:04:29] local
+
+[00:04:29–00:04:32] local
+
+[00:04:32–00:04:35] global
+
+[00:04:35–00:04:36] like that
+
+[00:04:36–00:04:41] in a gentle and matter-of-fact way
+
+[00:04:41–00:04:45] give the difficult emotion
+
+[00:04:45–00:04:49] permission to last as long
+
+[00:04:49–00:04:55] or short
+
+[00:04:55–00:04:58] as it needs to.
+
+[00:06:45–00:06:48] The difficult emotion can only arise
+
+[00:06:48–00:06:54] as one or a combination of five components.
+
+[00:07:00–00:07:04] Talking, imaging, or confusion in the mind,
+
+[00:07:05–00:07:09] local or global impacts over the body.
+
+[00:07:09–00:07:13] be aware
+
+[00:07:13–00:07:15] open up
+
+[00:07:19–00:07:22] if you wish to say the labels out loud
+
+[00:07:22–00:07:24] to get more focus
+
+[00:07:24–00:07:26] fine
+
+[00:07:26–00:07:28] or if you
+
+[00:07:28–00:07:30] wish to drop the labeling
+
+[00:07:30–00:07:32] and just be aware
+
+[00:07:32–00:07:34] of the components
+
+[00:07:34–00:07:36] silently
+
+[00:07:36–00:07:38] that's fine too
+
+[00:07:38–00:07:42] feel free to switch back and forth
+
+[00:07:42–00:07:43] like gears in the car.
+
+[00:07:45–00:07:48] Encountering difficulty, going up a hill
+
+[00:07:48–00:07:52] actually speak the categories out loud.
+
+[00:07:54–00:07:55] But if you
+
+[00:07:55–00:07:57] are cruising
+
+[00:07:57–00:08:02] you can go into fourth gear
+
+[00:08:02–00:08:06] and do it with direct awareness.
+
+[00:09:08–00:09:09] In doing this,
+
+[00:09:13–00:09:22] you're not putting any new energy into the negative emotion,
+
+[00:09:25–00:09:32] either by fighting with it or by identifying with it.
+
+[00:09:32–00:09:37] this hands-off attitude
+
+[00:09:37–00:09:45] means that the emotion
+
+[00:09:45–00:09:49] is actually a release
+
+[00:09:49–00:09:53] rather than a suffering.
+
+[00:10:00–00:10:01] It's a purification
+
+[00:10:01–00:10:05] and empowerment
+
+[00:10:05–00:10:12] because of the way that you are experiencing
+
+[00:10:12–00:10:14] this present moment
+
+[00:10:14–00:10:19] limiting forces from the past
+
+[00:10:19–00:10:21] the stored poison and pain of your
+
+[00:10:21–00:10:25] past similar experiences
+
+[00:10:25–00:10:28] are being worked out
+
+[00:10:28–00:10:35] and because
+
+[00:10:35–00:10:40] it reduces suffering in the present
+
+[00:10:40–00:10:44] you'll be less likely
+
+[00:10:44–00:10:48] to respond inappropriately
+
+[00:10:48–00:10:51] and therefore
+
+[00:10:51–00:10:54] you'll be creating a brighter future
+
+[00:10:54–00:11:00] so even though it may be very challenging
+
+[00:11:00–00:11:07] try to continue to cover the whole phenomenon
+
+[00:11:07–00:11:11] in both mind and body
+
+[00:11:11–00:11:13] keeping track of the components
+
+[00:11:13–00:11:22] and infusing them with a gentle
+
+[00:11:22–00:11:26] loving matter-of-factness
+
+[00:11:26–00:11:34] letting them dance their dance
+
+[00:11:34–00:11:40] and live their life as a kind of energy
+
+[00:11:40–00:11:45] passing through the feeling space of the body
+
+[00:11:45–00:11:51] and the thinking space of the mind.
+
+[00:12:20–00:12:30] As you do this, you may notice that a kind of repetitive rhythm develops.
+
+[00:12:34–00:12:43] A thought will then lead to a local impact, and then that will lead to a global spread of sensation.
+
+[00:12:43–00:12:52] Although it's not always in that pattern
+
+[00:12:52–00:12:56] there is a tendency
+
+[00:12:56–00:13:00] for such rhythmic patterns to develop
+
+[00:13:00–00:13:06] Almost like rainwater on a lake
+
+[00:13:06–00:13:09] the drop falls
+
+[00:13:09–00:13:11] that's the thought
+
+[00:13:11–00:13:16] It hits the water and splashes, that's the local impact,
+
+[00:13:16–00:13:18] and then the ripples spread through the whole pond.
+
+[00:13:20–00:13:24] If you find yourself getting into a rhythm like that,
+
+[00:13:26–00:13:33] talking, local, global, image, confusion, local, global, like that,
+
+[00:13:33–00:13:40] then just flow with that rhythm
+
+[00:13:40–00:13:44] and experience it as a releasing process.
+
+[00:13:49–00:13:52] The stored energy in the unconscious
+
+[00:13:52–00:13:56] turning into the kinetic energy of thought,
+
+[00:13:58–00:13:59] which then
+
+[00:13:59–00:14:02] splashes
+
+[00:14:02–00:14:05] and releases
+
+[00:14:05–00:14:09] and is dissipated through the whole body
+
+[00:14:09–00:14:11] and then out into space
+
+[00:14:11–00:14:16] and released forever.
+
+[00:14:18–00:14:22] This is the process of purification,
+
+[00:14:25–00:14:28] the cleansing from the deep unconscious
+
+[00:14:28–00:14:33] through the conscious mind and body
+
+[00:14:33–00:14:38] and the releasing back
+
+[00:14:38–00:14:42] to the source.
+
+
+# The Whole Mind: Body Process Meditation
+
+Source: [2-05 The Whole Mind_Body Process Meditation.mp3](/Users/robdahal/Desktop/SelfEducation/04-Energy_work/Break%20through%20difficult%20emotions-Shinzen%20Young/2-05%20The%20Whole%20Mind_Body%20Process%20Meditation.mp3)
+
+Source ID: shinzen-2-05
+
+SHA-256: e82a1ffa70f50841c47d5a20ba40ee925a494552c4e1f17fab95ef306b1dc1e7
+
+Method: Local MLX Whisper large-v3-turbo; Silero VAD cross-check and original-recording timestamps. Targeted corrections are documented in the review report.
+
+Accuracy: Full spoken-content transcription, including source claims and repetitions; not fully listening-verified.
+
+Duration: 00:25:02
+
+Review notes: Full no-VAD second pass compared with VAD pass; silence/music hallucinations removed. Approximate segment timestamps retain conservative speech padding.
+
+[00:00:00–00:00:17] Now, we're going to do a meditation to experience the whole mind-body process as a kind of transparent flow of pure energy.
+
+[00:00:23–00:00:26] Once again, take a moment to let the body settle.
+
+[00:00:26–00:00:35] and enjoy any stillness and repose that you may feel.
+
+[00:00:35–00:00:53] Bring your awareness to the body sensations
+
+[00:00:53–00:00:56] associated with the emotion.
+
+[00:00:58–00:01:00] But this time,
+
+[00:01:00–00:01:07] be aware of the ways in which they are moving and changing.
+
+[00:01:10–00:01:13] When a sensation, either a local one
+
+[00:01:13–00:01:17] or a widespread global one,
+
+[00:01:18–00:01:21] increases, gets stronger,
+
+[00:01:22–00:01:24] be aware of that and let it.
+
+[00:01:26–00:01:28] When a sensation decreases,
+
+[00:01:28–00:01:33] gets weaker, however slightly, be aware of that.
+
+[00:01:37–00:01:42] If a sensation spreads, be aware of that.
+
+[00:01:43–00:01:48] If a sensation shrinks, be aware of that.
+
+[00:01:48–00:02:00] If you feel something pulling inwards, be aware and open to that.
+
+[00:02:01–00:02:09] If you feel something pushing outwards, likewise, open up to that.
+
+[00:02:09–00:02:17] if the borders of a sensation
+
+[00:02:17–00:02:19] bulge out
+
+[00:02:19–00:02:20] or
+
+[00:02:20–00:02:23] collapse inwards
+
+[00:02:23–00:02:24] ever so slightly
+
+[00:02:24–00:02:26] shifting
+
+[00:02:26–00:02:28] be aware of that
+
+[00:02:28–00:02:33] be aware of all of the qualities
+
+[00:02:33–00:02:34] of movement
+
+[00:02:34–00:02:36] and change
+
+[00:02:36–00:02:40] taking place within your body
+
+[00:02:40–00:02:46] and give permission for the feeling states to
+
+[00:02:46–00:02:52] shift and circulate in whatever pattern is natural to them.
+
+[00:03:28–00:03:33] in order to make this process more precise.
+
+[00:03:37–00:03:41] You may want to label as follows.
+
+[00:03:45–00:03:50] Whenever the principle of increase is present,
+
+[00:03:53–00:03:57] you can say to yourself the word expanding.
+
+[00:04:00–00:04:13] For example, when a sensation gets stronger, or spreads, or pushes out, this is the expanding principle.
+
+[00:04:13–00:04:28] Whenever a sensation gets weaker, shrinks, or you feel a force pulling inwards, this is the contracting principle.
+
+[00:04:32–00:04:38] You may be aware of both at the same time, something pushing out while something pulls in.
+
+[00:04:38–00:04:43] you can say to yourself
+
+[00:04:43–00:04:44] expanding
+
+[00:04:44–00:04:46] contracting
+
+[00:04:46–00:04:50] expanding and contracting
+
+[00:04:50–00:04:55] you may feel
+
+[00:04:55–00:04:58] many expandings and contractings
+
+[00:04:58–00:05:00] in different areas of the body
+
+[00:05:00–00:05:01] at the same time
+
+[00:05:01–00:05:04] if it's too many to label
+
+[00:05:04–00:05:05] don't try
+
+[00:05:05–00:05:06] but be aware
+
+[00:05:06–00:05:12] as soon as you're aware of decrease
+
+[00:05:12–00:05:13] let it happen
+
+[00:05:13–00:05:15] don't hold on
+
+[00:05:15–00:05:18] become enchanted
+
+[00:05:18–00:05:23] with the changing contour of feeling
+
+[00:05:23–00:05:25] the waveform
+
+[00:05:25–00:05:31] and the more you pay attention to the movement
+
+[00:05:31–00:05:32] the less you'll be caught
+
+[00:05:32–00:05:34] in the meaning
+
+[00:05:34–00:05:41] Let the particle-like solid feelings become waves.
+
+[00:05:43–00:05:48] Let the materiality become energy.
+
+[00:06:40–00:06:45] If there are solid parts, parts with pressure,
+
+[00:06:46–00:06:54] try to see that pressure comes about because something is pulling in,
+
+[00:06:55–00:06:58] while at the same time something else is trying to push out.
+
+[00:06:59–00:07:03] Let the part that wants to pull in, pull in, even if it hurts a little bit more.
+
+[00:07:03–00:07:05] for a moment.
+
+[00:07:05–00:07:08] Let the part that wants to push out, push out.
+
+[00:07:09–00:07:11] And eventually the two forces
+
+[00:07:11–00:07:13] will pass through each other
+
+[00:07:13–00:07:17] without colliding.
+
+[00:07:18–00:07:21] And they'll just be an outward release,
+
+[00:07:23–00:07:27] a letting go into an expansive infinity,
+
+[00:07:27–00:07:29] and an inward release,
+
+[00:07:29–00:07:34] a letting go into an effortless collapse.
+
+[00:07:41–00:07:45] And keep letting go of the preoccupation with the thoughts
+
+[00:07:45–00:07:47] for just a few minutes more.
+
+[00:07:49–00:07:56] Stay with the movement of feeling in the body.
+
+[00:08:59–00:09:08] And as we did before, if you find that the labeling, expanding, contracting helps, use it.
+
+[00:09:09–00:09:13] If not, drop it and just have direct awareness.
+
+[00:09:17–00:09:25] But if you find yourself getting caught up in the thoughts and feelings, say the words out loud.
+
+[00:09:25–00:09:29] crisp and vocal objective
+
+[00:09:29–00:09:34] to pull you out of the valley of subjectivity.
+
+[00:09:56–00:10:02] Now, let go of that and focus on the thinking process,
+
+[00:10:05–00:10:10] on the images, the talking, the confusion,
+
+[00:10:10–00:10:17] and observe how the principles of increase and decrease
+
+[00:10:17–00:10:25] play themselves out moment by moment in the thinking process.
+
+[00:10:25–00:10:32] When a thought gets louder, expansion.
+
+[00:10:33–00:10:39] When a thought gets softer, contraction.
+
+[00:10:39–00:10:43] When the thinking process speeds up, expansion.
+
+[00:10:44–00:10:47] When the thinking process slows down, contraction.
+
+[00:10:47–00:10:55] when an associational field spreads in the conscious or unconscious mind expansion,
+
+[00:10:56–00:11:01] when the associations die down, contraction,
+
+[00:11:04–00:11:11] when a thought grips and pulls you, contraction,
+
+[00:11:11–00:11:18] when it lasts and spreads its influence
+
+[00:11:18–00:11:19] expansion
+
+[00:11:19–00:11:22] instead of being caught up in the meanings
+
+[00:11:22–00:11:26] become enchanted with the movements
+
+[00:11:26–00:11:29] and if you wish label
+
+[00:11:29–00:11:32] any principle of increase
+
+[00:11:32–00:11:35] as expansion
+
+[00:11:35–00:11:38] any principle of decrease as contraction
+
+[00:11:38–00:11:41] both may happen at the same time
+
+[00:11:41–00:11:43] and treat the thinking mind
+
+[00:11:43–00:11:45] the same way you treated the feeling body
+
+[00:11:45–00:11:50] in terms of its moving energy.
+
+[00:12:43–00:12:46] try to become so fascinated
+
+[00:12:46–00:12:51] with how the thinking process
+
+[00:12:51–00:12:54] speeds up, slows down,
+
+[00:12:55–00:12:58] gets louder, gets quieter
+
+[00:12:58–00:13:00] in a relative way
+
+[00:13:00–00:13:03] that you have no time left
+
+[00:13:03–00:13:07] to become caught up in the meanings.
+
+[00:13:09–00:13:11] if confusion arises,
+
+[00:13:12–00:13:13] let it.
+
+[00:13:14–00:13:15] Let it spread.
+
+[00:13:16–00:13:18] Let there be nothing but confusion.
+
+[00:13:18–00:13:21] But watch how it increases and decreases.
+
+[00:13:22–00:13:24] And to the best of your ability,
+
+[00:13:27–00:13:31] surrender yourself to that flow of nature.
+
+[00:13:56–00:14:01] Now, continue to do that,
+
+[00:14:03–00:14:05] but at the same time,
+
+[00:14:05–00:14:15] Bring your awareness to the movement, the impermanence in the feeling body also,
+
+[00:14:15–00:14:27] so that now the entire suffering self, the entire emotion, is covered with a sense of its movement.
+
+[00:14:27–00:14:31] when the emotion impacts in the body
+
+[00:14:31–00:14:34] watch how the sensations
+
+[00:14:34–00:14:38] increase and decrease, spread and collapse
+
+[00:14:38–00:14:40] when the sensation impacts in the mind
+
+[00:14:40–00:14:43] watch how the thoughts speed up or slow down
+
+[00:14:43–00:14:48] and let both the thinking mind
+
+[00:14:48–00:14:51] and the feeling body become integrated
+
+[00:14:51–00:14:54] as a single energy field
+
+[00:14:54–00:14:57] only distinguish
+
+[00:14:57–00:15:01] the movements of expanding and contracting
+
+[00:15:01–00:15:05] as they blow through the mind and body.
+
+[00:15:23–00:15:26] If this produces fear,
+
+[00:15:27–00:15:29] or disorientation.
+
+[00:15:29–00:15:32] Just watch how the fear and disorientation
+
+[00:15:32–00:15:37] itself expands and contracts.
+
+[00:15:40–00:15:41] On the other hand,
+
+[00:15:42–00:15:44] it may become like a massage
+
+[00:15:44–00:15:48] that actually nurtures you
+
+[00:15:48–00:15:53] and takes you into a deeper and deeper state.
+
+[00:15:53–00:16:00] This is the art of escaping into the emotion.
+
+[00:16:00–00:16:20] you may experience a sense
+
+[00:16:20–00:16:23] that there is a field of energy
+
+[00:16:23–00:16:27] that is simultaneously
+
+[00:16:27–00:16:32] simultaneously releasing outwards and inwards.
+
+[00:16:38–00:16:41] You may experience a sense of circulation.
+
+[00:16:44–00:16:47] If any such phenomena happen,
+
+[00:16:48–00:16:50] let them massage you,
+
+[00:16:50–00:16:58] just as the energy in the fingers of a body worker
+
+[00:16:58–00:17:05] breaks up the blockages in the physical muscle.
+
+[00:17:10–00:17:18] So let the energy in the movement of these thoughts and feelings
+
+[00:17:18–00:17:23] break up the psychological solidity
+
+[00:17:23–00:17:29] soften the very substance of your soul
+
+[00:18:03–00:18:13] Now, if to some extent you are able to experience the difficult emotion,
+
+[00:18:13–00:18:15] not as a difficult emotion,
+
+[00:18:16–00:18:18] but as pure motion,
+
+[00:18:19–00:18:22] if it has become to some extent
+
+[00:18:22–00:18:25] more of a transparent energy,
+
+[00:18:29–00:18:30] then
+
+[00:18:30–00:18:33] you're in a situation
+
+[00:18:33–00:18:36] where you can begin to produce
+
+[00:18:36–00:18:37] intentionally
+
+[00:18:37–00:18:42] positive thoughts
+
+[00:18:42–00:18:47] that lead to pleasant emotional flavors.
+
+[00:18:54–00:18:56] Produce those images
+
+[00:18:56–00:19:00] which for you
+
+[00:19:00–00:19:05] evoke all that is best
+
+[00:19:05–00:19:12] in terms of positive human feeling,
+
+[00:19:14–00:19:15] friendliness,
+
+[00:19:19–00:19:19] love,
+
+[00:19:24–00:19:25] compassion,
+
+[00:19:30–00:19:30] gratitude,
+
+[00:19:30–00:19:31] gratitude,
+
+[00:19:31–00:19:31] gratitude,
+
+[00:19:37–00:19:41] forgiveness of self and others.
+
+[00:19:49–00:19:53] And as you intentionally create these thoughts,
+
+[00:19:55–00:20:00] let those pleasant and positive feeling qualities
+
+[00:20:00–00:20:05] pour into the energy field that is
+
+[00:20:05–00:20:08] your thought and feeling
+
+[00:20:08–00:20:10] until they fill it up.
+
+[00:20:16–00:20:18] And leave no more room
+
+[00:20:18–00:20:22] for poison or pain.
+
+[00:20:55–00:20:57] And if you're able to do this,
+
+[00:21:02–00:21:08] then let the positive feeling tones spread out
+
+[00:21:08–00:21:16] from the energy field of the mind and body out into the space around you
+
+[00:21:16–00:21:21] and go to those individuals
+
+[00:21:21–00:21:29] who may be the source of difficult emotion for you.
+
+[00:21:31–00:21:37] Spread positive emotion in their direction.
+
+[00:22:10–00:22:12] and with those individuals
+
+[00:22:12–00:22:17] who are the source of difficult emotion
+
+[00:22:17–00:22:24] with whom you may be actually interacting.
+
+[00:22:28–00:22:29] Imagine as you're talking
+
+[00:22:29–00:22:31] and being with them,
+
+[00:22:34–00:22:38] the things that they do producing
+
+[00:22:38–00:22:43] difficult emotions,
+
+[00:22:44–00:22:49] and you experiencing those difficult emotions clearly
+
+[00:22:49–00:22:55] and allowing them to break up into an energy flow,
+
+[00:22:55–00:23:00] and then coloring that energy flow
+
+[00:23:00–00:23:02] with positive emotion
+
+[00:23:02–00:23:07] and returning that positive to them
+
+[00:23:07–00:23:09] moment by moment
+
+[00:23:09–00:23:14] during your interaction in real life
+
+[00:23:14–00:23:19] as love,
+
+[00:23:22–00:23:24] compassion,
+
+[00:23:24–00:23:29] Forgiveness
+
+[00:23:29–00:23:34] Gratitude
+
+[00:24:07–00:24:09] Abide in this noble abode,
+
+[00:24:11–00:24:17] whether you choose to remain still for a while,
+
+[00:24:17–00:24:25] or to get up and return to the day's activities.
+
+[00:24:29–00:24:31] Stay with this orientation.

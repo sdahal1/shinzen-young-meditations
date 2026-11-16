@@ -1,0 +1,988 @@
+{
+  "id": "shinzen-emotions-v1",
+  "group": "shinzen",
+  "title": "Working with difficult emotions · Shinzen Young",
+  "brand": "the feeling / field",
+  "kicker": "A SHINZEN YOUNG STUDY COMPANION",
+  "headline": "Make room for what you feel.",
+  "intro": "A practical course in noticing the feeling body and the thinking mind. Study the ideas, try the four recorded exercises, and bring your own experience into conversation.",
+  "qualities": [
+    "Mindfulness",
+    "Equanimity",
+    "Change"
+  ],
+  "center": "notice\n& allow",
+  "orientation": "Begin with the feeling body. Add the thinking mind when that is workable. The four exercises increase in complexity, and the source explicitly says you can stay with one that suits you.",
+  "practiceIntro": "Four practices, in the order of the supplied recordings. These are self-paced adaptations with the full original instructions one click away. You choose how long to stay with each cue.",
+  "accuracy": "Full-recording automatic transcripts with original-time timestamps, a second-pass review of selected passages and quiet dialogue, and source-specific review notes. They have not been fully checked by listening to every word. Names, quiet responses, foreign phrases, punctuation and segment boundaries may still be wrong. Long meditation pauses are not missing pages.",
+  "about": "All 12 supplied audio tracks are included as complete timestamped transcripts: seven teaching tracks and five guided-practice tracks, including the introduction. This companion adds ten learning chapters, diagrams, source anecdotes, four practice flows, a private browser journal and a full offline PDF.",
+  "adaptation": "The practice cards paraphrase and organize the recorded cues. The recordings contain long quiet intervals; the app lets you set the pace instead of advancing automatically. Optional written labels, reflection prompts, knowledge checks and ChatGPT dialogue are learning adaptations. The original uses spiritual and energy language, and sometimes urges staying with fear or disorientation; this app allows pausing and orienting outward instead.",
+  "coaching": "Use this Shinzen Young recording series, not Integra identity/goal questioning or terminology from a different version of Shinzen’s teaching. Keep feeling-body sensations distinct from thinking-mind events. Body labels: local, global. Thought labels: talking, imaging, confusion. Combined practice uses those five; movement practice uses expanding and contracting in the body, then mind, then both. Labels may be spoken, internal, or dropped when direct awareness is workable. Do not demand all components, specific sensations, relaxation, or disappearance of emotion. In a practice interval, bracket problem-solving; afterward help identify any appropriate practical action. Attribute spiritual, energy, healing and permanence claims to the speaker. Never interpret pain or distress as proof of failed mindfulness. Positive feeling and extending goodwill are optional source steps, not obligations to forgive, reconcile, or ignore boundaries.",
+  "modules": [
+    {
+      "id": "two-sides",
+      "title": "An emotion has an inside and an outside",
+      "subtitle": "Distinguish circumstances, inner experience and outward response.",
+      "sources": [
+        "shinzen-1-01",
+        "shinzen-1-02"
+      ],
+      "concepts": [
+        {
+          "title": "The circumstance",
+          "body": "An argument, uncertainty or disappointment is the external situation. Thinking clearly about it and taking appropriate action remain legitimate tasks in this course."
+        },
+        {
+          "title": "The subjective side",
+          "body": "Young describes bodily feeling and mental activity happening together. Sadness may have a location and quality; thinking may arrive as inner words, pictures or less distinct processing."
+        },
+        {
+          "title": "The outward response",
+          "body": "Facial expressions, sounds and purposeful actions are another dimension. An outwardly quiet person can still have a vivid inner experience; an expressive person may not be closely noticing it."
+        },
+        {
+          "title": "Two tasks can coexist",
+          "body": "The course reserves some attention for learning how to experience an emotion, alongside caring for the circumstances. Observation does not decide who is right or remove the need for boundaries or action."
+        }
+      ],
+      "cheat": [
+        "Circumstance: what happened.",
+        "Body: what is felt.",
+        "Mind: words, images, other processing.",
+        "Response: what you express or do."
+      ],
+      "activity": "Choose a mild recent situation and write four separate lines: circumstance, bodily sensation, thought, and action. Do not treat a judgment about someone as a bodily sensation.",
+      "quiz": {
+        "question": "Which is a bodily feeling rather than a thought?",
+        "options": [
+          "They should have listened",
+          "A tight, warm area across my chest",
+          "I should send a message"
+        ],
+        "answer": 1,
+        "explanation": "Young uses “feeling” for the sensory side and distinguishes it from judgments, plans and internal dialogue."
+      },
+      "diagram": [
+        [
+          "Situation",
+          "the external circumstance"
+        ],
+        [
+          "Inner experience",
+          "body + mind"
+        ],
+        [
+          "Response",
+          "expression + action"
+        ]
+      ],
+      "practice": null,
+      "stories": [
+        {
+          "title": "A difficult relationship interaction",
+          "body": "Young’s opening example combines sadness behind the eyes, fear in the abdomen, anger in the arms and conversations replayed in the mind. These are illustrative locations, not a map everyone must feel.",
+          "sources": [
+            "shinzen-1-02"
+          ]
+        }
+      ],
+      "tag": "Learn & notice"
+    },
+    {
+      "id": "qualities",
+      "title": "Three qualities of practice",
+      "subtitle": "Specific contact, non-interference and awareness of change.",
+      "sources": [
+        "shinzen-1-03"
+      ],
+      "concepts": [
+        {
+          "title": "Mindfulness: keep contact",
+          "body": "In this recording, mindfulness means tracking the components of an experience while it happens. It is a skill to practice, not a requirement to notice everything perfectly."
+        },
+        {
+          "title": "Equanimity: allow the natural movement",
+          "body": "Young describes allowing a sensation or thought to strengthen, weaken, spread, contract or last for its own duration. Allowing an internal event does not mean endorsing its content or acting on it."
+        },
+        {
+          "title": "Impermanence: notice change",
+          "body": "Rather than merely believing that everything changes, look for what actually changes in this moment: intensity, location, shape, loudness or speed. Stability can also be reported honestly."
+        },
+        {
+          "title": "Claims are not a scorecard",
+          "body": "The talk makes strong claims about eliminating suffering and permanent purification. These remain source claims. If you are suffering, this companion does not infer that you have failed or caused it by insufficient awareness."
+        }
+      ],
+      "cheat": [
+        "Contact: what is actually here?",
+        "Allow: can it move without my forcing it?",
+        "Change: what varies, even slightly?",
+        "No need to intensify an emotion to practice."
+      ],
+      "activity": "Take one ordinary sensation for a few breaths. Describe its quality, allow it to be there, and notice whether any aspect changes.",
+      "quiz": {
+        "question": "Which best expresses equanimity here?",
+        "options": [
+          "Making the sensation stop",
+          "Allowing its natural movement without forcing a result",
+          "Agreeing with every thought"
+        ],
+        "answer": 1,
+        "explanation": "The source defines equanimity as non-interference with the movement of the components."
+      },
+      "diagram": [
+        [
+          "Contact",
+          "specific awareness"
+        ],
+        [
+          "Allow",
+          "less interference"
+        ],
+        [
+          "Notice change",
+          "a changing experience"
+        ]
+      ],
+      "practice": null,
+      "stories": [
+        {
+          "title": "Ice and water",
+          "body": "Young compares a congealed emotion to ice and a more fluid experience to water: the same substance can behave differently. The metaphor concerns the relationship to experience, not a requirement to feel an energy wave.",
+          "sources": [
+            "shinzen-1-03"
+          ]
+        },
+        {
+          "title": "The carnival ride",
+          "body": "Young recounts observing fear as he approached a ride, losing clear contact when it began, and later regaining it. It illustrates his teaching about attention under intensity; this app does not ask you to recreate a frightening situation.",
+          "sources": [
+            "shinzen-1-03"
+          ]
+        }
+      ],
+      "tag": "Learn & notice"
+    },
+    {
+      "id": "body",
+      "title": "Get to know the feeling body",
+      "subtitle": "Quality, location, shape and intensity make a vague feeling more tangible.",
+      "sources": [
+        "shinzen-1-04",
+        "shinzen-2-02"
+      ],
+      "concepts": [
+        {
+          "title": "Quality or flavor",
+          "body": "Warmth, pressure, shaking, hurt or an unnamed but distinct quality can be noticed directly. An emotion word can help, but it should not replace what you actually sense."
+        },
+        {
+          "title": "Where and how far",
+          "body": "Notice the area of strongest impact and whether a subtler quality spreads elsewhere. The exercise uses “local” for a restricted area and “global” for a broader or whole-body impact."
+        },
+        {
+          "title": "Intensity and shape",
+          "body": "A sensation can be strong or subtle, sharply bounded or diffuse. Its quality, shape, location and intensity may change independently. You are gathering observations, not seeking the right pattern."
+        },
+        {
+          "title": "Several things, or very little",
+          "body": "There may be one quality, several, or nothing clear. Pleasant repose can coexist with discomfort. Start with what is available and avoid manufacturing emotion to fill a category."
+        }
+      ],
+      "cheat": [
+        "What quality? Where? What shape? How intense?",
+        "Local = restricted area. Global = broad impact.",
+        "Both can be present. Neither needs to be forced.",
+        "If thought takes over, gently return to bodily feeling."
+      ],
+      "activity": "Try the feeling-body practice. Use local/global labels only as much as they help, and write a short body description afterward.",
+      "quiz": {
+        "question": "What does “global” mean in the recorded exercise?",
+        "options": [
+          "A thought about world events",
+          "A broad or whole-body impact of feeling",
+          "A stronger emotion than local feeling"
+        ],
+        "answer": 1,
+        "explanation": "It describes spatial extent, not severity or emotional importance."
+      },
+      "diagram": [
+        [
+          "Quality",
+          "what it feels like"
+        ],
+        [
+          "Location",
+          "local / global"
+        ],
+        [
+          "Change",
+          "shape + intensity"
+        ]
+      ],
+      "practice": "body",
+      "stories": [
+        {
+          "title": "Five different qualities",
+          "body": "Young describes guiding a person with cancer by distinguishing pain, exhaustion, nausea, fear and irritability. The teaching point is that qualities can be distinguished. This anecdote is not medical guidance or evidence that meditation treats cancer.",
+          "sources": [
+            "shinzen-1-04"
+          ]
+        }
+      ],
+      "tag": "Learn & notice"
+    },
+    {
+      "id": "mind",
+      "title": "Notice the thinking process",
+      "subtitle": "Words, pictures and confusion can each be observed.",
+      "sources": [
+        "shinzen-1-05",
+        "shinzen-2-03"
+      ],
+      "concepts": [
+        {
+          "title": "Talking",
+          "body": "Inner words, phrases, imaginary dialogue and remembered voices are labeled “talking.” The practice attends to their occurrence, temporarily setting aside the task of solving what they mean."
+        },
+        {
+          "title": "Imaging",
+          "body": "Faces, scenes and spatial pictures are labeled “imaging.” They can remain, move or disappear after being noticed. There is no requirement that labeling stop them."
+        },
+        {
+          "title": "Confusion is included",
+          "body": "When the mind cannot make sense of things, the exercise offers “confusion” as a label. For this limited practice interval, not knowing can be acknowledged without immediately forcing an answer."
+        },
+        {
+          "title": "Return gently",
+          "body": "Being pulled into the thought story is expected. Notice it, return to the type of event, and choose spoken labels, internal labels or direct awareness according to what helps."
+        }
+      ],
+      "cheat": [
+        "Talking · imaging · confusion.",
+        "Observe a thought’s occurrence before its argument.",
+        "Labeling may stop an event, or may not.",
+        "Problem-solving can resume after the practice interval."
+      ],
+      "activity": "For a short interval, notice one mental event at a time. Label its form without debating it. Then name one question that does need practical thinking afterward.",
+      "quiz": {
+        "question": "A picture continues after you label it “imaging.” What now?",
+        "options": [
+          "Labeling has failed",
+          "Let it remain and notice what follows",
+          "Replace it with a positive picture immediately"
+        ],
+        "answer": 1,
+        "explanation": "The source explicitly says images may stay or go; the instruction is observation."
+      },
+      "diagram": [
+        [
+          "Words",
+          "talking"
+        ],
+        [
+          "Pictures",
+          "imaging"
+        ],
+        [
+          "Not knowing",
+          "confusion"
+        ]
+      ],
+      "practice": "mind",
+      "stories": [],
+      "tag": "Learn & notice"
+    },
+    {
+      "id": "change",
+      "title": "Notice movement without making it happen",
+      "subtitle": "Explore the contour of an experience rather than force a new one.",
+      "sources": [
+        "shinzen-1-05",
+        "shinzen-2-05"
+      ],
+      "concepts": [
+        {
+          "title": "Expansion and contraction",
+          "body": "The recording groups increase, spreading and outward pressure under expansion; decrease, shrinking and inward pulling under contraction. Both can occur together."
+        },
+        {
+          "title": "The body’s changing contour",
+          "body": "A sensation may shift in boundary, intensity or apparent direction. If you notice no change, say so. The app does not ask you to create pressure or endure pain to reveal movement."
+        },
+        {
+          "title": "Movement in the mind",
+          "body": "Inner speech may grow louder or quieter, speed up or slow down. Images or associations may broaden or fade. These are examples to look for, not a checklist to complete."
+        },
+        {
+          "title": "Spiritual language in context",
+          "body": "Young interprets these processes through impermanence and energy, with parallels to several traditions. Those interpretations belong to the source. The practical observation can remain simple and sensory."
+        }
+      ],
+      "cheat": [
+        "Increase / spread / outward: expanding.",
+        "Decrease / shrink / inward: contracting.",
+        "Both or neither may be clear.",
+        "Notice change; do not manufacture it."
+      ],
+      "activity": "Choose a mild sensation and ask what, if anything, changes in its intensity or boundary. Later, try the same with the loudness or pace of inner speech.",
+      "quiz": {
+        "question": "If a sensation is stable and you notice no movement, what should you record?",
+        "options": [
+          "An imagined expansion",
+          "The stability or uncertainty you actually notice",
+          "A failure to meditate"
+        ],
+        "answer": 1,
+        "explanation": "The companion keeps observation primary and does not prescribe a sensation."
+      },
+      "diagram": [
+        [
+          "Body",
+          "intensity / boundaries"
+        ],
+        [
+          "Mind",
+          "speed / loudness"
+        ],
+        [
+          "Both",
+          "observe the movement"
+        ]
+      ],
+      "practice": "whole",
+      "stories": [
+        {
+          "title": "The jellyfish image",
+          "body": "The talk uses a jellyfish puffing out and drawing in as an image for changing sensation or confusion. It is a metaphor for noticing movement, not a shape your experience must take.",
+          "sources": [
+            "shinzen-1-05",
+            "shinzen-1-06"
+          ]
+        }
+      ],
+      "tag": "Learn & notice"
+    },
+    {
+      "id": "expression",
+      "title": "Feeling fully and acting wisely",
+      "subtitle": "Internal contact and external expression are separate choices.",
+      "sources": [
+        "shinzen-1-06"
+      ],
+      "concepts": [
+        {
+          "title": "Two independent dimensions",
+          "body": "Young distinguishes inward contact and allowing from outward sounds, gestures and action. An “either meditate or do something” question leaves out the possibility of doing both."
+        },
+        {
+          "title": "External quiet is not proof of suppression",
+          "body": "A person can notice an experience closely without showing it. Conversely, a dramatic display does not prove that a person is in contact with what they feel."
+        },
+        {
+          "title": "Choose expression for the situation",
+          "body": "The talk treats outward expression as context-dependent. In this companion, outward choices still need care for other people, practical consequences and boundaries."
+        },
+        {
+          "title": "Anecdotes are not permission",
+          "body": "The recording includes stories about a teacher’s anger and Young’s interpretation of it. They are preserved in the transcript, but apparent spiritual attainment does not make harmful conduct acceptable or something you must tolerate."
+        }
+      ],
+      "cheat": [
+        "Inner experience ≠ outward display.",
+        "You can notice and still take action.",
+        "Outward quiet can coexist with inward contact.",
+        "Mindfulness does not remove responsibility for conduct."
+      ],
+      "activity": "Think of a mild situation where you want to express something. Separate the feeling you can acknowledge internally from the respectful action or words you might choose externally.",
+      "quiz": {
+        "question": "Does outward expression by itself prove full inward contact?",
+        "options": [
+          "Yes, if it is intense",
+          "No; these are different dimensions",
+          "Only if it looks spontaneous"
+        ],
+        "answer": 1,
+        "explanation": "The talk’s four-way distinction separates inward contact from outward behavior."
+      },
+      "diagram": [
+        [
+          "Inside",
+          "contact + allowing"
+        ],
+        [
+          "Outside",
+          "expression or restraint"
+        ],
+        [
+          "Choice",
+          "appropriate action"
+        ]
+      ],
+      "practice": null,
+      "stories": [
+        {
+          "title": "From camera fear to on-camera energy",
+          "body": "Young recounts being very stiff around cameras and microphones. He says attending to the bodily sensations changed how the same nervous energy functioned. The story illustrates a changed relationship to feeling, not a universal outcome.",
+          "sources": [
+            "shinzen-1-06"
+          ]
+        },
+        {
+          "title": "The “ouch” example",
+          "body": "A Zen teaching example asks how an “ouch” after hitting a thumb could express an inwardly experienced event. It illustrates the distinction between inner contact and mere outward volume.",
+          "sources": [
+            "shinzen-1-06"
+          ]
+        },
+        {
+          "title": "The teacher’s anger",
+          "body": "Young describes an argument with Sasaki Roshi and interprets the teacher’s expression as fluid rather than congealed. The transcript retains the story and his claims; the training aid does not turn it into an endorsement of yelling at others.",
+          "sources": [
+            "shinzen-1-06"
+          ]
+        }
+      ],
+      "tag": "Learn & notice"
+    },
+    {
+      "id": "five",
+      "title": "Bring the five components together",
+      "subtitle": "Move between feeling and thinking without losing the distinction.",
+      "sources": [
+        "shinzen-2-04"
+      ],
+      "concepts": [
+        {
+          "title": "The five labels",
+          "body": "This exercise combines talking, imaging and confusion in the mind with local and global impacts in the body. Not all five need to appear."
+        },
+        {
+          "title": "Let attention circulate",
+          "body": "At a new arising or transition, notice which component or components are involved. Allow attention to move between mind and body rather than forcing equal time for every label."
+        },
+        {
+          "title": "Adjust the amount of labeling",
+          "body": "The source compares spoken labels, internal labels and direct awareness to gears. More explicit labels may help when caught in content; fewer may be enough when awareness is clear."
+        },
+        {
+          "title": "Patterns are optional",
+          "body": "Young gives a possible rhythm: a thought, a local bodily impact, then a broader spread. He also says the pattern is not always like that. Notice your actual sequence."
+        }
+      ],
+      "cheat": [
+        "Mind: talking, imaging, confusion.",
+        "Body: local, global.",
+        "One or several may arise.",
+        "Use labels as supports, not obligations."
+      ],
+      "activity": "Try the combined practice after learning the body and mind practices separately. In the journal, describe one observed transition without claiming that every emotion follows it.",
+      "quiz": {
+        "question": "Must all five components occur for the exercise to work?",
+        "options": [
+          "Yes, in order",
+          "No; notice those that are actually present",
+          "Only if the emotion is strong"
+        ],
+        "answer": 1,
+        "explanation": "The recording explicitly says not all five components may be present."
+      },
+      "diagram": [
+        [
+          "Talking / imaging / confusion",
+          "thinking mind"
+        ],
+        [
+          "Local / global",
+          "feeling body"
+        ],
+        [
+          "Circulate",
+          "notice actual transitions"
+        ]
+      ],
+      "practice": "combined",
+      "stories": [
+        {
+          "title": "Rain falling on a pond",
+          "body": "A raindrop stands for a thought, its splash for a local impact, and ripples for a broad spread of sensation. The recording offers this as one possible rhythm, not a required chain.",
+          "sources": [
+            "shinzen-2-04"
+          ]
+        }
+      ],
+      "tag": "Learn & notice"
+    },
+    {
+      "id": "whole",
+      "title": "The whole mind–body practice",
+      "subtitle": "A more demanding extension that remains optional.",
+      "sources": [
+        "shinzen-2-05"
+      ],
+      "concepts": [
+        {
+          "title": "First the body",
+          "body": "The fourth practice starts by attending to movement in local or global bodily feelings: increasing, decreasing, spreading, shrinking or pressure in a direction."
+        },
+        {
+          "title": "Then the mind",
+          "body": "It next attends to increase and decrease in words, images and confusion. The emphasis shifts from the meaning of each thought to how it appears and changes."
+        },
+        {
+          "title": "Then both together",
+          "body": "The recording combines bodily and mental change in a wider field of attention. If this is too much, return to one simpler component or an earlier practice."
+        },
+        {
+          "title": "Stay oriented",
+          "body": "The original recording says to observe fear or disorientation if they arise. This app instead makes pausing and orienting outward readily available. A sense of transparency or energy is not a required achievement."
+        }
+      ],
+      "cheat": [
+        "Body movement → mind movement → both.",
+        "Expanding and contracting can overlap.",
+        "Return to an easier practice when helpful.",
+        "Stop without needing to reach a special state."
+      ],
+      "activity": "Use the whole-process practice only if the earlier exercises are workable. Notice whether attending to one channel or both is more manageable today.",
+      "quiz": {
+        "question": "What is a reasonable response when the combined field is too difficult?",
+        "options": [
+          "Push until you feel no self",
+          "Return to one channel or pause",
+          "Invent a feeling of flow"
+        ],
+        "answer": 1,
+        "explanation": "The series allows working with a preferred exercise, and this companion preserves a clear way to stop."
+      },
+      "diagram": [
+        [
+          "Body",
+          "notice change"
+        ],
+        [
+          "Mind",
+          "notice change"
+        ],
+        [
+          "Together",
+          "only if workable"
+        ]
+      ],
+      "practice": "whole",
+      "stories": [],
+      "tag": "Learn & notice"
+    },
+    {
+      "id": "goodwill",
+      "title": "An optional turn toward positive feeling",
+      "subtitle": "The final recording closes with friendliness and goodwill.",
+      "sources": [
+        "shinzen-2-05"
+      ],
+      "concepts": [
+        {
+          "title": "A conditional closing step",
+          "body": "After working with movement, the recording invites positive thoughts if the experience has become sufficiently workable. This is not an instruction to cover over an emotion with forced positivity."
+        },
+        {
+          "title": "Use an image that means something to you",
+          "body": "The source suggests friendliness, love, compassion, gratitude and forgiveness. You can choose a gentle image that evokes a quality you actually welcome, or skip the step."
+        },
+        {
+          "title": "Notice the feeling it evokes",
+          "body": "Observe any pleasant bodily quality and its extent. If nothing comes, that is an honest observation. Do not demand a full field of positive emotion."
+        },
+        {
+          "title": "Goodwill does not require contact",
+          "body": "The recording invites extending positive feeling toward difficult people and imagining future interactions. In this companion that is optional; forgiveness, reconciliation and exposure to someone are not requirements."
+        }
+      ],
+      "cheat": [
+        "Positive imagery is an optional closing invitation.",
+        "Choose a quality that feels honest.",
+        "Notice, do not force, a pleasant response.",
+        "Goodwill and practical boundaries can coexist."
+      ],
+      "activity": "If you want, bring to mind a simple moment of gratitude or friendliness. Notice any response. Write one kind, realistic next action without making a promise to reconcile.",
+      "quiz": {
+        "question": "If positive feeling does not arise, what should you do?",
+        "options": [
+          "Pretend it does",
+          "Report that honestly and finish or return to simple noticing",
+          "Keep going until it appears"
+        ],
+        "answer": 1,
+        "explanation": "The companion treats the closing invitation as optional and keeps observations honest."
+      },
+      "diagram": [
+        [
+          "Invite",
+          "a meaningful positive image"
+        ],
+        [
+          "Notice",
+          "any actual feeling"
+        ],
+        [
+          "Carry forward",
+          "a realistic kind action"
+        ]
+      ],
+      "practice": "whole",
+      "stories": [],
+      "tag": "Learn & notice"
+    },
+    {
+      "id": "daily",
+      "title": "Build a practice you can return to",
+      "subtitle": "Before, during or after a challenge—and on ordinary days.",
+      "sources": [
+        "shinzen-1-07",
+        "shinzen-2-01"
+      ],
+      "concepts": [
+        {
+          "title": "Choose the level that fits",
+          "body": "Young describes four graded exercises and explicitly says not to feel defeated if all four are not workable. A preferred exercise can become a regular practice."
+        },
+        {
+          "title": "Several occasions for use",
+          "body": "The recording suggests practicing during an emotion, before an anticipated challenge, or as a daily tune-up. Begin in a setting where you can give the exercise attention."
+        },
+        {
+          "title": "Alertness and relaxation",
+          "body": "The guided introduction permits sitting or lying down and emphasizes both brightness and repose. There is no requirement to use a particular posture if another is more workable."
+        },
+        {
+          "title": "From guided support to independent use",
+          "body": "The source encourages eventually learning the skills without depending on the recording. The app’s handoff can support review and reflection; it should not replace your own noticing or ordinary problem-solving."
+        }
+      ],
+      "cheat": [
+        "Use one workable exercise regularly.",
+        "Sit or lie down; stay comfortably alert.",
+        "A brief practice can be enough for today.",
+        "End with a practical next step and a question to revisit."
+      ],
+      "activity": "Choose one practice and a realistic occasion for using it. Record what you will observe and what would tell you to pause. Export a journal backup when you want to move devices.",
+      "quiz": {
+        "question": "Do you need to master all four exercises before benefiting from practice?",
+        "options": [
+          "Yes",
+          "The source says you may stay with one you like",
+          "Only the most advanced one matters"
+        ],
+        "answer": 1,
+        "explanation": "Track 1-07 explicitly permits choosing a preferred exercise."
+      },
+      "diagram": [
+        [
+          "Prepare",
+          "choose a manageable occasion"
+        ],
+        [
+          "Practice",
+          "one workable skill"
+        ],
+        [
+          "Reflect",
+          "notice + act + revisit"
+        ]
+      ],
+      "practice": "body",
+      "stories": [],
+      "tag": "Learn & notice"
+    }
+  ],
+  "practices": [
+    {
+      "id": "body",
+      "title": "1 · The feeling body",
+      "description": "Start with local and global impacts of feeling.",
+      "sources": [
+        "shinzen-2-02",
+        "shinzen-2-01",
+        "shinzen-1-04"
+      ],
+      "steps": [
+        {
+          "id": "settle",
+          "title": "Settle without forcing",
+          "prompt": "Find a comfortable seated or lying posture. Notice the body and any available repose.",
+          "next": "contact",
+          "setup": true,
+          "hint": "Aim for comfortable alertness. Eyes may remain open. Choose a manageable present experience; no difficult memory is required."
+        },
+        {
+          "id": "contact",
+          "title": "Contact bodily feeling",
+          "prompt": "Bring attention to any bodily sensations associated with what you feel now.",
+          "next": "qualities",
+          "hint": "Set aside figuring it out for this interval. If no emotional sensation is clear, notice an ordinary bodily sensation or pause."
+        },
+        {
+          "id": "qualities",
+          "title": "Notice qualities",
+          "prompt": "What qualities can you distinguish: pressure, warmth, shaking, hurt, or something unnamed?",
+          "next": "extent",
+          "hint": "You do not need the examples to occur. Notice what is actually here."
+        },
+        {
+          "id": "extent",
+          "title": "Local or global?",
+          "prompt": "Is the impact in a restricted area, broader through the body, or both?",
+          "next": "label",
+          "hint": "Notice shape, location and changing intensity without forcing a change."
+        },
+        {
+          "id": "label",
+          "title": "Use the label as a support",
+          "prompt": "Gently label local or global as appropriate, then allow the sensation to be there.",
+          "next": "continue",
+          "hint": "Use spoken labels if they help concentration, internal labels if sufficient, or direct awareness without words."
+        },
+        {
+          "id": "continue",
+          "title": "Stay with a workable rhythm",
+          "prompt": "At a new arising, notice its extent and allow it. When pulled into thought, gently return to feeling.",
+          "next": "reflect",
+          "choices": [
+            {
+              "label": "Continue a little longer",
+              "next": "label"
+            },
+            {
+              "label": "Finish & reflect",
+              "next": "reflect"
+            }
+          ],
+          "hint": "The recording contains long quiet periods. You set the pace here. There is no requirement to wait for the emotion to disappear."
+        }
+      ],
+      "coaching": "Follow the body exercise. Notice quality, location, shape and intensity. Use local/global labels gently. If thought pulls attention, return to bodily feeling. Permit spoken, internal or no labels. Do not require a memory or a particular emotion.",
+      "pacing": "Begin here. Stay with each cue as long as is workable.",
+      "note": "Self-paced adaptation of the recorded exercise. Optional writing and ChatGPT conversation are additions. The full source transcript retains the original wording and quiet-interval timestamps.",
+      "topicLabel": "A gentle intention or topic (optional)",
+      "beforeLabel": "What I notice before beginning"
+    },
+    {
+      "id": "mind",
+      "title": "2 · The thinking mind",
+      "description": "Observe talking, imaging and confusion.",
+      "sources": [
+        "shinzen-2-03",
+        "shinzen-2-01"
+      ],
+      "steps": [
+        {
+          "id": "settle",
+          "title": "Settle without forcing",
+          "prompt": "Find a comfortable seated or lying posture. Notice the body and any available repose.",
+          "next": "contact",
+          "setup": true,
+          "hint": "Aim for comfortable alertness. Eyes may remain open. Choose a manageable present experience; no difficult memory is required."
+        },
+        {
+          "id": "contact",
+          "title": "Let bodily feeling be in the background",
+          "prompt": "Bring attention to the thinking process for this interval.",
+          "next": "labels"
+        },
+        {
+          "id": "labels",
+          "title": "Talking, imaging, confusion",
+          "prompt": "What form does the next mental event take: inner words, a picture, or confusion?",
+          "next": "allow",
+          "hint": "Not every category needs to appear. If nothing is clear, acknowledge that without creating thought."
+        },
+        {
+          "id": "allow",
+          "title": "Allow the event",
+          "prompt": "Gently label the event. Notice that it may remain or go; temporarily rest from solving its meaning.",
+          "next": "return",
+          "hint": "Inner words can be heard as sound, images observed as appearances. You are not required to agree with their content."
+        },
+        {
+          "id": "return",
+          "title": "Return without criticism",
+          "prompt": "If you are pulled into the story, notice that and return to the form of the mental event.",
+          "next": "reflect",
+          "choices": [
+            {
+              "label": "Continue observing",
+              "next": "labels"
+            },
+            {
+              "label": "Finish & reflect",
+              "next": "reflect"
+            }
+          ],
+          "hint": "You can speak the label, use it internally, or drop it when direct awareness is workable."
+        }
+      ],
+      "coaching": "Let the body remain in the background. Observe mental events as talking, imaging or confusion. Label gently; allow them to stay or go. Return from content to form without criticism. Defer problem-solving only during the practice interval.",
+      "pacing": "Try after the body practice, or use it on its own if it suits you.",
+      "note": "Self-paced adaptation of the recorded exercise. Optional writing and ChatGPT conversation are additions. The full source transcript retains the original wording and quiet-interval timestamps.",
+      "topicLabel": "A gentle intention or topic (optional)",
+      "beforeLabel": "What I notice before beginning"
+    },
+    {
+      "id": "combined",
+      "title": "3 · Thoughts and feelings",
+      "description": "Let attention circulate among five components.",
+      "sources": [
+        "shinzen-2-04",
+        "shinzen-2-01"
+      ],
+      "steps": [
+        {
+          "id": "settle",
+          "title": "Settle without forcing",
+          "prompt": "Find a comfortable seated or lying posture. Notice the body and any available repose.",
+          "next": "contact",
+          "setup": true,
+          "hint": "Aim for comfortable alertness. Eyes may remain open. Choose a manageable present experience; no difficult memory is required."
+        },
+        {
+          "id": "contact",
+          "title": "Recall the five components",
+          "prompt": "Talking, imaging and confusion in the mind; local and global impacts in the body.",
+          "next": "notice",
+          "hint": "These labels describe this recording’s framework, not a requirement that all five occur."
+        },
+        {
+          "id": "notice",
+          "title": "Notice the next arising",
+          "prompt": "Which component or components are present now?",
+          "next": "allow",
+          "hint": "Allow attention to circulate between body and mind. Use your own actual experience."
+        },
+        {
+          "id": "allow",
+          "title": "Attend and allow",
+          "prompt": "Give the current event a few moments of awareness and gentle acceptance, then be available for the next one.",
+          "next": "rhythm"
+        },
+        {
+          "id": "rhythm",
+          "title": "Follow the actual rhythm",
+          "prompt": "Notice how the next thought or feeling arrives. Does it stay in one channel or move between them?",
+          "next": "reflect",
+          "choices": [
+            {
+              "label": "Continue with another arising",
+              "next": "notice"
+            },
+            {
+              "label": "Finish & reflect",
+              "next": "reflect"
+            }
+          ],
+          "hint": "The pond metaphor is illustrative. Your sequence does not need to follow thought → local → global."
+        }
+      ],
+      "coaching": "Observe talking, imaging, confusion, local and global. Not all must occur. At each new arising notice the component, infuse gentle awareness and allowing, then be ready for the next. Do not force the pond-metaphor sequence.",
+      "pacing": "More complex: use the body or mind practice separately whenever helpful.",
+      "note": "Self-paced adaptation of the recorded exercise. Optional writing and ChatGPT conversation are additions. The full source transcript retains the original wording and quiet-interval timestamps.",
+      "topicLabel": "A gentle intention or topic (optional)",
+      "beforeLabel": "What I notice before beginning"
+    },
+    {
+      "id": "whole",
+      "title": "4 · The whole mind–body process",
+      "description": "Notice movement in body and mind, with an optional goodwill close.",
+      "sources": [
+        "shinzen-2-05",
+        "shinzen-2-01"
+      ],
+      "steps": [
+        {
+          "id": "settle",
+          "title": "Settle without forcing",
+          "prompt": "Find a comfortable seated or lying posture. Notice the body and any available repose.",
+          "next": "contact",
+          "setup": true,
+          "hint": "Aim for comfortable alertness. Eyes may remain open. Choose a manageable present experience; no difficult memory is required."
+        },
+        {
+          "id": "contact",
+          "title": "Movement in the body",
+          "prompt": "Notice any increase, decrease, spreading, shrinking or directional pressure in bodily feeling.",
+          "next": "bodyMove",
+          "hint": "If nothing moves, report stability. You do not have to intensify discomfort."
+        },
+        {
+          "id": "bodyMove",
+          "title": "Expanding and contracting",
+          "prompt": "Use expanding for increase, spreading or outward movement; contracting for decrease, shrinking or inward movement.",
+          "next": "mindMove",
+          "hint": "Both may occur together. If labeling is too busy, use direct awareness or pause."
+        },
+        {
+          "id": "mindMove",
+          "title": "Movement in the thinking process",
+          "prompt": "Notice whether inner words, images or confusion get louder, quieter, faster, slower, broader or less prominent.",
+          "next": "together",
+          "hint": "Temporarily emphasize how the event changes rather than solving its meaning."
+        },
+        {
+          "id": "together",
+          "title": "Include both channels if workable",
+          "prompt": "Notice change in feeling and thinking together, without requiring a special state.",
+          "next": "choice",
+          "hint": "If this is too much, return to the body or pause and orient to the room.",
+          "choices": [
+            {
+              "label": "Continue to closing options",
+              "next": "choice"
+            },
+            {
+              "label": "Return to body only",
+              "next": "bodyMove"
+            },
+            {
+              "label": "Finish & reflect",
+              "next": "reflect"
+            }
+          ]
+        },
+        {
+          "id": "choice",
+          "title": "Choose your close",
+          "prompt": "Would you like to finish here, or try the recording’s optional positive-feeling invitation?",
+          "next": "positive",
+          "choices": [
+            {
+              "label": "Finish & reflect",
+              "next": "reflect"
+            },
+            {
+              "label": "Try the optional invitation",
+              "next": "positive"
+            }
+          ]
+        },
+        {
+          "id": "positive",
+          "title": "Invite a positive quality",
+          "prompt": "If you want, bring to mind something that evokes friendliness, compassion or gratitude. Notice any actual response.",
+          "next": "goodwill",
+          "hint": "Nothing needs to appear. This is not a requirement to forgive, erase anger or feel differently."
+        },
+        {
+          "id": "goodwill",
+          "title": "Carry something useful forward",
+          "prompt": "If it feels appropriate, allow that quality to extend beyond yourself. Then choose a realistic way to return to the day.",
+          "next": "reflect",
+          "hint": "You may skip imagining difficult people. Goodwill does not require contact, reconciliation or giving up a boundary."
+        }
+      ],
+      "coaching": "Attend to expansion/contraction in body, then mind, then both if workable. Stability or uncertainty are valid observations. Never force intensity, disorientation or a no-self state. Positive imagery and extending goodwill are optional closing steps. Keep real-world boundaries intact.",
+      "pacing": "The most demanding recording. Earlier practices remain complete options.",
+      "note": "Self-paced adaptation of the recorded exercise. Optional writing and ChatGPT conversation are additions. The full source transcript retains the original wording and quiet-interval timestamps.",
+      "topicLabel": "A gentle intention or topic (optional)",
+      "beforeLabel": "What I notice before beginning"
+    }
+  ]
+}
